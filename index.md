@@ -6,13 +6,23 @@ To add.
 
 ## Education Background
 
-- 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph. D. Supervisor: Prof. Keqing He
+- 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. Keqing He
 - 2001/09 ~ 2004/06, Computer Application, Wuhan University of Science and Technology, M.S. Supervisor: Prof. Jianxun Chen
 - 1997/09 ~ 2001/06, Computer Science and Technology, Wuhan University of Science and Technology
 
 ## Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 2012/07 ~ 2012/09, Visiting Scholar, Department of Electrical and Computer Engineering, Lehigh University
+- 2010/12 ~ present, Associate Professor, School of Computer Science, Wuhan University
+- 2008/08 ~ 2012/01, Postdoc Fellow, Institute of China Electronic System Engineering Corporation, Supervisor: Prof. Deyi Li
+- 2007/12 ~ 2010/11, Lecturer, State Key Laboratory of Software Engineering, Wuhan University
+- 2007/07 ~ 2007/11, Research Associate, State Key Laboratory of Software Engineering, Wuhan University
+
+## Research Funds
+
+1. Natural Science Foundation of China under Grant No. 61972292, 2020/01 ~ 2023/12, PI
+2. 
+
 
 ```markdown
 Syntax highlighted code block

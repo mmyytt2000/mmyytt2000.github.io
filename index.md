@@ -1,10 +1,12 @@
 # Welcome to Dr. Yutao Ma's Homepage
 
-## Brief Bio
+## Latest News
 
 To add.
 
-## Latest News
+-----
+
+## Brief Bio
 
 To add.
 
@@ -49,7 +51,9 @@ I have received a few notable international and domestic awards or prizes, inclu
 
 ## Academic Services
 
-### Membership
+### Professional Membership
+
+- China Computer Federation (CCF):
 
 ```markdown
 Syntax highlighted code block

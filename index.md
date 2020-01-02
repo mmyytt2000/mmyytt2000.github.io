@@ -60,8 +60,8 @@ I have received a few notable international and domestic awards or prizes, inclu
 ### Technical Committee Membership
 
 - Member of the Standing committee of the CCF Technical Committee on Services Computing
-- Member of the IEEE Technical Committee on Services Computing
-- Member of the IEEE Technical Committee on Software Engineering
+- Member of the IEEE Computer Society Technical Committee on Services Computing
+- Member of the IEEE Computer Society Technical Council on Software Engineering
 - Member of the CAAI Technical Committee on Artificial Intelligence with Uncertainty
 
 ### 
@@ -86,10 +86,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Contact Information
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmyytt2000/ytma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Mail:** Room E312, School of Computer Science, Wuhan University, Wuhan 430072, Hubei Province, China
+**Tel.:** +86-27-6877-6081
+**E-mail:** ytma AT whu DOT edu DOT cn

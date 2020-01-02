@@ -4,8 +4,6 @@
 
 To add.
 
------
-
 ## Brief Bio
 
 To add.
@@ -53,7 +51,15 @@ I have received a few notable international and domestic awards or prizes, inclu
 
 ### Professional Membership
 
-- China Computer Federation (CCF):
+- Senior member of the China Computer Federation (CCF) 
+- Member of the IEEE, IEEE Computer Society, and IEEE Engineering in Medicine and Biology Society
+- Member of the Chinese Association for Artificial Intelligence (CAAI)
+- Member of the Services Society
+
+### Technical Committee Membership
+
+- Member of the Standing committee of the CCF Technical Committee on Services Computing
+- 
 
 ```markdown
 Syntax highlighted code block

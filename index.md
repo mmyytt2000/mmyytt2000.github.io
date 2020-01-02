@@ -20,8 +20,14 @@ To add.
 
 ## Research Funds
 
-1. Natural Science Foundation of China under Grant No. 61972292, 2020/01 ~ 2023/12, PI
-2. 
+My research has been supported by the National Basic Research Program of China (973 Program), the Natural Science Foundation of China (NSFC), and many other research funds. Selected research funds include:
+
+1. NSFC under Grant No. 61972292, 2020/01 ~ 2023/12, PI
+2. 973 Program under Grant No. 2014CB340400, 2014/01~2018/12, Sub-project PI
+3. NSFC under Grant No. 61272111, 2013/01 ~ 2016/12, PI
+4. NSFC under Grant No. 61003073, 2011/01 ~ 2011/12, PI
+5. China Postdoctoral Science Foundation under Grant No. 201003794, 2011/01 ~ 2011.12, PI
+6. China Postdoctoral Science Foundation under Grant No. 20090460107, 2010/01 ~ 2011/12, PI
 
 
 ```markdown

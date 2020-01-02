@@ -37,13 +37,13 @@ My research has been supported by the National Basic Research Program of China (
 
 I have received a few notable international and domestic awards or prizes, including
 
-- First Prize of Invention and Entrepreneurship, China Association of Inventions, 3rd Contributor, 2018
+- First Prize of Invention and Entrepreneurship, 3rd Contributor, China Association of Inventions, 2018
 - Best Paper Award, International Conference on Software Engineering and Knowledge Engineering, 2016
-- First Prize of Scientific and Technological Progress, Hubei Province, 2nd Contributor, 2015
-- First Prize of Scientific and Technological Progress, China Computer Federation, 6th Contributor, 2014
-- First Prize of Scientific and Technological Progress, Hubei Province, 4th Contributor, 2011
-- Second Prize of State Scientific and Technological Progress, P.R. China, 9th Contributor, 2009
-- First Prize of Scientific and Technological Progress, Hubei Province, 6th Contributor, 2008
+- First Prize of Scientific and Technological Progress, 2nd Contributor, Hubei Province, 2015
+- First Prize of Scientific and Technological Progress, 6th Contributor, China Computer Federation, 2014
+- First Prize of Scientific and Technological Progress, 4th Contributor, Hubei Province, 2011
+- Second Prize of State Scientific and Technological Progress, 9th Contributor, P.R. China, 2009
+- First Prize of Scientific and Technological Progress, 6th Contributor, Hubei Province, 2008
 - Best Paper Award, IEEE International Conference on Computer and Information Technology, 2006
 - Outstanding Master Dissertation Award, Hubei Province, 2005
 
@@ -59,7 +59,7 @@ I have received a few notable international and domestic awards or prizes, inclu
 ### Technical Committee Membership
 
 - Member of the Standing committee of the CCF Technical Committee on Services Computing
-- 
+
 
 ```markdown
 Syntax highlighted code block

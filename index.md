@@ -32,6 +32,7 @@ My research has been supported by the National Basic Research Program of China (
 - NSFC under Grant No. 61003073, 2011/01 ~ 2011/12, PI
 - China Postdoctoral Science Foundation under Grant No. 201003794, 2011/01 ~ 2011.12, PI
 - China Postdoctoral Science Foundation under Grant No. 20090460107, 2010/01 ~ 2011/12, PI
+- 973 Program under Grant No. 2007CB310800, 2007/07~2011/08, CI (PI: Prof. Deyi Li)
 
 ## Awards
 
@@ -59,7 +60,11 @@ I have received a few notable international and domestic awards or prizes, inclu
 ### Technical Committee Membership
 
 - Member of the Standing committee of the CCF Technical Committee on Services Computing
+- Member of the IEEE Technical Committee on Services Computing
+- Member of the IEEE Technical Committee on Software Engineering
+- Member of the CAAI Technical Committee on Artificial Intelligence with Uncertainty
 
+### 
 
 ```markdown
 Syntax highlighted code block

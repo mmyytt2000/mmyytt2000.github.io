@@ -8,6 +8,12 @@ To add.
 
 To add.
 
+## Contact Information
+
+**Mail:** Room E312, School of Computer Science, Wuhan University, Wuhan 430072, Hubei Province, China  
+**Tel.:** +86-27-6877-6081  
+**E-mail:** ytma AT whu DOT edu DOT cn  
+
 ## Education Background
 
 - 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. Keqing He
@@ -22,7 +28,7 @@ To add.
 - 2007/12 ~ 2010/11, Lecturer, State Key Laboratory of Software Engineering, Wuhan University
 - 2007/07 ~ 2007/11, Research Associate, State Key Laboratory of Software Engineering, Wuhan University
 
-## Research Funds
+## Research Fund
 
 My research has been supported by the National Basic Research Program of China (973 Program), the Natural Science Foundation of China (NSFC), and many other research funds. Selected national funds include:
 
@@ -34,7 +40,7 @@ My research has been supported by the National Basic Research Program of China (
 - China Postdoctoral Science Foundation under Grant No. 20090460107, 2010/01 ~ 2011/12, PI
 - 973 Program under Grant No. 2007CB310800, 2007/07~2011/08, CI (PI: Prof. Deyi Li)
 
-## Awards
+## Award
 
 I have received a few notable international and domestic awards or prizes, including
 
@@ -62,9 +68,14 @@ I have received a few notable international and domestic awards or prizes, inclu
 - Member of the Standing committee of the CCF Technical Committee on Services Computing
 - Member of the IEEE Computer Society Technical Committee on Services Computing
 - Member of the IEEE Computer Society Technical Council on Software Engineering
+- Member of the IEEE Computer Society Technical Committee on Cloud Computing
 - Member of the CAAI Technical Committee on Artificial Intelligence with Uncertainty
 
-### 
+### Journal Services
+
+- Associate Editor of [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) (IJWSR), 2019/12 ~ present
+- Editorial Board Member of [CCF TechNews](https://www.ccf.org.cn/dl/technews), 2011/08 ~ 2016/08
+- Guest Editor: [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) Special Issue on "[Cloud Services Meet Big Data](https://ieeexplore.ieee.org/document/8425802/)" (2018, vol. 11, no. 4), 
 
 ```markdown
 Syntax highlighted code block
@@ -85,9 +96,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Contact Information
-
-**Mail:** Room E312, School of Computer Science, Wuhan University, Wuhan 430072, Hubei Province, China
-**Tel.:** +86-27-6877-6081
-**E-mail:** ytma AT whu DOT edu DOT cn

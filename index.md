@@ -108,9 +108,14 @@ My research has been supported by the National Basic Research Program of China (
 2018, 142: 73-91.
 - Jian Wang, Panpan Gao, **Yutao Ma***, Keqing He, and Patrick Hung. [A Web Service Discovery Approach Based on Common Topic Groups Extraction](https://ieeexplore.ieee.org/abstract/document/7939969). _IEEE Access_, 2017, 5: 10193-10208. ([Conference Version](https://link.springer.com/chapter/10.1007/978-3-319-26979-5_7))
 - Neng Zhang, Jian Wang*, and **Yutao Ma**. [Mining Domain Knowledge on Service Goals From Textual Service Descriptions](https://ieeexplore.ieee.org/abstract/document/7896653). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2017.2693147, 2017.
-- Wei Xiong, Bing Li*, Xiaohui Cui, **Yutao Ma**, Rong Yang, and Peng He. [A Learning Approach to the Prediction of Reliability Ranking for Web Services](https://ieeexplore.ieee.org/abstract/document/7195566). In _Proceedings of the 2015 IEEE International Conference on Web Services (ICWS 2015)_, pp. 169-176, 2015.
+- Wei Xiong, Bing Li*, Xiaohui Cui, **Yutao Ma**, Rong Yang, and Peng He. [A Learning Approach to the Prediction of Reliability Ranking for Web Services](https://ieeexplore.ieee.org/abstract/document/7195566). In _Proceedings of the 2015 IEEE International Conference on Web Services (IEEE ICWS 2015)_, pp. 169-176, 2015.
+- Mingming Chen, **Yutao Ma***, Bo Hu, and Liang-Jie Zhang. [A Ranking-oriented Hybrid Approach to QoS-aware Web Service Recommendation](https://ieeexplore.ieee.org/abstract/document/7207402). In _Proceedings of the 2015 IEEE International Conference on Services Computing (IEEE SCC 2015)_, pp. 578-585, 2015. ([arXiv Version](https://arxiv.org/abs/1501.04298))
 
-### 
+### Service-based System Development and Domain-specific Applications
+
+- Liwei Huang, **Yutao Ma***, Shibo Wang, and Yanbo Liu. [An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation](https://ieeexplore.ieee.org/abstract/document/8723186). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2019.2918310, 2019. ([Code](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation))
+- Tao Xu, **Yutao Ma***, and Qian Wang. [Cross-Urban Point-of-Interest Recommendation for Non-Natives](https://www.igi-global.com/article/cross-urban-point-of-interest-recommendation-for-non-natives/205612). _International Journal of Web Services Research_, 2018, 15(3): 82-102.
+- 
 
 ```markdown
 Syntax highlighted code block

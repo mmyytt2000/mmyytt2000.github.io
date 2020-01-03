@@ -14,11 +14,6 @@ To add.
 **Tel.:** +86-27-6877-6081  
 **E-mail:** ytma AT whu DOT edu DOT cn  
 
-[EB]: ##EducationBackground
-[Education Background][EB]  
-[SP]: ##SelectedPublications
-[Selected Publications][SP]
-
 ## Education Background
 
 - 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. Keqing He
@@ -32,18 +27,6 @@ To add.
 - 2008/08 ~ 2012/01, Postdoc Fellow, Institute of China Electronic System Engineering Corporation, Supervisor: Prof. Deyi Li
 - 2007/12 ~ 2010/11, Lecturer, State Key Laboratory of Software Engineering, Wuhan University
 - 2007/07 ~ 2007/11, Research Associate, State Key Laboratory of Software Engineering, Wuhan University
-
-## Research Fund
-
-My research has been supported by the National Basic Research Program of China (973 Program), the Natural Science Foundation of China (NSFC), and many other research funds. Selected national funds include:
-
-- NSFC under Grant No. 61972292, 2020/01 ~ 2023/12, PI
-- 973 Program under Grant No. 2014CB340400, 2014/01~2018/12, Sub-project PI
-- NSFC under Grant No. 61272111, 2013/01 ~ 2016/12, PI
-- NSFC under Grant No. 61003073, 2011/01 ~ 2011/12, PI
-- China Postdoctoral Science Foundation under Grant No. 201003794, 2011/01 ~ 2011.12, PI
-- China Postdoctoral Science Foundation under Grant No. 20090460107, 2010/01 ~ 2011/12, PI
-- 973 Program under Grant No. 2007CB310800, 2007/07~2011/08, CI (PI: Prof. Deyi Li)
 
 ## Award
 
@@ -91,9 +74,25 @@ I have received a few notable international and domestic awards or prizes, inclu
 - Publication Chair: [APSCC 2014](https://ieeexplore.ieee.org/document/7175484), CCF NCSC 2015， [S2 ICIOT 2016](http://iciot.org/2016/)
 - Publicity Co-Chair: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html)
 
+## Research Fund
+
+My research has been supported by the National Basic Research Program of China (973 Program), the Natural Science Foundation of China (NSFC), and many other research funds. Selected national funds include:
+
+- NSFC under Grant No. 61972292, 2020/01 ~ 2023/12, PI
+- 973 Program under Grant No. 2014CB340400, 2014/01~2018/12, Sub-project PI
+- NSFC under Grant No. 61272111, 2013/01 ~ 2016/12, PI
+- NSFC under Grant No. 61003073, 2011/01 ~ 2011/12, PI
+- China Postdoctoral Science Foundation under Grant No. 201003794, 2011/01 ~ 2011.12, PI
+- China Postdoctoral Science Foundation under Grant No. 20090460107, 2010/01 ~ 2011/12, PI
+- 973 Program under Grant No. 2007CB310800, 2007/07~2011/08, CI (PI: Prof. Deyi Li)
+
 ## Selected Publications
 
+\# denotes who contributed equally to the work and \* denotes the corresponding author. 
+
 ### Biomedical Imaging and AI-based Applications
+
+- Hao Sun#, Xianxu Zeng#, Tao Xu, Gang Peng, and **Yutao Ma***. [Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms](https://ieeexplore.ieee.org/document/8854180). _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2019.2944977, 2019.
 
 ```markdown
 Syntax highlighted code block

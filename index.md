@@ -120,7 +120,10 @@ My research has been supported by the National Basic Research Program of China (
 - Bo Hu, **Yutao Ma***, Liang-Jie Zhang, Chunxiao Xing, Jun Zou, and Ping Xu. [A CCRA based Mass Customization Development for Cloud Services](https://ieeexplore.ieee.org/abstract/document/6649760). In _Proceedings of the 2013 IEEE International Conference on Services Computing (IEEE SCC 2013)_, pp. 705-712, 2013.
 - **马于涛**, 张海粟, 刘玉超, 陈桂生. [一种Web服务综合描述模型](http://jeit.ie.ac.cn/article/doi/10.3724/SP.J.1146.2011.00784). 电子与信息学报, 2012, 34(3): 549-556.
 
-### 
+### Bug Prediction and Triaging
+
+- Feng Wang, Jinxiao Huang, and **Yutao Ma***. [A Top-k Learning to Rank Approach to Cross-Project Software Defect Prediction](https://ieeexplore.ieee.org/document/8719520). In _Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018)_, pp. 335-344, 2018. ([Dataset](https://github.com/ssea-lab/PROMISE))
+- 
 
 ```markdown
 Syntax highlighted code block

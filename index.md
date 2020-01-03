@@ -92,9 +92,11 @@ My research has been supported by the National Basic Research Program of China (
 
 ### Biomedical Imaging and AI-based Applications
 
-- Hao Sun#, Xianxu Zeng#, Tao Xu, Gang Peng, and **Yutao Ma***. [Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms](https://ieeexplore.ieee.org/document/8854180). _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2019.2944977, 2019. **([Code](https://github.com/ssea-lab/DL4ETI))**
+- Hao Sun#, Xianxu Zeng#, Tao Xu, Gang Peng, and **Yutao Ma***. [Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms](https://ieeexplore.ieee.org/document/8854180). _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2019.2944977, 2019. ([Code](https://github.com/ssea-lab/DL4ETI))
 - **Yutao Ma#**, Tao Xu#, Xiaolei Huang, Xiaofang Wang, Canyu Li, Jason Jerwick, Yuan Ning, Xianxu Zeng, Baojin Wang, Yihong Wang, Zhan Zhang, Xiaoan Zhang, and Chao Zhou*. [Computer-Aided Diagnosis of Label-Free 3-D Optical Coherence Microscopy Images of Human Cervical Tissue](https://ieeexplore.ieee.org/document/8598821). _IEEE Transactions on Biomedical Engineering_, 2019, 66(9): 2447-2456.
--  Lian Duan, Xi Qin, Yuanhao He, Xialin Sang, Jinda Pan, Tao Xu, Jing Men, Rudolph E. Tanzi, Airong Li, **Yutao Ma**, and Chao Zhou*. [Segmentation of Drosophila heart in optical coherence microscopy images using convolutional neural networks](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201800146). _Journal of Biophotonics_, 2018, 11(12): e201800146. **([Back Cover Article](https://onlinelibrary.wiley.com/toc/18640648/2018/11/12))**
+-  Lian Duan, Xi Qin, Yuanhao He, Xialin Sang, Jinda Pan, Tao Xu, Jing Men, Rudolph E. Tanzi, Airong Li, **Yutao Ma**, and Chao Zhou*. [Segmentation of Drosophila heart in optical coherence microscopy images using convolutional neural networks](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201800146). _Journal of Biophotonics_, 2018, 11(12): e201800146. ([Back-Cover Article](https://onlinelibrary.wiley.com/toc/18640648/2018/11/12))
+- Xianxu Zeng#, Xiaoan Zhang#, Canyu Li, Xiaofang Wang, Jason Jerwick, Tao Xu, Yuan Ning, Yihong Wang, Linlin Zhang, Zhan Zhang, **Yutao Ma**, and Chao Zhou*. [Ultrahigh-resolution optical coherence microscopy accurately classifies precancerous and cancerous human cervix free of labeling](https://www.thno.org/v08p3099.htm). _Theranostics_, 2018, 8(11): 3099-3110. ([Front-Cover Article](https://www.thno.org/v8i11))
+- 
 
 
 ```markdown

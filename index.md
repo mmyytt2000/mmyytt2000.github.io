@@ -126,8 +126,15 @@ My research has been supported by the National Basic Research Program of China (
 - Hongrun Wu, Haiyang Liu, and **Yutao Ma***. [Empirical study on developer factors affecting tossing path length of bug reports](https://ieeexplore.ieee.org/abstract/document/8371790). _IET Software_, 2018, 12(3): 258-270. ([Project](https://github.com/ssea-lab/BugTriage))
 - Guoan You and **Yutao Ma***. [A Ranking-Oriented Approach to Cross-Project Software Defect Prediction: An Empirical Study](http://ksiresearchorg.ipage.com/seke/seke16paper/seke16paper_47.pdf). In _Proceedings of the 28th International Conference on Software Engineering and Knowledge Engineering (SEKE 2016)_, pp. 159-164. (**Best Paper Award**, [Journal Version](https://www.worldscientific.com/doi/abs/10.1142/S0218194016400155))
 - Peng He, Bing Li, Xiao Liu, Jun Chen, and **Yutao Ma***. [An Empirical Study on Software Defect Prediction with a Simplified Metric Set](https://www.sciencedirect.com/science/article/pii/S0950584914002523). _Information and Software Technology_, 2015, 59: 170–190.
-- Mingming Chen and **Yutao Ma***. [An empirical study on predicting defect numbers](http://ksiresearchorg.ipage.com/seke/seke15paper/seke15paper_132.pdf). In Proceedings of the 27th International Conference on Software Engineering and Knowledge Engineering (SEKE 2015), pp. 397-402, 2015.
-- 
+- Mingming Chen and **Yutao Ma***. [An empirical study on predicting defect numbers](http://ksiresearchorg.ipage.com/seke/seke15paper/seke15paper_132.pdf). In _Proceedings of the 27th International Conference on Software Engineering and Knowledge Engineering (SEKE 2015)_, pp. 397-402, 2015.
+- Peng He, Bing Li, and **Yutao Ma**. [Towards Cross-Project Defect Prediction with Imbalanced Feature Sets](https://arxiv.org/abs/1411.4228). _Computing Research Repository (CoRR)_, arXiv: 1411.4228, 2014.
+
+### Software Analysis based on Complex Networks
+
+- 何克清, **马于涛**, 刘婧, 李兵, 彭蓉. 软件网络. 北京: 科学出版社, 2008.
+- **Yutao Ma**, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/abstract/document/4019967). In _Proceedings of the 6th IEEE International Conference on Computer and Information Technology (IEEE CIT 2006)_, p. 189, 2006. (**Best Paper Award**, [Journal Version](https://link.springer.com/article/10.1007/s11390-010-9398-x))
+- Jing Liu*, Keqing He, **Yutao Ma**, and Rong Peng. [Scale Free in Software Metrics](https://ieeexplore.ieee.org/abstract/document/4020082). In _Proceedings of the 30th Annual International Computer Software and Applications Conference (COMPSAC 2006)_, pp. 229-235, 2006.
+- **Yutao Ma**, Keqing He, and Dehui Du. [A qualitative method for measuring the structural complexity of software systems based on complex networks](https://ieeexplore.ieee.org/abstract/document/1607160). In _Proceedings of the 12th Asia-Pacific Software Engineering Conference (APSEC 2005)_, pp. 257-263, 2005.
 
 ```markdown
 Syntax highlighted code block

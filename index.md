@@ -125,7 +125,9 @@ My research has been supported by the National Basic Research Program of China (
 - Feng Wang, Jinxiao Huang, and **Yutao Ma***. [A Top-k Learning to Rank Approach to Cross-Project Software Defect Prediction](https://ieeexplore.ieee.org/document/8719520). In _Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018)_, pp. 335-344, 2018. ([Dataset](https://github.com/ssea-lab/PROMISE))
 - Hongrun Wu, Haiyang Liu, and **Yutao Ma***. [Empirical study on developer factors affecting tossing path length of bug reports](https://ieeexplore.ieee.org/abstract/document/8371790). _IET Software_, 2018, 12(3): 258-270. ([Project](https://github.com/ssea-lab/BugTriage))
 - Guoan You and **Yutao Ma***. [A Ranking-Oriented Approach to Cross-Project Software Defect Prediction: An Empirical Study](http://ksiresearchorg.ipage.com/seke/seke16paper/seke16paper_47.pdf). In _Proceedings of the 28th International Conference on Software Engineering and Knowledge Engineering (SEKE 2016)_, pp. 159-164. (**Best Paper Award**, [Journal Version](https://www.worldscientific.com/doi/abs/10.1142/S0218194016400155))
--  
+- Peng He, Bing Li, Xiao Liu, Jun Chen, and **Yutao Ma***. [An Empirical Study on Software Defect Prediction with a Simplified Metric Set](https://www.sciencedirect.com/science/article/pii/S0950584914002523). _Information and Software Technology_, 2015, 59: 170–190.
+- Mingming Chen and **Yutao Ma***. [An empirical study on predicting defect numbers](http://ksiresearchorg.ipage.com/seke/seke15paper/seke15paper_132.pdf). In Proceedings of the 27th International Conference on Software Engineering and Knowledge Engineering (SEKE 2015), pp. 397-402, 2015.
+- 
 
 ```markdown
 Syntax highlighted code block

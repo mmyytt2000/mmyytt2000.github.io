@@ -15,7 +15,7 @@ To add.
 **E-mail:** ytma AT whu DOT edu DOT cn  
 
 [EB]: ##EducationBackground
-[Education Background][EB]
+[Education Background][EB]  
 [SP]: ##SelectedPublications
 [Selected Publications][SP]
 

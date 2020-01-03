@@ -74,7 +74,7 @@ I have received a few notable international and domestic awards or prizes, inclu
 - Publication Chair: [APSCC 2014](https://ieeexplore.ieee.org/document/7175484), CCF NCSC 2015， [S2 ICIOT 2016](http://iciot.org/2016/)
 - Publicity Co-Chairs: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html)
 
-## Research Fund
+## Funding
 
 My research has been supported by the National Basic Research Program of China (973 Program), the Natural Science Foundation of China (NSFC), and many other research funds. Selected national funds include:
 
@@ -138,6 +138,7 @@ My research has been supported by the National Basic Research Program of China (
 - Weifeng Pan, Bing Li*, **Yutao Ma**, Jing Liu, and Yeyi Qin. [Class structure refactoring of object-oriented softwares using community detection in dependency networks](https://link.springer.com/article/10.1007/s11704-009-0054-y). _Frontiers of Computer Science in China_, 2009, 3(3): 396-404.
 - 李兵*, **马于涛**, 刘婧, 丁琦伟. [软件系统的复杂网络研究进展](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-093). 力学进展, 2008, 38(6): 805-814.
 - 何克清, **马于涛**, 刘婧, 李兵, 彭蓉. 软件网络. 北京: 科学出版社, 2008.
+  > [陈关荣](http://www.ee.cityu.edu.hk/~gchen/). [复杂网络及其新近研究进展简介](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-079). 力学进展, 2008, 38(6): 653-662. 
 - **Yutao Ma**, Keqing He, and Jing Liu. [Network motifs in object-oriented software systems](https://arxiv.org/abs/0808.3292). _Dynamics of Continuous, Discrete and Impulsive Systems (Series B: Applications & Algorithms)_, 2007, 14(S6): 166-172.
 - **Yutao Ma**, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/abstract/document/4019967). In _Proceedings of the 6th IEEE International Conference on Computer and Information Technology (IEEE CIT 2006)_, p. 189, 2006. (**Best Paper Award**, [Journal Version](https://link.springer.com/article/10.1007/s11390-010-9398-x))
 - **Yutao Ma**, Keqing He, and Dehui Du. [A qualitative method for measuring the structural complexity of software systems based on complex networks](https://ieeexplore.ieee.org/abstract/document/1607160). In _Proceedings of the 12th Asia-Pacific Software Engineering Conference (APSEC 2005)_, pp. 257-263, 2005.

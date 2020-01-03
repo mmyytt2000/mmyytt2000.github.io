@@ -16,6 +16,8 @@ To add.
 
 [EB]: ##EducationBackground
 [Education Background][EB]
+[SP]: ##SelectedPublications
+[Selected Publications][SP]
 
 ## Education Background
 

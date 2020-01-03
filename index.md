@@ -102,12 +102,15 @@ My research has been supported by the National Basic Research Program of China (
 ### Service Discovery and Recommendation
 
 - **Yutao Ma**, Xiao Geng, and Jian Wang*. A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation. _IEEE Transactions on Engineering Management_, DOI: 10.1109/TEM.2019.2961376, 2020. ([Code](https://github.com/ssea-lab/MISR))
+- 何鹏, 吴浩, 曾诚, **马于涛***. [Truser：一种基于可信用户的服务推荐方法](http://cjc.ict.ac.cn/online/onlinepaper/hp-201941793217.pdf). 计算机学报, 2019, 42(4): 851-863.
 - Ruibin Xiong, Jian Wang*, Neng Zhang, and **Yutao Ma**. [Deep Hybrid Collaborative Filtering for Web Service Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417418303385). _Expert Systems with Applications_, 2018, 110: 191-205.
 - Neng Zhang, Jian Wang*, **Yutao Ma**, Keqing He, Zheng Li, and Xiaoqing Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). _Journal of Systems and Software_,
 2018, 142: 73-91.
 - Jian Wang, Panpan Gao, **Yutao Ma***, Keqing He, and Patrick Hung. [A Web Service Discovery Approach Based on Common Topic Groups Extraction](https://ieeexplore.ieee.org/abstract/document/7939969). _IEEE Access_, 2017, 5: 10193-10208. ([Conference Version](https://link.springer.com/chapter/10.1007/978-3-319-26979-5_7))
 - Neng Zhang, Jian Wang*, and **Yutao Ma**. [Mining Domain Knowledge on Service Goals From Textual Service Descriptions](https://ieeexplore.ieee.org/abstract/document/7896653). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2017.2693147, 2017.
+- Wei Xiong, Bing Li*, Xiaohui Cui, **Yutao Ma**, Rong Yang, and Peng He. [A Learning Approach to the Prediction of Reliability Ranking for Web Services](https://ieeexplore.ieee.org/abstract/document/7195566). In _Proceedings of the 2015 IEEE International Conference on Web Services (ICWS 2015)_, pp. 169-176, 2015.
 
+### 
 
 ```markdown
 Syntax highlighted code block

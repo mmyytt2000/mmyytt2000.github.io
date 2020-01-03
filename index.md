@@ -4,7 +4,7 @@
 
 To add.
 
-## Brief Bio
+## Brief Biography
 
 To add.
 
@@ -14,7 +14,7 @@ To add.
 **Tel.:** +86-27-6877-6081  
 **E-mail:** ytma AT whu DOT edu DOT cn  
 
-## Education Background
+## Education
 
 - 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. Keqing He
 - 2001/09 ~ 2004/06, Computer Application, Wuhan University of Science and Technology, M.S. Supervisor: Prof. Jianxun Chen
@@ -132,6 +132,7 @@ My research has been supported by the National Basic Research Program of China (
 ### Software Analysis based on Complex Networks
 
 - Weifeng Pan*, Bing Li, Jing Liu, **Yutao Ma**, and Bo Hu. [Analyzing the structure of Java software systems by weighted k-core decomposition](https://www.sciencedirect.com/science/article/pii/S0167739X17320940). _Future Generation Computer Systems_, 2018, 83: 431-444.
+  > Yixiu Kong, Guiyuan Shi, Ruijie Wu,_et al_. [_k_-core: Theories and applications](https://sciencedirect.xilesou.top/science/article/abs/pii/S037015731930328X). _[Physics Reports]_(https://sciencedirect.xilesou.top/journal/physics-reports), 2019, 832: 1-32.
 - Weifeng Pan, Bing Li*, **Yutao Ma**, and Jing Liu. [Multi-granularity evolution analysis of software using complex network theory](https://link.springer.com/article/10.1007/s11424-011-0319-z). _Journal of Systems Science and Complexity_, 2011, 24(6): 1068-1082.
    > - Yu Qu, Xiaohong Guan ([管晓宏院士](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=502)), Qinghua Zheng, _et al_. [Exploring community structure of software Call Graph and its applications in class cohesion measurement](https://sciencedirect.xilesou.top/science/article/pii/S0164121215001259). _Journal of Systems and Software_, 2015, 108: 193-210.
   > - An Zeng, Zhesi Shen, Jianlin Zhou, _et al_. [The science of science: From the perspective of complex systems](https://sciencedirect.xilesou.top/science/article/pii/S0370157317303289). _[Physics Reports](https://sciencedirect.xilesou.top/journal/physics-reports)_, 2017, 714–715: 1-73.

@@ -142,7 +142,7 @@ My research has been supported by the National Basic Research Program of China (
 - **Yutao Ma**, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/abstract/document/4019967). In _Proceedings of the 6th IEEE International Conference on Computer and Information Technology (IEEE CIT 2006)_, p. 189, 2006. (**Best Paper Award**, [Journal Version](https://link.springer.com/article/10.1007/s11390-010-9398-x))
 - **Yutao Ma**, Keqing He, and Dehui Du. [A qualitative method for measuring the structural complexity of software systems based on complex networks](https://ieeexplore.ieee.org/abstract/document/1607160). In _Proceedings of the 12th Asia-Pacific Software Engineering Conference (APSEC 2005)_, pp. 257-263, 2005.
 > - Luciano da Fontoura Costa, Osvaldo N. Oliveira Jr., Gonzalo Travieso, _et al_. [Analyzing and modeling real-world phenomena with complex networks: a survey of applications](https://www.tandfonline.com/doi/full/10.1080/00018732.2011.572452). _[Advances in Physics](https://www.tandfonline.com/toc/tadp20/current)_, 2011, 60(3): 329-412.
-
+> - Pamela Bhattacharya, Marios Iliofotou, Iulian Neamtiu, _et al_. [Graph-based analysis and prediction for software evolution](https://ieeexplore.ieee.org/document/6227173). In _Proceedings of the 34th ICSE_, pp. 419-429, 2012
 ## 
 
 ```markdown

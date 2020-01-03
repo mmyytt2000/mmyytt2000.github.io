@@ -131,10 +131,19 @@ My research has been supported by the National Basic Research Program of China (
 
 ### Software Analysis based on Complex Networks
 
+- Weifeng Pan*, Bing Li, Jing Liu, **Yutao Ma**, and Bo Hu. [Analyzing the structure of Java software systems by weighted
+-core decomposition](https://www.sciencedirect.com/science/article/pii/S0167739X17320940). _Future Generation Computer Systems_, 2018, 83: 431-444.
+- Weifeng Pan, Bing Li*, **Yutao Ma**, and Jing Liu. [Multi-granularity evolution analysis of software using complex network theory](https://link.springer.com/article/10.1007/s11424-011-0319-z). _Journal of Systems Science and Complexity_, 2011, 24(6): 1068-1082.
+- **马于涛***, 何克清, 李兵, 刘婧. [网络化软件的复杂网络特性实证](http://jos.org.cn/ch/reader/create_pdf.aspx?file_no=3934&journal_id=jos). 软件学报, 2011, 22(3): 381-407.
+- Weifeng Pan, Bing Li*, **Yutao Ma**, Yeyi Qin, and Xiaoyan Zhou. [Measuring structural quality of object-oriented softwares via bug propagation analysis on weighted software networks](https://link.springer.com/article/10.1007/s11390-010-9399-9). _Journal of Computer Science and Technology_, 2010, 25(6): 1202-1213.
+- Weifeng Pan, Bing Li*, **Yutao Ma**, Jing Liu, and Yeyi Qin. [Class structure refactoring of object-oriented softwares using community detection in dependency networks](https://link.springer.com/article/10.1007/s11704-009-0054-y). _Frontiers of Computer Science in China_, 2009, 3(3): 396-404.
+- 李兵*, **马于涛**, 刘婧, 丁琦伟. [软件系统的复杂网络研究进展](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-093). 力学进展, 2008, 38(6): 805-814.
 - 何克清, **马于涛**, 刘婧, 李兵, 彭蓉. 软件网络. 北京: 科学出版社, 2008.
+- **Yutao Ma**, Keqing He, and Jing Liu. [Network motifs in object-oriented software systems](https://arxiv.org/abs/0808.3292). _Dynamics of Continuous, Discrete and Impulsive Systems (Series B: Applications & Algorithms)_, 2007, 14(S6): 166-172.
 - **Yutao Ma**, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/abstract/document/4019967). In _Proceedings of the 6th IEEE International Conference on Computer and Information Technology (IEEE CIT 2006)_, p. 189, 2006. (**Best Paper Award**, [Journal Version](https://link.springer.com/article/10.1007/s11390-010-9398-x))
-- Jing Liu*, Keqing He, **Yutao Ma**, and Rong Peng. [Scale Free in Software Metrics](https://ieeexplore.ieee.org/abstract/document/4020082). In _Proceedings of the 30th Annual International Computer Software and Applications Conference (COMPSAC 2006)_, pp. 229-235, 2006.
 - **Yutao Ma**, Keqing He, and Dehui Du. [A qualitative method for measuring the structural complexity of software systems based on complex networks](https://ieeexplore.ieee.org/abstract/document/1607160). In _Proceedings of the 12th Asia-Pacific Software Engineering Conference (APSEC 2005)_, pp. 257-263, 2005.
+
+## 
 
 ```markdown
 Syntax highlighted code block
@@ -153,5 +162,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

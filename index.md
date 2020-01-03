@@ -14,6 +14,9 @@ To add.
 **Tel.:** +86-27-6877-6081  
 **E-mail:** ytma AT whu DOT edu DOT cn  
 
+[EB]: ##Education Background
+[Education Background][EB]
+
 ## Education Background
 
 - 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. Keqing He
@@ -85,6 +88,10 @@ I have received a few notable international and domestic awards or prizes, inclu
 - TPC Vice Chair of [SCC 2018](http://thescc.org/2018/organization.html)
 - Publication Chair: [APSCC 2014](https://ieeexplore.ieee.org/document/7175484), CCF NCSC 2015， [S2 ICIOT 2016](http://iciot.org/2016/)
 - Publicity Co-Chair: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html)
+
+## Selected Publications
+
+### Biomedical Imaging and AI-based Applications
 
 ```markdown
 Syntax highlighted code block

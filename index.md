@@ -88,7 +88,7 @@ My research has been supported by the National Basic Research Program of China (
 
 ## Selected Publications
 
-\# denotes who contributed equally to the work and \* denotes the corresponding author. 
+\# denotes who contributed equally to the work, and \* means the corresponding author. 
 
 ### Biomedical Imaging and AI-based Applications
 
@@ -97,7 +97,16 @@ My research has been supported by the National Basic Research Program of China (
 -  Lian Duan, Xi Qin, Yuanhao He, Xialin Sang, Jinda Pan, Tao Xu, Jing Men, Rudolph E. Tanzi, Airong Li, **Yutao Ma**, and Chao Zhou*. [Segmentation of _Drosophila_ heart in optical coherence microscopy images using convolutional neural networks](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201800146). _Journal of Biophotonics_, 2018, 11(12): e201800146. ([Back-Cover Article](https://onlinelibrary.wiley.com/toc/18640648/2018/11/12))
 - Xianxu Zeng#, Xiaoan Zhang#, Canyu Li, Xiaofang Wang, Jason Jerwick, Tao Xu, Yuan Ning, Yihong Wang, Linlin Zhang, Zhan Zhang, **Yutao Ma**, and Chao Zhou*. [Ultrahigh-resolution optical coherence microscopy accurately classifies precancerous and cancerous human cervix free of labeling](https://www.thno.org/v08p3099.htm). _Theranostics_, 2018, 8(11): 3099-3110. ([Front-Cover Article](https://www.thno.org/v8i11))
 - Jing Men, Jason Jerwick, Penghe Wu, Mingming Chen, Aneesh Alex, **Yutao Ma**, Rudolph E. Tanzi, Airong Li, and Chao Zhou*. [_Drosophila_ Preparation and Longitudinal Imaging of Heart Function _In Vivo_ Using Optical Coherence Microscopy (OCM)](https://www.jove.com/video/55002/drosophila-preparation-longitudinal-imaging-heart-function-vivo-using). _Journal of Visualized Experiments_, 2016, 118: e55002. 
-- Chao Zhou#, Aneesh Alex, Janarthanan Rasakanthan, and **Yutao Ma**. [Space-division multiplexing optical coherence tomography](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-16-19219). _Optics Express_, 2013, 21(16): 19219-19227.
+- Chao Zhou*, Aneesh Alex, Janarthanan Rasakanthan, and **Yutao Ma**. [Space-division multiplexing optical coherence tomography](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-16-19219). _Optics Express_, 2013, 21(16): 19219-19227.
+
+### Service Discovery and Recommendation
+
+- **Yutao Ma**, Xiao Geng, and Jian Wang*. A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation. _IEEE Transactions on Engineering Management_, DOI: 10.1109/TEM.2019.2961376, 2020. ([Code](https://github.com/ssea-lab/MISR))
+- Ruibin Xiong, Jian Wang*, Neng Zhang, and **Yutao Ma**. [Deep Hybrid Collaborative Filtering for Web Service Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417418303385). _Expert Systems with Applications_, 2018, 110: 191-205.
+- Neng Zhang, Jian Wang*, **Yutao Ma**, Keqing He, Zheng Li, and Xiaoqing Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). _Journal of Systems and Software_,
+2018, 142: 73-91.
+- Jian Wang, Panpan Gao, **Yutao Ma***, Keqing He, and Patrick Hung. [A Web Service Discovery Approach Based on Common Topic Groups Extraction](https://ieeexplore.ieee.org/abstract/document/7939969). _IEEE Access_, 2017, 5: 10193-10208. ([Conference Version](https://link.springer.com/chapter/10.1007/978-3-319-26979-5_7))
+- Neng Zhang, Jian Wang*, and **Yutao Ma**. [Mining Domain Knowledge on Service Goals From Textual Service Descriptions](https://ieeexplore.ieee.org/abstract/document/7896653). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2017.2693147, 2017.
 
 
 ```markdown

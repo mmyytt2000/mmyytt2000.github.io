@@ -14,7 +14,7 @@ To add.
 **Tel.:** +86-27-6877-6081  
 **E-mail:** ytma AT whu DOT edu DOT cn  
 
-[EB]: ##Education Background
+[EB]: ##EducationBackground
 [Education Background][EB]
 
 ## Education Background

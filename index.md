@@ -115,7 +115,12 @@ My research has been supported by the National Basic Research Program of China (
 
 - Liwei Huang, **Yutao Ma***, Shibo Wang, and Yanbo Liu. [An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation](https://ieeexplore.ieee.org/abstract/document/8723186). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2019.2918310, 2019. ([Code](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation))
 - Tao Xu, **Yutao Ma***, and Qian Wang. [Cross-Urban Point-of-Interest Recommendation for Non-Natives](https://www.igi-global.com/article/cross-urban-point-of-interest-recommendation-for-non-natives/205612). _International Journal of Web Services Research_, 2018, 15(3): 82-102.
-- 
+- Liwei Huang, **Yutao Ma***, Yanbo Liu, and Arun Kumar*. [Multi-modal Bayesian embedding for point-of-interest recommendation on location-based cyber-physical-social networks](https://www.sciencedirect.com/science/article/pii/S0167739X17310191). _Future Generation Computer Systems_, DOI: 10.1016/j.future.2017.12.020, 2017.
+- Liwei Huang, **Yutao Ma***, and Yanbo Liu. [Point-of-Interest Recommendation in Location-Based Social Networks with Personalized Geo-Social Influence](https://ieeexplore.ieee.org/abstract/document/7385525). _China Communications_, 2015, 12(12): 21-31.
+- Bo Hu, **Yutao Ma***, Liang-Jie Zhang, Chunxiao Xing, Jun Zou, and Ping Xu. [A CCRA based Mass Customization Development for Cloud Services](https://ieeexplore.ieee.org/abstract/document/6649760). In _Proceedings of the 2013 IEEE International Conference on Services Computing (IEEE SCC 2013)_, pp. 705-712, 2013.
+- **马于涛**, 张海粟, 刘玉超, 陈桂生. [一种Web服务综合描述模型](http://jeit.ie.ac.cn/article/doi/10.3724/SP.J.1146.2011.00784). 电子与信息学报, 2012, 34(3): 549-556.
+
+### 
 
 ```markdown
 Syntax highlighted code block

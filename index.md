@@ -75,11 +75,16 @@ I have received a few notable international and domestic awards or prizes, inclu
 
 - Associate Editor of [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) (IJWSR), 2019/12 ~ present
 - Editorial Board Member of [CCF TechNews](https://www.ccf.org.cn/dl/technews), 2011/08 ~ 2016/08
-- Guest Editor: 
+- Guest Co-Editors: 
   - [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) Special Issue on "[Cloud Services Meet Big Data](https://ieeexplore.ieee.org/document/8425802/)" (2018, vol. 11, no. 4)
   - [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) Special Issue on "[S2 ICIOT 2016](https://www.igi-global.com/pdf.aspx?tid%3D181296%26ptid%3D158210%26ctid%3D15%26t%3DSpecial%20Issue%20on%20S2%20ICIOT%202016&isxn=null)" (2017, vol. 14, no. 2)
 
 ### Conference Services
+
+- TPC Co-Chairs of [CollaborateCom 2016](http://archive.collaboratecom.org/2016/show/org-com) 
+- TPC Vice Chair of [SCC 2018](http://thescc.org/2018/organization.html)
+- Publication Chair: [APSCC 2014](https://ieeexplore.ieee.org/document/7175484), CCF NCSC 2015， [S2 ICIOT 2016](http://iciot.org/2016/)
+- Publicity Co-Chair: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html)
 
 ```markdown
 Syntax highlighted code block

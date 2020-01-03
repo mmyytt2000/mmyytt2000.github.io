@@ -131,8 +131,7 @@ My research has been supported by the National Basic Research Program of China (
 
 ### Software Analysis based on Complex Networks
 
-- Weifeng Pan*, Bing Li, Jing Liu, **Yutao Ma**, and Bo Hu. [Analyzing the structure of Java software systems by weighted
--core decomposition](https://www.sciencedirect.com/science/article/pii/S0167739X17320940). _Future Generation Computer Systems_, 2018, 83: 431-444.
+- Weifeng Pan*, Bing Li, Jing Liu, **Yutao Ma**, and Bo Hu. [Analyzing the structure of Java software systems by weighted k-core decomposition](https://www.sciencedirect.com/science/article/pii/S0167739X17320940). _Future Generation Computer Systems_, 2018, 83: 431-444.
 - Weifeng Pan, Bing Li*, **Yutao Ma**, and Jing Liu. [Multi-granularity evolution analysis of software using complex network theory](https://link.springer.com/article/10.1007/s11424-011-0319-z). _Journal of Systems Science and Complexity_, 2011, 24(6): 1068-1082.
 - **马于涛***, 何克清, 李兵, 刘婧. [网络化软件的复杂网络特性实证](http://jos.org.cn/ch/reader/create_pdf.aspx?file_no=3934&journal_id=jos). 软件学报, 2011, 22(3): 381-407.
 - Weifeng Pan, Bing Li*, **Yutao Ma**, Yeyi Qin, and Xiaoyan Zhou. [Measuring structural quality of object-oriented softwares via bug propagation analysis on weighted software networks](https://link.springer.com/article/10.1007/s11390-010-9399-9). _Journal of Computer Science and Technology_, 2010, 25(6): 1202-1213.
@@ -142,6 +141,7 @@ My research has been supported by the National Basic Research Program of China (
 - **Yutao Ma**, Keqing He, and Jing Liu. [Network motifs in object-oriented software systems](https://arxiv.org/abs/0808.3292). _Dynamics of Continuous, Discrete and Impulsive Systems (Series B: Applications & Algorithms)_, 2007, 14(S6): 166-172.
 - **Yutao Ma**, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/abstract/document/4019967). In _Proceedings of the 6th IEEE International Conference on Computer and Information Technology (IEEE CIT 2006)_, p. 189, 2006. (**Best Paper Award**, [Journal Version](https://link.springer.com/article/10.1007/s11390-010-9398-x))
 - **Yutao Ma**, Keqing He, and Dehui Du. [A qualitative method for measuring the structural complexity of software systems based on complex networks](https://ieeexplore.ieee.org/abstract/document/1607160). In _Proceedings of the 12th Asia-Pacific Software Engineering Conference (APSEC 2005)_, pp. 257-263, 2005.
+> - Luciano da Fontoura Costa, Osvaldo N. Oliveira Jr., Gonzalo Travieso, _et al_. [Analyzing and modeling real-world phenomena with complex networks: a survey of applications](https://www.tandfonline.com/doi/full/10.1080/00018732.2011.572452). _[Advances in Physics](https://www.tandfonline.com/toc/tadp20/current)_, 2011, 60(3): 329-412.
 
 ## 
 

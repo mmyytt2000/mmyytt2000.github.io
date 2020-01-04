@@ -12,35 +12,18 @@ To add.
 
 **Mail:** Room E312, School of Computer Science, Wuhan University, Wuhan 430072, Hubei Province, China  
 **Tel.:** +86-27-6877-6081  
-**E-mail:** ytma AT whu DOT edu DOT cn  
+**E-mail:** ytma@whu.edu.cn  
 
-## Education
+## Education and Work Experience
 
-- 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. Keqing He
-- 2001/09 ~ 2004/06, Computer Application, Wuhan University of Science and Technology, M.S. Supervisor: Prof. Jianxun Chen
-- 1997/09 ~ 2001/06, Computer Science and Technology, Wuhan University of Science and Technology
-
-## Work Experience
-
-- 2012/07 ~ 2012/09, Visiting Scholar, Department of Electrical and Computer Engineering, Lehigh University
 - 2010/12 ~ present, Associate Professor, School of Computer Science, Wuhan University
+- 2012/07 ~ 2012/09, Visiting Scholar, Department of Electrical and Computer Engineering, Lehigh University
 - 2008/08 ~ 2012/01, Postdoc Fellow, Institute of China Electronic System Engineering Corporation, Supervisor: Prof. Deyi Li
 - 2007/12 ~ 2010/11, Lecturer, State Key Laboratory of Software Engineering, Wuhan University
 - 2007/07 ~ 2007/11, Research Associate, State Key Laboratory of Software Engineering, Wuhan University
-
-## Awards
-
-I have received a few notable international and domestic awards or prizes, including
-
-- First Prize of Invention and Entrepreneurship, 3rd Contributor, China Association of Inventions, 2018
-- Best Paper Award, International Conference on Software Engineering and Knowledge Engineering, 2016
-- First Prize of Scientific and Technological Progress, 2nd Contributor, Hubei Province, 2015
-- First Prize of Scientific and Technological Progress, 6th Contributor, China Computer Federation, 2014
-- First Prize of Scientific and Technological Progress, 4th Contributor, Hubei Province, 2011
-- Second Prize of State Scientific and Technological Progress, 9th Contributor, P.R. China, 2009
-- First Prize of Scientific and Technological Progress, 6th Contributor, Hubei Province, 2008
-- Best Paper Award, IEEE International Conference on Computer and Information Technology, 2006
-- Outstanding Master Dissertation Award, Hubei Province, 2005
+- 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. Keqing He
+- 2001/09 ~ 2004/06, Computer Application, Wuhan University of Science and Technology, M.S. Supervisor: Prof. Jianxun Chen
+- 1997/09 ~ 2001/06, Computer Science and Technology, Wuhan University of Science and Technology
 
 ## Academic Services
 
@@ -74,6 +57,20 @@ I have received a few notable international and domestic awards or prizes, inclu
 - Publication Chair: [APSCC 2014](https://ieeexplore.ieee.org/document/7175484), CCF NCSC 2015， [S2 ICIOT 2016](http://iciot.org/2016/)
 - Publicity Co-Chairs: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html)
 
+## Awards
+
+I have received a few notable international and domestic awards or prizes, including
+
+- First Prize of Invention and Entrepreneurship, 3rd Contributor, China Association of Inventions, 2018
+- Best Paper Award, International Conference on Software Engineering and Knowledge Engineering, 2016
+- First Prize of Scientific and Technological Progress, 2nd Contributor, Hubei Province, 2015
+- First Prize of Scientific and Technological Progress, 6th Contributor, China Computer Federation, 2014
+- First Prize of Scientific and Technological Progress, 4th Contributor, Hubei Province, 2011
+- Second Prize of State Scientific and Technological Progress, 9th Contributor, P.R. China, 2009
+- First Prize of Scientific and Technological Progress, 6th Contributor, Hubei Province, 2008
+- Best Paper Award, IEEE International Conference on Computer and Information Technology, 2006
+- Outstanding Master Dissertation Award, Hubei Province, 2005
+
 ## Funding
 
 My research has been supported by the National Basic Research Program of China (973 Program), the Natural Science Foundation of China (NSFC), and many other research funds. Selected national funds include:
@@ -89,7 +86,7 @@ My research has been supported by the National Basic Research Program of China (
 ## Selected Publications
 
 \# denotes who contributed equally to the work, and \* means the corresponding author.  
-For more publications, please refer to my profile on [ResearchGate](https://www.researchgate.net/profile/Yutao_Ma). 
+For more publications, please refer to my profile on [ResearchGate](https://www.researchgate.net/profile/Yutao_Ma) and [Google Scholar](https://scholar.google.com/citations?user=_92TyiIAAAAJ&hl=zh-CN). 
 
 ### Biomedical Imaging and AI-based Applications
 
@@ -164,6 +161,21 @@ For more publications, please refer to my profile on [ResearchGate](https://www.
   > Luciano da Fontoura Costa, Osvaldo N. Oliveira Jr., Gonzalo Travieso, _et al_. [Analyzing and modeling real-world phenomena with complex networks: a survey of applications](https://www.tandfonline.com/doi/full/10.1080/00018732.2011.572452). _[Advances in Physics](https://www.tandfonline.com/toc/tadp20/current)_, 2011, 60(3): 329-412.
 
 ## Teaching
+
+### For Undergraduate Students
+
+- Object-oriented Software Engineering: 2018 fall, 2019 fall
+- Design and Development of Large-scale Application Software: 2018 fall, 2019 fall
+- Practical Training of Programming: 2019 summer
+- Introduction to Software Engineering: 2020 spring
+
+### For Graduate Students
+
+- Services Computing and Software Service Engineering: 2016 spring, 2017 spring, 2018 spring, 2018 fall, 2019 fall
+
+## Students
+
+To add.
 
 ```markdown
 Syntax highlighted code block

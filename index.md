@@ -142,7 +142,7 @@ My research has been supported by the National Basic Research Program of China (
   > - Jaechang Nam, Wei Fu, Sunghun Kim, [Tim Menzies](http://menzies.us/), and Lin Tan. [Heterogeneous Defect Prediction](https://ieeexplore.ieee.org/document/7959597). _IEEE Transactions on Software Engineering_, 2018, 44(9): 874-896. ([Conference Version](https://dl.acm.org/doi/10.1145/2786805.2786814))
   > - Seyedrebvar Hosseini, Burak Turhan, and Dimuthu Gunarathna. [A Systematic Literature Review and Meta-Analysis on Cross Project Defect Prediction](https://ieeexplore.ieee.org/document/8097045). _IEEE Transactions on Software Engineering_, 2019, 45(2): 111-147.
 
-### Software Analysis based on Complex Networks
+### Software Analytics based on Complex Networks
 
 - Weifeng Pan*, Bing Li, Jing Liu, **Yutao Ma**, and Bo Hu. [Analyzing the structure of Java software systems by weighted k-core decomposition](https://www.sciencedirect.com/science/article/pii/S0167739X17320940). _Future Generation Computer Systems_, 2018, 83: 431-444.
   > Yixiu Kong, Guiyuan Shi, Ruijie Wu, and Yicheng Zhang. [_k_-core: Theories and applications](https://www.sciencedirect.com/science/article/abs/pii/S037015731930328X). _[Physics Reports](https://www.sciencedirect.com/journal/physics-reports)_, 2019, 832: 1-32.
@@ -155,14 +155,14 @@ My research has been supported by the National Basic Research Program of China (
 - 李兵*, **马于涛**, 刘婧, 丁琦伟. [软件系统的复杂网络研究进展](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-093). 力学进展, 2008, 38(6): 805-814.
 - 何克清, **马于涛**, 刘婧, 李兵, 彭蓉. 软件网络. 北京: 科学出版社, 2008.
   > 陈关荣([Guanrong Chen](http://www.ee.cityu.edu.hk/~gchen/)). [复杂网络及其新近研究进展简介](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-079). 力学进展, 2008, 38(6): 653-662.
-- **Yutao Ma**, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/abstract/document/4019967). In _Proceedings of the 6th IEEE International Conference on Computer and Information Technology (IEEE CIT 2006)_, p. 189, 2006. (**Best Paper Award**, [Journal Version](https://link.springer.com/article/10.1007/s11390-010-9398-x))
+- **Yutao Ma**, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/document/4019967). In _Proceedings of the 6th IEEE International Conference on Computer and Information Technology (IEEE CIT 2006)_, p. 189, 2006. (**Best Paper Award**, [Journal Version](https://link.springer.com/article/10.1007/s11390-010-9398-x))
 - Jing Liu, Keqing He, **Yutao Ma**, and Rong Peng. [Scale free in software metrics](https://ieeexplore.ieee.org/document/4020082). In _Proceedings of the 30th Annual International Computer Software and Applications Conference (COMPSAC 2006)_, vol. 1, pp. 229-235, 2006. 
   > - Reuven Cohen and [Shlomo Havlin](https://en.wikipedia.org/wiki/Shlomo_Havlin). _Complex Networks: Structure, Robustness and Function_. Cambridge University Press, 2010.
   > - Craig Taube-Schock, Robert J. Walker, and [Ian H. Witten](https://en.wikipedia.org/wiki/Ian_H._Witten). [Can We Avoid High Coupling?](https://link.springer.com/chapter/10.1007/978-3-642-22655-7_10). In _Proceedings of the 25th European Conference on Object-Oriented Programming (ECOOP 2011)_, pp. 204-228, 2011.
-- **Yutao Ma**, Keqing He, and Dehui Du. [A qualitative method for measuring the structural complexity of software systems based on complex networks](https://ieeexplore.ieee.org/abstract/document/1607160). In _Proceedings of the 12th Asia-Pacific Software Engineering Conference (APSEC 2005)_, pp. 257-263, 2005.
+- **Yutao Ma**, Keqing He, and Dehui Du. [A qualitative method for measuring the structural complexity of software systems based on complex networks](https://ieeexplore.ieee.org/document/1607160). In _Proceedings of the 12th Asia-Pacific Software Engineering Conference (APSEC 2005)_, pp. 257-263, 2005.
   > Luciano da Fontoura Costa, Osvaldo N. Oliveira Jr., Gonzalo Travieso, _et al_. [Analyzing and modeling real-world phenomena with complex networks: a survey of applications](https://www.tandfonline.com/doi/full/10.1080/00018732.2011.572452). _[Advances in Physics](https://www.tandfonline.com/toc/tadp20/current)_, 2011, 60(3): 329-412.
 
-## 
+## Teaching
 
 ```markdown
 Syntax highlighted code block

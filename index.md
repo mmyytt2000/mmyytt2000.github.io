@@ -88,7 +88,8 @@ My research has been supported by the National Basic Research Program of China (
 
 ## Selected Publications
 
-\# denotes who contributed equally to the work, and \* means the corresponding author. 
+\# denotes who contributed equally to the work, and \* means the corresponding author.  
+For more publications, please refer to my profile on [ResearchGate](https://www.researchgate.net/profile/Yutao_Ma). 
 
 ### Biomedical Imaging and AI-based Applications
 

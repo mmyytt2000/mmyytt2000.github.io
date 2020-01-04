@@ -103,27 +103,18 @@ My research has been supported by the National Basic Research Program of China (
   > - Pablo Eugui, Antonia Lichtenegger, Marco Augustin, Danielle J. Harper, Stanislava Fialová, Andreas Wartak, [Christoph K. Hitzenberger](https://www.meduniwien.ac.at/web/index.php?id=688&res=christoph_hitzenberger), and Bernhard Baumann. [Few-mode fiber detection for tissue characterization in optical coherence tomography](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10416/104160M/Few-mode-fiber-detection-for-tissue-characterization-in-optical-coherence/10.1117/12.2287667.full?SSO=1). _Proceedings of SPIE_, 2017, 10416: 104160M.
   > - Shaozhen Song, Jingjiang Xu, and [Ruikang K. Wang](http://depts.washington.edu/givemed/prof-chair/holders/ruikang-ricky-wang-ph-d/). [Flexible wide‐field optical micro‐angiography based on Fourier‐domain multiplexed dual‐beam swept source optical coherence tomography](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201700203). _Journal of Biophotonics_, 2018, 11(3): e201700203.
 
-### Service Discovery and Recommendation
+### Service Recommendation and Service-based System Development
 
 - **Yutao Ma**, Xiao Geng, and Jian Wang*. A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation. _IEEE Transactions on Engineering Management_, DOI: 10.1109/TEM.2019.2961376, 2020. ([Code](https://github.com/ssea-lab/MISR))
-- 何鹏, 吴浩, 曾诚, **马于涛***. [Truser：一种基于可信用户的服务推荐方法](http://cjc.ict.ac.cn/online/onlinepaper/hp-201941793217.pdf). 计算机学报, 2019, 42(4): 851-863.
+- Liwei Huang, **Yutao Ma***, Shibo Wang, and Yanbo Liu. [An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation](https://ieeexplore.ieee.org/document/8723186). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2019.2918310, 2019. ([Code](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation))
 - Ruibin Xiong, Jian Wang*, Neng Zhang, and **Yutao Ma**. [Deep Hybrid Collaborative Filtering for Web Service Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417418303385). _Expert Systems with Applications_, 2018, 110: 191-205.
 - Neng Zhang, Jian Wang*, **Yutao Ma**, Keqing He, Zheng Li, and Xiaoqing Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). _Journal of Systems and Software_,
 2018, 142: 73-91.
 - Jian Wang, Panpan Gao, **Yutao Ma***, Keqing He, and Patrick Hung. [A Web Service Discovery Approach Based on Common Topic Groups Extraction](https://ieeexplore.ieee.org/document/7939969). _IEEE Access_, 2017, 5: 10193-10208. ([Conference Version](https://link.springer.com/chapter/10.1007/978-3-319-26979-5_7))
 - Neng Zhang, Jian Wang*, and **Yutao Ma**. [Mining Domain Knowledge on Service Goals From Textual Service Descriptions](https://ieeexplore.ieee.org/document/7896653). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2017.2693147, 2017.
 - Wei Xiong, Bing Li*, Xiaohui Cui, **Yutao Ma**, Rong Yang, and Peng He. [A Learning Approach to the Prediction of Reliability Ranking for Web Services](https://ieeexplore.ieee.org/document/7195566). In _Proceedings of the 2015 IEEE International Conference on Web Services (IEEE ICWS 2015)_, pp. 169-176, 2015.
-- Mingming Chen, **Yutao Ma***, Bo Hu, and Liang-Jie Zhang. [A Ranking-oriented Hybrid Approach to QoS-aware Web Service Recommendation](https://ieeexplore.ieee.org/document/7207402/). In _Proceedings of the 2015 IEEE International Conference on Services Computing (IEEE SCC 2015)_, pp. 578-585, 2015. ([arXiv Version](https://arxiv.org/abs/1501.04298))
-
-### Service-based System Development and Domain-specific Applications
-
-- Liwei Huang, **Yutao Ma***, Shibo Wang, and Yanbo Liu. [An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation](https://ieeexplore.ieee.org/document/8723186). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2019.2918310, 2019. ([Code](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation))
-- Tao Xu, **Yutao Ma***, and Qian Wang. [Cross-Urban Point-of-Interest Recommendation for Non-Natives](https://www.igi-global.com/article/cross-urban-point-of-interest-recommendation-for-non-natives/205612). _International Journal of Web Services Research_, 2018, 15(3): 82-102.
-- Liwei Huang, **Yutao Ma***, Yanbo Liu, and Arun Kumar*. [Multi-modal Bayesian embedding for point-of-interest recommendation on location-based cyber-physical-social networks](https://www.sciencedirect.com/science/article/pii/S0167739X17310191). _Future Generation Computer Systems_, DOI: 10.1016/j.future.2017.12.020, 2017.
-- Liwei Huang, **Yutao Ma***, and Yanbo Liu. [Point-of-Interest Recommendation in Location-Based Social Networks with Personalized Geo-Social Influence](https://ieeexplore.ieee.org/document/7385525). _China Communications_, 2015, 12(12): 21-31.
 - Bo Hu, **Yutao Ma***, Liang-Jie Zhang, Chunxiao Xing, Jun Zou, and Ping Xu. [A CCRA based Mass Customization Development for Cloud Services](https://ieeexplore.ieee.org/document/6649760). In _Proceedings of the 2013 IEEE International Conference on Services Computing (IEEE SCC 2013)_, pp. 705-712, 2013.
   > Mehdi Bahrami and [Mukesh Singhal](https://cloudlab.ucmerced.edu/~mukesh). [DCCSOA: A Dynamic Cloud Computing Service-Oriented Architecture](https://ieeexplore.ieee.org/document/7300969). In _Proceedings of the 2015 IEEE International Conference on Information Reuse and Integration (IEEE IRI 2015)_, pp. 158-165, 2015.
-- **马于涛***, 张海粟, 刘玉超, 陈桂生. [一种Web服务综合描述模型](http://jeit.ie.ac.cn/article/doi/10.3724/SP.J.1146.2011.00784). 电子与信息学报, 2012, 34(3): 549-556.
 
 ### Bug Prediction and Triaging
 
@@ -164,9 +155,6 @@ My research has been supported by the National Basic Research Program of China (
 - 李兵*, **马于涛**, 刘婧, 丁琦伟. [软件系统的复杂网络研究进展](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-093). 力学进展, 2008, 38(6): 805-814.
 - 何克清, **马于涛**, 刘婧, 李兵, 彭蓉. 软件网络. 北京: 科学出版社, 2008.
   > 陈关荣([Guanrong Chen](http://www.ee.cityu.edu.hk/~gchen/)). [复杂网络及其新近研究进展简介](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-079). 力学进展, 2008, 38(6): 653-662.
-- **Yutao Ma**, Keqing He, and Jing Liu. [Network motifs in object-oriented software systems](https://arxiv.org/abs/0808.3292). _Dynamics of Continuous, Discrete and Impulsive Systems (Series B: Applications & Algorithms)_, 2007, 14(S6): 166-172.
-  > - Pamela Bhattacharya, Marios Iliofotou, Iulian Neamtiu, and Michalis Faloutsos. [Graph-based analysis and prediction for software evolution](https://ieeexplore.ieee.org/document/6227173). In _Proceedings of the 34th International Conference on Software Engineering (ICSE 2012)_, pp. 419-429, 2012.
-  > - Theodore Chaikalis and Alexander Chatzigeorgiou. [Forecasting Java Software Evolution Trends Employing Network Models](https://ieeexplore.ieee.org/document/6985636). _IEEE Transactions on Software Engineering_, 2015, 41(6): 582-602.
 - **Yutao Ma**, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/abstract/document/4019967). In _Proceedings of the 6th IEEE International Conference on Computer and Information Technology (IEEE CIT 2006)_, p. 189, 2006. (**Best Paper Award**, [Journal Version](https://link.springer.com/article/10.1007/s11390-010-9398-x))
 - Jing Liu, Keqing He, **Yutao Ma**, and Rong Peng. [Scale free in software metrics](https://ieeexplore.ieee.org/document/4020082). In _Proceedings of the 30th Annual International Computer Software and Applications Conference (COMPSAC 2006)_, vol. 1, pp. 229-235, 2006. 
   > - Reuven Cohen and [Shlomo Havlin](https://en.wikipedia.org/wiki/Shlomo_Havlin). _Complex Networks: Structure, Robustness and Function_. Cambridge University Press, 2010.

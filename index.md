@@ -6,9 +6,11 @@ To add.
 
 ## Brief Biography
 
-Dr. Yutao Ma is an Associate Professor in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/). He obtained the Ph.D. degree in Computer Science from Wuhan University in 2007. Dr. Ma was a postdoctoral researcher with Prof. Deyi Li in the Institute of China Electronic System Engineering Corporation and has been a visiting scholar in the Department of Electrical and Computer Engineering at Lehigh University.  
+Dr. Yutao Ma is an Associate Professor in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/). He obtained the Ph.D. degree in Computer Science from Wuhan University in 2007. Dr. Ma was a postdoctoral researcher with Prof. Deyi Li in the Institute of China Electronic System Engineering Corporation and has been a short-term visiting scholar in the Department of Electrical and Computer Engineering at Lehigh University.  
 
-Dr. Ma is a member of the [Software Service Engineering and Application Laboratory](https://ssea-lab.github.io/) and is currently the deputy director of the Institute of Intelligentized Software and Services in the School of Computer Science. 
+Dr. Ma is a member of the [Software Service Engineering and Application Laboratory](https://ssea-lab.github.io/) and is currently the deputy director of the Institute of Intelligentized Software and Services in the School of Computer Science. He became the leader of a scientific and technological innovation team in Hubei Province in 2016. Besides, he was selected to the Wuhan Yellow Crane Talent Programme and the Wuhan Youth ChengGuang Programme of Science and Technology.  
+
+
 
 ## Contact Information
 

@@ -181,6 +181,11 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Alumni
 
+| Grade | Name | Award or Scholarship | Employment |
+| :------ | :------ | :------ | :------ |
+| 2013 | Qing Xu | Short-term visiting student at Lehigh University | [Guotai Junan Securities](https://www.gtja.com/) |
+| 2014 | Mingming Chen | One-year visiting student at Lehigh University<br>National scholarship for postgraduates | [NetEase](https://www.163.com/) |
+
 - 2017： Ye Liu (刘烨)（新浪）、黄亦薇（华为）、丁胜男（小米）
 - 2013： Qing Xu (徐庆)
 

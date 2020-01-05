@@ -4,7 +4,7 @@
 
 ```markdown
 
-- **Dec. 2019** Yutao Ma was invited to serve the [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) as an Associate Editor
+- [Dec. 2019] Dr. Yutao Ma was invited to serve the International Journal of Web Services Research as an Associate Editor
 
 ```
 

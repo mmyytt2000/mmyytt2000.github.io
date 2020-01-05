@@ -195,10 +195,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2014 | Guoan You | [Best Paper Award of SEKE 2016](http://ksiresearchorg.ipage.com/seke/seke16.html)<br>Special Scholarship (2016) | [Baidu](https://www.baidu.com/) |
 | 2014 | Haiyang Liu |  | [China UnionPay](https://cn.unionpay.com/) |
 | 2015 | Tao Xu | One-year visiting student at Lehigh University | [Ultralucia](http://www.guangchao.net.cn/) |
-| 2015 | Xiaowan Shi |  | [JD.COM](https://www.jd.com/) |
+| 2015 | Xiaowan Shi | Second-class scholarship (Top 20%, 2017) | [JD.COM](https://www.jd.com/) |
 | 2015 | Huazhi Song |  | [JD.COM](https://www.jd.com/) |
 | 2016 | Junchao Liu | One-year visiting student at Lehigh University | [Huawei](https://www.huawei.com/) |
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
 | 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
 | 2017 | Shengnan Ding |  | [Xiaomi](https://www.mi.com/) |
-

@@ -2,7 +2,11 @@
 
 ## Latest News
 
+```markdown
+
 To add.
+
+```
 
 ## Brief Biography
 
@@ -183,6 +187,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 | Grade | Name | Award or Scholarship | Employment |
 | :------ | :------ | :------ | :------ |
+| 2008 | [Weifeng Pan](https://wfpan.github.io/)<br>(Ph.D. Supervisor: Prof. Bing Li) | Second-class Scholarship (Top 20%, 2010) | [Zhejiang Gongshang University](http://www.zjgsu.edu.cn/) |
 | 2013 | Qing Xu | Short-term visiting student at Lehigh University | [Guotai Junan Securities](https://www.gtja.com/) |
 | 2014 | Mingming Chen | One-year visiting student at Lehigh University<br>National scholarship for postgraduates （2016） | [NetEase](https://www.163.com/) |
 | 2014 | Guoan You | [Best Paper Award of SEKE 2016](http://ksiresearchorg.ipage.com/seke/seke16.html)<br>Special Scholarship (2016) | [Baidu](https://www.baidu.com/) |
@@ -195,21 +200,3 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
 | 2017 | Shengnan Ding |  | [Xiaomi](https://www.mi.com/) |
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```

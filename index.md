@@ -4,7 +4,7 @@
 
 ```markdown
 
-To add.
+- **Dec. 2019** Yutao Ma was invited to serve the [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) as an Associate Editor
 
 ```
 
@@ -179,7 +179,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Feng Wang (2017): [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage) (2017), Freshman Scholarship (2017), Second-class Scholarship (Top 20%, 2018, 2019)) 
+- Feng Wang (2017): [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage) (2017), Freshman Scholarship (2017), Second-class Scholarship (Top 20%, 2018, 2019)
 - Jinxiao Huang (2017): Special Scholarship (2019), Second-class Scholarship (Top 20%, 2018, 2019)
 - 2018: Hao Sun, Xiao Geng, Qingbin Wang, Wenjian Xiong
 - 2019: Wanrong Dou (Freshman Scholarship (2019)), Qinyi Yu, Siqin Yang

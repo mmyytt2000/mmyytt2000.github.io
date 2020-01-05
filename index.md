@@ -92,9 +92,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 - Hao Sun#, Xianxu Zeng#, Tao Xu, Gang Peng, and **Yutao Ma***. [Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms](https://ieeexplore.ieee.org/document/8854180). _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2019.2944977, 2019. ([Code](https://github.com/ssea-lab/DL4ETI))
 - **Yutao Ma#**, Tao Xu#, Xiaolei Huang, Xiaofang Wang, Canyu Li, Jason Jerwick, Yuan Ning, Xianxu Zeng, Baojin Wang, Yihong Wang, Zhan Zhang, Xiaoan Zhang, and Chao Zhou*. [Computer-Aided Diagnosis of Label-Free 3-D Optical Coherence Microscopy Images of Human Cervical Tissue](https://ieeexplore.ieee.org/document/8598821). _IEEE Transactions on Biomedical Engineering_, 2019, 66(9): 2447-2456.
-- Xianxu Zeng#, Xiaoan Zhang#, Canyu Li, Xiaofang Wang, Jason Jerwick, Tao Xu, Yuan Ning, Yihong Wang, Linlin Zhang, Zhan Zhang, **Yutao Ma**, and Chao Zhou*. [Ultrahigh-resolution optical coherence microscopy accurately classifies precancerous and cancerous human cervix free of labeling](https://www.thno.org/v08p3099.htm). _Theranostics_, 2018, 8(11): 3099-3110. ([Front-Cover Article](https://www.thno.org/v8i11))
+- Xianxu Zeng#, Xiaoan Zhang#, Canyu Li, Xiaofang Wang, Jason Jerwick, Tao Xu, Yuan Ning, Yihong Wang, Linlin Zhang, Zhan Zhang, **Yutao Ma**, and Chao Zhou*. [Ultrahigh-resolution optical coherence microscopy accurately classifies precancerous and cancerous human cervix free of labeling](https://www.thno.org/v08p3099.htm). _Theranostics_, 2018, 8(11): 3099-3110. (**[Front-Cover Article](https://www.thno.org/v8i11)**)
   > Kathryn A. Kundrod, Chelsey A. Smith, Brady Hunt, Richard A. Schwarz, Kathleen Schmeler, and [Rebecca Richards-Kortum](https://en.wikipedia.org/wiki/Rebecca_Richards-Kortum). [Advances in technologies for cervical cancer detection in low-resource settings](https://www.tandfonline.com/doi/full/10.1080/14737159.2019.1648213). _Expert Review of Molecular Diagnostics_, 2019, 19(8): 695-714.
-- Lian Duan, Xi Qin, Yuanhao He, Xialin Sang, Jinda Pan, Tao Xu, Jing Men, Rudolph E. Tanzi, Airong Li, **Yutao Ma**, and Chao Zhou*. [Segmentation of _Drosophila_ heart in optical coherence microscopy images using convolutional neural networks](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201800146). _Journal of Biophotonics_, 2018, 11(12): e201800146. ([Back-Cover Article](https://onlinelibrary.wiley.com/toc/18640648/2018/11/12))
+- Lian Duan, Xi Qin, Yuanhao He, Xialin Sang, Jinda Pan, Tao Xu, Jing Men, Rudolph E. Tanzi, Airong Li, **Yutao Ma**, and Chao Zhou*. [Segmentation of _Drosophila_ heart in optical coherence microscopy images using convolutional neural networks](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201800146). _Journal of Biophotonics_, 2018, 11(12): e201800146. (**[Back-Cover Article](https://onlinelibrary.wiley.com/toc/18640648/2018/11/12)**)
 - Jing Men, Jason Jerwick, Penghe Wu, Mingming Chen, Aneesh Alex, **Yutao Ma**, Rudolph E. Tanzi, Airong Li, and Chao Zhou*. [_Drosophila_ Preparation and Longitudinal Imaging of Heart Function _In Vivo_ Using Optical Coherence Microscopy (OCM)](https://www.jove.com/video/55002/drosophila-preparation-longitudinal-imaging-heart-function-vivo-using). _Journal of Visualized Experiments_, 2016, 118: e55002. 
 - Chao Zhou*, Aneesh Alex, Janarthanan Rasakanthan, and **Yutao Ma**. [Space-division multiplexing optical coherence tomography](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-16-19219). _Optics Express_, 2013, 21(16): 19219-19227.
   > - Trevor Anderson, Armin Segref, Grant Frisken, and [Steven Frisken](https://www.cyliteoptics.com/about/). [3D spectral imaging system for anterior chamber metrology](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9312/93120N/3D-spectral-imaging-system-for-anterior-chamber-metrology/10.1117/12.2079229.full?SSO=1). _Proceedings of SPIE_, 2015, 9312: 93120N.
@@ -175,9 +175,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- 2017: Feng Wang ([CCF Award for Outstanding undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage), Freshman Scholarship ), Jinxiao Huang (黄金筱)
+- 2017: Feng Wang ([CCF Award for Outstanding undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage), Freshman Scholarship ), Jinxiao Huang (Special Scholarship)
 - 2018: Hao Sun (孙浩), Xiao Geng (耿啸), Qingbin Wang (王庆彬), Wenjian Xiong (熊文剑)
-- 2019: Wanrong Dou (豆宛荣), Qinyi Yu (余沁怡), Siqin Yang (杨思琴)
+- 2019: Wanrong Dou (Freshman Scholarship), Qinyi Yu (余沁怡), Siqin Yang (杨思琴)
 
 ### Alumni
 
@@ -192,7 +192,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2015 | Huazhi Song |  | [JD.COM](https://www.jd.com/) |
 | 2016 | Junchao Liu | One-year visiting student at Lehigh University | [Huawei](https://www.huawei.com/) |
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
-| 2017 | Yiwei Huang | [Huawei](https://www.huawei.com/) |
+| 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
 | 2017 | Shengnan Ding |  | [Xiaomi](https://www.mi.com/) |
 
 

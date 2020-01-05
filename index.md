@@ -190,9 +190,10 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2015 | Tao Xu | One-year visiting student at Lehigh University | [Ultralucia](http://www.guangchao.net.cn/) |
 | 2015 | Xiaowan Shi |  | [JD.COM](https://www.jd.com/) |
 | 2015 | Huazhi Song |  | [JD.COM](https://www.jd.com/) |
-
-- 2017： Ye Liu (刘烨)（新浪）、黄亦薇（华为）、丁胜男（小米）
-- 2013： Qing Xu (徐庆)
+| 2016 | Junchao Liu | One-year visiting student at Lehigh University | [Huawei](https://www.huawei.com/) |
+| 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
+| 2017 | Yiwei Huang | [Huawei](https://www.huawei.com/) |
+| 2017 | Shengnan Ding |  | [Xiaomi](https://www.mi.com/) |
 
 
 ```markdown

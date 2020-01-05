@@ -72,13 +72,13 @@ I have received a few notable international and domestic awards or prizes, inclu
 
 ## Funding
 
-My research has been supported by the National Basic Research Program of China (973 Program), the Natural Science Foundation of China (NSFC), and many other research funds. Selected national funds include:
+My research has been supported by the National Basic Research Program of China (973 Program), the Natural Science Foundation of China ([NSFC](http://www.nsfc.gov.cn/)), and many other research funds. Selected national funds include:
 
 - NSFC under Grant No. 61972292, 2020/01 ~ 2023/12, PI
 - 973 Program under Grant No. 2014CB340400, 2014/01~2018/12, Sub-project PI
 - NSFC under Grant No. 61272111, 2013/01 ~ 2016/12, PI
 - NSFC under Grant No. 61003073, 2011/01 ~ 2011/12, PI
-- China Postdoctoral Science Foundation under Grant No. 201003794, 2011/01 ~ 2011.12, PI
+- [China Postdoctoral Science Foundation](http://jj.chinapostdoctor.org.cn/V1/Program3/Default.aspx) under Grant No. 201003794, 2011/01 ~ 2011.12, PI
 - China Postdoctoral Science Foundation under Grant No. 20090460107, 2010/01 ~ 2011/12, PI
 - 973 Program under Grant No. 2007CB310800, 2007/07~2011/08, CI (PI: Prof. Deyi Li)
 

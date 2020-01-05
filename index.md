@@ -6,7 +6,7 @@ To add.
 
 ## Brief Biography
 
-Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Associate Professor in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/). He is a member of the [Software Service Engineering and Application Laboratory](https://ssea-lab.github.io/) and is currently a deputy director of the Institute of Intelligentized Software and Services in the School of Computer Science. He obtained the Ph.D. degree in Computer Science from Wuhan University in 2007. Dr. Ma was a postdoctoral researcher with Prof. [Deyi Li](http://www.cae.cn/cae/html/main/colys/00679747.html) in the Institute of China Electronic System Engineering Corporation and has been a short-term visiting scholar in the [Department of Electrical and Computer Engineering](https://engineering.lehigh.edu/ece) at [Lehigh University](https://www1.lehigh.edu/home). In 2016, He became the leader of a scientific and technological innovation team in Hubei Province. Besides, he was selected to the Wuhan Yellow Crane Talent Programme and the Wuhan Youth ChengGuang Programme of Science and Technology. His research interest is the development and maintenance of intelligent software services, including service-based system development using artificial intelligence techniques, mining software repositories, and domain-specific application and practice (especially on biomedical imaging and computer-aided diagnosis). 
+Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Associate Professor in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/). He is a member of the [Software Service Engineering and Application Laboratory](https://ssea-lab.github.io/) and is currently a deputy director of the Institute of Intelligentized Software and Services in the School of Computer Science. He obtained the Ph.D. degree in Computer Science from Wuhan University in 2007. Dr. Ma was a postdoctoral researcher with Prof. [Deyi Li](http://www.cae.cn/cae/html/main/colys/00679747.html) in the Institute of China Electronic System Engineering Corporation and has been a short-term visiting scholar in the [Department of Electrical and Computer Engineering](https://engineering.lehigh.edu/ece) at [Lehigh University](https://www1.lehigh.edu/home). In 2016, he became the leader of a scientific and technological innovation team in Hubei Province. Besides, he has been selected to the Wuhan Yellow Crane Talent Programme and the Wuhan Youth ChengGuang Programme of Science and Technology. His research interest is the development and maintenance of intelligent software services, including service-based system development using artificial intelligence techniques, mining software repositories, and domain-specific application and practice (especially on biomedical imaging and computer-aided diagnosis). 
 
 ## Contact Information
 
@@ -21,25 +21,24 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 - 2008/08 ~ 2012/01, Postdoc Fellow, Institute of China Electronic System Engineering Corporation, Supervisor: Prof. Deyi Li
 - 2007/12 ~ 2010/11, Lecturer, State Key Laboratory of Software Engineering, Wuhan University
 - 2007/07 ~ 2007/11, Research Associate, State Key Laboratory of Software Engineering, Wuhan University
-- 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. Keqing He
-- 2001/09 ~ 2004/06, Computer Application, Wuhan University of Science and Technology, M.S. Supervisor: Prof. Jianxun Chen
+- 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. [Keqing He](https://baike.baidu.com/item/%E4%BD%95%E5%85%8B%E6%B8%85/10908095?fr=aladdin)
+- 2001/09 ~ 2004/06, Computer Application, [Wuhan University of Science and Technology](http://www.wust.edu.cn/), M.S. Supervisor: Prof. [Jianxun Chen](https://baike.baidu.com/item/%E9%99%88%E5%BB%BA%E5%8B%8B/9630403?fr=aladdin)
 - 1997/09 ~ 2001/06, Computer Science and Technology, Wuhan University of Science and Technology
 
 ## Academic Services
 
 ### Professional Membership
 
-- Senior member of the China Computer Federation (CCF) 
-- Member of the IEEE, IEEE Computer Society, and IEEE Engineering in Medicine and Biology Society
-- Member of the Chinese Association for Artificial Intelligence (CAAI)
-- Member of the Services Society
+- Senior member of the China Computer Federation ([CCF](https://www.ccf.org.cn/)) 
+- Member of the [IEEE](https://www.ieee.org/), [IEEE Computer Society](https://www.computer.org/), and [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/)
+- Member of the Chinese Association for Artificial Intelligence ([CAAI](http://www.caai.cn/))
 
 ### Technical Committee Membership
 
-- Member of the Standing committee of the CCF Technical Committee on Services Computing
-- Member of the IEEE Computer Society Technical Committee on Services Computing
-- Member of the IEEE Computer Society Technical Council on Software Engineering
-- Member of the IEEE Computer Society Technical Committee on Cloud Computing
+- Member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
+- Member of the [IEEE Computer Society Technical Committee on Services Computing](https://tc.computer.org/tcsvc/)
+- Member of the [IEEE Computer Society Technical Council on Software Engineering](http://www.cs-tcse.org/)
+- Member of the [IEEE Computer Society Technical Committee on Cloud Computing](https://tc.computer.org/tccld/)
 - Member of the CAAI Technical Committee on Artificial Intelligence with Uncertainty
 
 ### Journal Services

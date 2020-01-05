@@ -6,7 +6,9 @@ To add.
 
 ## Brief Biography
 
-To add.
+Dr. Yutao Ma is an Associate Professor in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/). He obtained the Ph.D. degree in Computer Science from Wuhan University in 2007. Dr. Ma was a postdoctoral researcher with Prof. Deyi Li in the Institute of China Electronic System Engineering Corporation and has been a visiting scholar in the Department of Electrical and Computer Engineering at Lehigh University.  
+
+Dr. Ma is a member of the [Software Service Engineering and Application Laboratory](https://ssea-lab.github.io/) and is currently the deputy director of the Institute of Intelligentized Software and Services in the School of Computer Science. 
 
 ## Contact Information
 
@@ -85,8 +87,8 @@ My research has been supported by the National Basic Research Program of China (
 
 ## Selected Publications
 
-\# denotes who contributed equally to the work, and \* means the corresponding author.  
-For more publications, please refer to my profile on [ResearchGate](https://www.researchgate.net/profile/Yutao_Ma) and [Google Scholar](https://scholar.google.com/citations?user=_92TyiIAAAAJ&hl=zh-CN). 
+For more publications, please refer to my profile on [ResearchGate](https://www.researchgate.net/profile/Yutao_Ma) and [Google Scholar](https://scholar.google.com/citations?user=_92TyiIAAAAJ&hl=zh-CN).  
+\# denotes who contributed equally to the work, and \* means the corresponding author.
 
 ### Biomedical Imaging and AI-based Applications
 
@@ -175,7 +177,15 @@ For more publications, please refer to my profile on [ResearchGate](https://www.
 
 ## Students
 
-To add.
+- 2017: Feng Wang (王枫), Jinxiao Huang (黄金筱)
+- 2018: Hao Sun (孙浩), Xiao Geng (耿啸), Qingbin Wang (王庆彬), Wenjian Xiong (熊文剑)
+- 2019: Wanrong Dou (豆宛荣), Qinyi Yu (余沁怡), Siqin Yang (杨思琴)
+
+### Alumni
+
+- 2017： Ye Liu (刘烨)（新浪）、黄亦薇（华为）、丁胜男（小米）
+- 2013： Qing Xu (徐庆)
+
 
 ```markdown
 Syntax highlighted code block

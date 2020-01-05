@@ -179,23 +179,23 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- 2017: Feng Wang ([CCF Award for Outstanding undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage), Freshman Scholarship ), Jinxiao Huang (Special Scholarship)
-- 2018: Hao Sun (孙浩), Xiao Geng (耿啸), Qingbin Wang (王庆彬), Wenjian Xiong (熊文剑)
-- 2019: Wanrong Dou (Freshman Scholarship), Qinyi Yu (余沁怡), Siqin Yang (杨思琴)
+- 2017: Feng Wang ([CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage) (2017), Freshman Scholarship (2017), Second-class Scholarship (Top 20%, 2018, 2019)), Jinxiao Huang (Special Scholarship (2019), Second-class Scholarship (Top 20%, 2018, 2019))
+- 2018: Hao Sun, Xiao Geng, Qingbin Wang, Wenjian Xiong
+- 2019: Wanrong Dou (Freshman Scholarship (2019)), Qinyi Yu, Siqin Yang
 
 ### Alumni
 
 | Grade | Name | Award or Scholarship | Employment |
 | :------: | :------: | :------ | :------: |
-| 2008 | [Weifeng Pan](https://wfpan.github.io/)<br>(Ph.D. Supervisor: Prof. Bing Li) | Second-class scholarship (Top 20%, 2010) | [Zhejiang Gongshang University](http://www.zjgsu.edu.cn/) |
-| 2012 | Peng He<br>(Ph.D. Supervisor: Prof. Bing Li) | National scholarship for postgraduates (2013, 2014) | [Hubei University](http://www.hubu.edu.cn/) |
+| 2008 | [Weifeng Pan](https://wfpan.github.io/)<br>(Ph.D. Supervisor: Prof. Bing Li) | Second-class Scholarship (Top 20%, 2010) | [Zhejiang Gongshang University](http://www.zjgsu.edu.cn/) |
+| 2012 | Peng He<br>(Ph.D. Supervisor: Prof. Bing Li) | National Scholarship for postgraduates (2013, 2014) | [Hubei University](http://www.hubu.edu.cn/) |
 | 2013 | Hongrun Wu<br>(Ph.D. Supervisor: Prof. Deyi Li) | One-year exchange student at [Rovira i Virgili University](http://www.urv.cat/en/)<br>Short-term visiting student at [Indiana University](https://indiana.edu/) | [Minnan Normal University](http://www.mnnu.edu.cn/) |
 | 2013 | Qing Xu | Short-term visiting student at Lehigh University | [Guotai Junan Securities](https://www.gtja.com/) |
-| 2014 | Mingming Chen | One-year visiting student at Lehigh University<br>National scholarship for postgraduates (2016) | [NetEase](https://www.163.com/) |
+| 2014 | Mingming Chen | One-year visiting student at Lehigh University<br>National Scholarship for postgraduates (2016) | [NetEase](https://www.163.com/) |
 | 2014 | Guoan You | [Best Paper Award of SEKE 2016](http://ksiresearchorg.ipage.com/seke/seke16.html)<br>Special Scholarship (2016) | [Baidu](https://www.baidu.com/) |
 | 2014 | Haiyang Liu |  | [China UnionPay](https://cn.unionpay.com/) |
 | 2015 | Tao Xu | One-year visiting student at Lehigh University | [Ultralucia](http://www.guangchao.net.cn/) |
-| 2015 | Xiaowan Shi | Second-class scholarship (Top 20%, 2017) | [JD.COM](https://www.jd.com/) |
+| 2015 | Xiaowan Shi | Second-class Scholarship (Top 20%, 2017) | [JD.COM](https://www.jd.com/) |
 | 2015 | Huazhi Song |  | [JD.COM](https://www.jd.com/) |
 | 2016 | Junchao Liu | One-year visiting student at Lehigh University | [Huawei](https://www.huawei.com/) |
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |

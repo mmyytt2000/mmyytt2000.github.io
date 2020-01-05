@@ -184,7 +184,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | Grade | Name | Award or Scholarship | Employment |
 | :------ | :------ | :------ | :------ |
 | 2013 | Qing Xu | Short-term visiting student at Lehigh University | [Guotai Junan Securities](https://www.gtja.com/) |
-| 2014 | Mingming Chen | One-year visiting student at Lehigh University<br>National scholarship for postgraduates | [NetEase](https://www.163.com/) |
+| 2014 | Mingming Chen | One-year visiting student at Lehigh University<br>National scholarship for postgraduates （2016） | [NetEase](https://www.163.com/) |
+| 2014 | Guoan You | [Best Paper Award of SEKE 2016]((http://ksiresearchorg.ipage.com/seke/seke16.html))<br>Special Scholarship (2016) | [Baidu](https://www.baidu.com/) |
+| 2014 | Haiyang Liu | Co-founder of the [BugTriage](https://github.com/ssea-lab/BugTriage) project | [China UnionPay}(https://cn.unionpay.com/upowhtml/cn/templates/index/index.html) |
 
 - 2017： Ye Liu (刘烨)（新浪）、黄亦薇（华为）、丁胜男（小米）
 - 2013： Qing Xu (徐庆)

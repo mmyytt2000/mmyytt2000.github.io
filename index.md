@@ -53,7 +53,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 
 - TPC Co-Chairs of [CollaborateCom 2016](http://archive.collaboratecom.org/2016/show/org-com) 
 - TPC Vice Chair of [SCC 2018](http://thescc.org/2018/organization.html)
-- Publication Chair: [APSCC 2014](https://ieeexplore.ieee.org/document/7175484), CCF NCSC 2015， [S2 ICIOT 2016](http://iciot.org/2016/)
+- Publication Chair: [APSCC 2014](https://ieeexplore.ieee.org/document/7175484), CCF NCSC 2015, [S2 ICIOT 2016](http://iciot.org/2016/)
 - Publicity Co-Chairs: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html)
 
 ## Awards
@@ -61,7 +61,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 I have received a few notable international and domestic awards or prizes, including
 
 - First Prize of Invention and Entrepreneurship, 3rd Contributor, China Association of Inventions, 2018
-- Best Paper Award, International Conference on Software Engineering and Knowledge Engineering, 2016
+- Best Paper Award, [International Conference on Software Engineering and Knowledge Engineering](http://ksiresearchorg.ipage.com/seke/seke16.html), 2016
 - First Prize of Scientific and Technological Progress, 2nd Contributor, Hubei Province, 2015
 - First Prize of Scientific and Technological Progress, 6th Contributor, China Computer Federation, 2014
 - First Prize of Scientific and Technological Progress, 4th Contributor, Hubei Province, 2011
@@ -85,7 +85,8 @@ My research has been supported by the National Basic Research Program of China (
 ## Selected Publications
 
 For more publications, please refer to my profile on [ResearchGate](https://www.researchgate.net/profile/Yutao_Ma) and [Google Scholar](https://scholar.google.com/citations?user=_92TyiIAAAAJ&hl=zh-CN).  
-\# denotes who contributed equally to the work, and \* means the corresponding author.
+
+Here \# denotes who contributed equally to the work, and \* means the corresponding author.
 
 ### Biomedical Imaging and AI-based Applications
 
@@ -146,12 +147,12 @@ For more publications, please refer to my profile on [ResearchGate](https://www.
 - Weifeng Pan, Bing Li*, **Yutao Ma**, and Jing Liu. [Multi-granularity evolution analysis of software using complex network theory](https://link.springer.com/article/10.1007/s11424-011-0319-z). _Journal of Systems Science and Complexity_, 2011, 24(6): 1068-1082.
    > - Yu Qu, Xiaohong Guan ([管晓宏院士](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=502)), Qinghua Zheng, Ting Liu, Lidan Wang, Yuqiao Hou, and Zijiang Yang. [Exploring community structure of software Call Graph and its applications in class cohesion measurement](https://www.sciencedirect.com/science/article/pii/S0164121215001259). _Journal of Systems and Software_, 2015, 108: 193-210.
   > - An Zeng, Zhesi Shen, Jianlin Zhou, Jinshan Wu, Ying Fan, Yougui Wang, and [H. Eugene Stanley](https://en.wikipedia.org/wiki/H._Eugene_Stanley). [The science of science: From the perspective of complex systems](https://www.sciencedirect.com/science/article/pii/S0370157317303289). _[Physics Reports](https://www.sciencedirect.com/journal/physics-reports)_, 2017, 714–715: 1-73.
-- **马于涛***, 何克清, 李兵, 刘婧. [网络化软件的复杂网络特性实证](http://jos.org.cn/ch/reader/create_pdf.aspx?file_no=3934&journal_id=jos). 软件学报, 2011, 22(3): 381-407.
+- **马于涛***, 何克清, 李兵, 刘婧. [网络化软件的复杂网络特性实证](http://jos.org.cn/ch/reader/create_pdf.aspx?file_no=3934&journal_id=jos). 软件学报, 2011, 22(3): 381-407. (in Chinese with English abstract)
 - Weifeng Pan, Bing Li*, **Yutao Ma**, Yeyi Qin, and Xiaoyan Zhou. [Measuring structural quality of object-oriented softwares via bug propagation analysis on weighted software networks](https://link.springer.com/article/10.1007/s11390-010-9399-9). _Journal of Computer Science and Technology_, 2010, 25(6): 1202-1213.
   > An Zeng, Zhesi Shen, Jianlin Zhou, Jinshan Wu, Ying Fan, Yougui Wang, and [H. Eugene Stanley](https://en.wikipedia.org/wiki/H._Eugene_Stanley). [The science of science: From the perspective of complex systems](https://www.sciencedirect.com/science/article/pii/S0370157317303289). _[Physics Reports](https://www.sciencedirect.com/journal/physics-reports)_, 2017, 714–715: 1-73.
-- 李兵*, **马于涛**, 刘婧, 丁琦伟. [软件系统的复杂网络研究进展](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-093). 力学进展, 2008, 38(6): 805-814.
+- 李兵*, **马于涛**, 刘婧, 丁琦伟. [软件系统的复杂网络研究进展](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-093). 力学进展, 2008, 38(6): 805-814. (in Chinese with English abstract)
 - 何克清, **马于涛**, 刘婧, 李兵, 彭蓉. 软件网络. 北京: 科学出版社, 2008.
-  > 陈关荣([Guanrong Chen](http://www.ee.cityu.edu.hk/~gchen/)). [复杂网络及其新近研究进展简介](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-079). 力学进展, 2008, 38(6): 653-662.
+  > 陈关荣([Guanrong Chen](http://www.ee.cityu.edu.hk/~gchen/)). [复杂网络及其新近研究进展简介](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-079). 力学进展, 2008, 38(6): 653-662. (in Chinese with English abstract)
 - **Yutao Ma**, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/document/4019967). In _Proceedings of the 6th IEEE International Conference on Computer and Information Technology (IEEE CIT 2006)_, p. 189, 2006. (**Best Paper Award**, [Journal Version](https://link.springer.com/article/10.1007/s11390-010-9398-x))
 - Jing Liu*, Keqing He, **Yutao Ma**, and Rong Peng. [Scale free in software metrics](https://ieeexplore.ieee.org/document/4020082). In _Proceedings of the 30th Annual International Computer Software and Applications Conference (COMPSAC 2006)_, vol. 1, pp. 229-235, 2006. 
   > - Reuven Cohen and [Shlomo Havlin](https://en.wikipedia.org/wiki/Shlomo_Havlin). _Complex Networks: Structure, Robustness and Function_. Cambridge University Press, 2010.
@@ -174,7 +175,7 @@ For more publications, please refer to my profile on [ResearchGate](https://www.
 
 ## Students
 
-- 2017: Feng Wang (王枫), Jinxiao Huang (黄金筱)
+- 2017: Feng Wang ([CCF Award for Outstanding undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage), Freshman Scholarship ), Jinxiao Huang (黄金筱)
 - 2018: Hao Sun (孙浩), Xiao Geng (耿啸), Qingbin Wang (王庆彬), Wenjian Xiong (熊文剑)
 - 2019: Wanrong Dou (豆宛荣), Qinyi Yu (余沁怡), Siqin Yang (杨思琴)
 

@@ -2,7 +2,7 @@
 
 ## Latest News
 
-```markdown
+```html
 
 - [Dec. 2019] Dr. Yutao Ma was invited to serve the International Journal of Web Services Research as an Associate Editor
 
@@ -179,9 +179,12 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Feng Wang (2017): [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage) (2017), Freshman Scholarship (2017), Second-class Scholarship (Top 20%, 2018, 2019)
-- Jinxiao Huang (2017): Special Scholarship (2019), Second-class Scholarship (Top 20%, 2018, 2019)
-- 2018: Hao Sun, Xiao Geng, Qingbin Wang, Wenjian Xiong
+- Feng Wang (2017): [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage) (2017), Freshman Scholarship (2017), Second-class Scholarship (Top 20%, 2018, 2019), [APSEC 2018 paper](https://ieeexplore.ieee.org/document/8719520)
+- Jinxiao Huang (2017): Special Scholarship (2019), Second-class Scholarship (Top 20%, 2018, 2019), [CollaborateCom 2019 paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30146-0_33)
+- Hao Sun (2018): First-class Scholarship (Top 10%, 2019), [IEEE JBHI paper](https://ieeexplore.ieee.org/document/8854180)
+- Qingbin Wang (2018): Second-class Scholarship (Top 20%, 2019)
+- Xiao Geng (2018): IEEE TEM paper 
+- Wenjian Xiong (2018)
 - 2019: Wanrong Dou (Freshman Scholarship (2019)), Qinyi Yu, Siqin Yang
 
 ### Alumni
@@ -195,7 +198,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2014 | Mingming Chen | One-year visiting student at Lehigh University<br>National Scholarship for postgraduates (2016) | [NetEase](https://www.163.com/) |
 | 2014 | Guoan You | [Best Paper Award of SEKE 2016](http://ksiresearchorg.ipage.com/seke/seke16.html)<br>Special Scholarship (2016) | [Baidu](https://www.baidu.com/) |
 | 2014 | Haiyang Liu |  | [China UnionPay](https://cn.unionpay.com/) |
-| 2015 | Tao Xu | One-year visiting student at Lehigh University | [Ultralucia](http://www.guangchao.net.cn/) |
+| 2015 | Tao Xu | One-year visiting student at Lehigh University<br>Second-class Scholarship (Top 20%, 2017) | [Ultralucia](http://www.guangchao.net.cn/) |
 | 2015 | Xiaowan Shi | Second-class Scholarship (Top 20%, 2017) | [JD.COM](https://www.jd.com/) |
 | 2015 | Huazhi Song |  | [JD.COM](https://www.jd.com/) |
 | 2016 | Junchao Liu | One-year visiting student at Lehigh University | [Huawei](https://www.huawei.com/) |

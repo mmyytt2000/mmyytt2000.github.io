@@ -27,8 +27,6 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 | [Education and Work Experience](#education-and-work-experience) | [Academic Services](#academic-services) | [Awards](#awards) | [Funding](#funding) | [Selected Publications](#selected-publications) | [Teaching](#teaching) | [Students](#students) |
 | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 
-&nbsp;
-
 ## Education and Work Experience
 
 - 2010/12 ~ present, Associate Professor, School of Computer Science, Wuhan University

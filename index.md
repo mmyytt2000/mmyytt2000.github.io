@@ -2,15 +2,15 @@
 
 ## Latest News
 
-**Jan. 2020** "&emsp;" Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
+**Jan. 2020** &emsp; Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
 
-**Dec. 2019**   Dr. Yutao Ma was invited to serve the [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) as an Associate Editor.  
+**Dec. 2019** &emsp; Dr. Yutao Ma was invited to serve the [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) as an Associate Editor.  
 
-**Dec. 2019**   A new paper was accepted by [IEEE Transactions on Engineering Management](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/).
+**Dec. 2019** &emsp; A new paper was accepted by [IEEE Transactions on Engineering Management](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/).
 
-**Dec. 2019**   A new paper (written in Chinese) was accepted by the [Journal of Computer Research and Development](http://crad.ict.ac.cn/CN/volumn/home.shtml)
+**Dec. 2019** &emsp; A new paper (written in Chinese) was accepted by the [Journal of Computer Research and Development](http://crad.ict.ac.cn/CN/volumn/home.shtml)
 
-**Nov. 2019**   Four M.S. students obtained scholarships from Wuhan University.
+**Nov. 2019** &emsp; Four M.S. students obtained scholarships from Wuhan University.
 
 ## Brief Biography
 

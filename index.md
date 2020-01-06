@@ -1,7 +1,6 @@
 # Welcome to Dr. Yutao Ma's Homepage
 
 | **[Bio](#short-biography)** | **[Background](#education-and-work-experience)** | **[Academic Services](#academic-services)** | **[Awards](#awards)** | **[Funding](#funding)** | **[Publications](#selected-publications)** | **[Teaching](#teaching)** | **[Students](#students)** | **[Contact](#contact-information)** |
-
 &nbsp;
 
 ## Latest News

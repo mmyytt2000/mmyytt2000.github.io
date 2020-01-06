@@ -2,13 +2,9 @@
 
 ## Latest News
 
-```python
+**Dec. 2019** Dr. Yutao Ma was invited to serve the [International Journal of Web Services Research]((https://www.igi-global.com/journal/international-journal-web-services-research/1079)) as an Associate Editor.  
 
-import time
-
-print ("Dr. Yutao Ma was invited to serve the International Journal of Web Services Research as an Associate Editor.");
-
-```
+**Dec. 2019** A new paper was accepted by [IEEE Transactions on Engineering Management](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/).
 
 ## Brief Biography
 

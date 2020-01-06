@@ -2,9 +2,15 @@
 
 ## Latest News
 
-**Dec. 2019** Dr. Yutao Ma was invited to serve the [International Journal of Web Services Research]((https://www.igi-global.com/journal/international-journal-web-services-research/1079)) as an Associate Editor.  
+**Jan. 2020** Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
+
+**Dec. 2019** Dr. Yutao Ma was invited to serve the [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) as an Associate Editor.  
 
 **Dec. 2019** A new paper was accepted by [IEEE Transactions on Engineering Management](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/).
+
+**Dec. 2019** A new paper (written in Chinese) was accepted by the [Journal of Computer Research and Development](http://crad.ict.ac.cn/CN/volumn/home.shtml)
+
+**Nov. 2019** Four M.S. students obtained scholarships from Wuhan University.
 
 ## Brief Biography
 
@@ -183,7 +189,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Qingbin Wang (2018): Second-class Scholarship (Top 20%, 2019)
 - Xiao Geng (2018): IEEE TEM paper 
 - Wenjian Xiong (2018)
-- 2019: Wanrong Dou (Freshman Scholarship (2019)), Qinyi Yu, Siqin Yang
+- Wanrong Dou (2019): Freshman Scholarship (2019)
+- Qinyi Yu (2019)
+- Siqin Yang (2019)
 
 ### Alumni
 

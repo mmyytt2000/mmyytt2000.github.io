@@ -1,5 +1,11 @@
 # Welcome to Dr. Yutao Ma's Homepage
 
+&nbsp;
+
+| **[Bio](#short-biography)** | **[Background](#education-and-work-experience)** | **[Academic Services](#academic-services)** | **[Awards](#awards)** | **[Funding](#funding)** | **[Publications](#selected-publications)** | **[Teaching](#teaching)** | **[Students](#students)** | **[Contact](#contact-information)** |
+
+&nbsp;
+
 ## Latest News
 
 **Jan. 2020** &emsp; Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
@@ -15,18 +21,6 @@
 ## Short Biography
 
 Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Associate Professor in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/). He is a member of the [Software Service Engineering and Application Laboratory](https://ssea-lab.github.io/) and is currently a deputy director of the Institute of Intelligentized Software and Services in the School of Computer Science. He obtained the Ph.D. degree in Computer Science from Wuhan University in 2007. Dr. Ma was a postdoctoral researcher with Prof. [Deyi Li](http://www.cae.cn/cae/html/main/colys/00679747.html) in the Institute of China Electronic System Engineering Corporation and has been a short-term visiting scholar in the [Department of Electrical and Computer Engineering](https://engineering.lehigh.edu/ece) at [Lehigh University](https://www1.lehigh.edu/home). In 2016, he became the leader of a scientific and technological innovation team in Hubei Province. Besides, he has been selected to the Wuhan Yellow Crane Talent Programme and the Wuhan Youth ChengGuang Programme of Science and Technology. His research interest is the development and maintenance of intelligent software services, including service-based system development using artificial intelligence techniques, mining software repositories, and domain-specific application and practice (especially on biomedical imaging and computer-aided diagnosis). 
-
-## Contact Information
-
-**Mail:** Room E312, School of Computer Science, Wuhan University, Wuhan 430072, Hubei Province, China  
-**Tel.:** +86-27-6877-6081  
-**E-mail:** ytma@whu.edu.cn  
-
-&nbsp;
-
-| [Education and Work Experience](#education-and-work-experience) | [Academic Services](#academic-services) | [Awards](#awards) | [Funding](#funding) | [Selected Publications](#selected-publications) | [Teaching](#teaching) | [Students](#students) |
-
-&nbsp;
 
 ## Education and Work Experience
 
@@ -217,6 +211,12 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
 | 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
 | 2017 | Shengnan Ding |  | [Xiaomi](https://www.mi.com/) |
+
+## Contact Information
+
+**Mail:** Room E312, School of Computer Science, Wuhan University, Wuhan 430072, Hubei Province, China  
+**Tel.:** +86-27-6877-6081  
+**E-mail:** ytma@whu.edu.cn  
 
 ---------
 <p align="right">Last updated: 2020-1-6</p>

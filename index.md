@@ -2,7 +2,7 @@
 
 ## Latest News
 
-**Jan. 2020**   Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
+**Jan. 2020** &emsp Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
 
 **Dec. 2019**   Dr. Yutao Ma was invited to serve the [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) as an Associate Editor.  
 

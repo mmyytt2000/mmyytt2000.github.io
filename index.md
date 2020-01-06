@@ -22,6 +22,8 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 **Tel.:** +86-27-6877-6081  
 **E-mail:** ytma@whu.edu.cn  
 
+[Funding](#funding)
+
 ## Education and Work Experience
 
 - 2010/12 ~ present, Associate Professor, School of Computer Science, Wuhan University

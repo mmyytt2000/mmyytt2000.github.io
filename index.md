@@ -2,9 +2,11 @@
 
 ## Latest News
 
-```html
+```python
 
-- [Dec. 2019] Dr. Yutao Ma was invited to serve the International Journal of Web Services Research as an Associate Editor
+import time
+
+print ("Dr. Yutao Ma was invited to serve the International Journal of Web Services Research as an Associate Editor.");
 
 ```
 

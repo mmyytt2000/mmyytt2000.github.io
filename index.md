@@ -213,4 +213,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Shengnan Ding |  | [Xiaomi](https://www.mi.com/) |
 
 ---------
-Last updated: 2020-1-6
+<p align="right">Last updated: 2020-1-6</p>

@@ -211,3 +211,6 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
 | 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
 | 2017 | Shengnan Ding |  | [Xiaomi](https://www.mi.com/) |
+
+---------
+Last updated: 2020-1-6

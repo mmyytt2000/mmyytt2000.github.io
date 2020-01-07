@@ -1,4 +1,4 @@
-&brvbar; &emsp; **[Biography](#short-biography)** &emsp; &brvbar; &emsp; **[Background](#education-and-work-experience)** &emsp; &brvbar; &emsp; **[Services](#academic-services)** &emsp; &brvbar; &emsp; **[Awards](#awards)** &emsp; &brvbar; &emsp; **[Funding](#funding)** &emsp; &brvbar; &emsp; **[Publications](#selected-publications)** &emsp; &brvbar; &emsp; **[Teaching](#teaching)** &emsp; &brvbar; &emsp; **[Students](#students)** &emsp; &brvbar; &emsp; **[Contact](#contact-information)** &emsp; &brvbar;
+&brvbar; &emsp; **[Background](#education-and-work-experience)** &emsp; &brvbar; &emsp; **[Services](#academic-services)** &emsp; &brvbar; &emsp; **[Awards](#awards)** &emsp; &brvbar; &emsp; **[Funding](#funding)** &emsp; &brvbar; &emsp; **[Publications](#selected-publications)** &emsp; &brvbar; &emsp; **[Teaching](#teaching)** &emsp; &brvbar; &emsp; **[Students](#students)** &emsp; &brvbar; &emsp; **[Contact](#contact-information)** &emsp; &brvbar;
 
 -------
 

@@ -1,4 +1,4 @@
-&brvbar; &emsp;**[Biography](#short-biography)**&emsp; &brvbar; &emsp;**[Background](#education-and-work-experience)**&emsp; &brvbar; &emsp;**[Services](#academic-services)**&emsp; &brvbar; &emsp;**[Awards](#awards)**&emsp; &brvbar; &emsp;**[Funding](#funding)**&emsp; &brvbar; &emsp;**[Publications](#selected-publications)**&emsp; &brvbar; &emsp;**[Teaching](#teaching)**&emsp; &brvbar; &emsp;**[Students](#students)**&emsp; &brvbar; &emsp;**[Contact](#contact-information)**&emsp; &brvbar;
+&brvbar; &emsp; **[Biography](#short-biography)** &emsp; &brvbar; &emsp; **[Background](#education-and-work-experience)** &emsp; &brvbar; &emsp; **[Services](#academic-services)** &emsp; &brvbar; &emsp; **[Awards](#awards)** &emsp; &brvbar; &emsp; **[Funding](#funding)** &emsp; &brvbar; &emsp; **[Publications](#selected-publications)** &emsp; &brvbar; &emsp; **[Teaching](#teaching)** &emsp; &brvbar; &emsp; **[Students](#students)** &emsp; &brvbar; &emsp; **[Contact](#contact-information)** &emsp; &brvbar;
 
 -------
 
@@ -28,6 +28,8 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 - 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. [Keqing He](https://baike.baidu.com/item/%E4%BD%95%E5%85%8B%E6%B8%85/10908095?fr=aladdin)
 - 2001/09 ~ 2004/06, Computer Application, [Wuhan University of Science and Technology](http://www.wust.edu.cn/), M.S. Supervisor: Prof. [Jianxun Chen](https://baike.baidu.com/item/%E9%99%88%E5%BB%BA%E5%8B%8B/9630403?fr=aladdin)
 - 1997/09 ~ 2001/06, Computer Science and Technology, Wuhan University of Science and Technology
+
+[Top](#latest-news)
 
 ## Academic Services
 

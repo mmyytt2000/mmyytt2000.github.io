@@ -29,8 +29,6 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 - 2001/09 ~ 2004/06, Computer Application, [Wuhan University of Science and Technology](http://www.wust.edu.cn/), M.S. Supervisor: Prof. [Jianxun Chen](https://baike.baidu.com/item/%E9%99%88%E5%BB%BA%E5%8B%8B/9630403?fr=aladdin)
 - 1997/09 ~ 2001/06, Computer Science and Technology, Wuhan University of Science and Technology
 
-[Top](#latest-news)
-
 ## Academic Services
 
 ### Professional Membership

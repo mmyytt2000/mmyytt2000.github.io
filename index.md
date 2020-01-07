@@ -1,4 +1,4 @@
-| **[Biography](#short-biography)** | **[Background](#education-and-work-experience)** | **[Services](#academic-services)** | **[Awards](#awards)** | **[Funding](#funding)** | **[Publications](#selected-publications)** | **[Teaching](#teaching)** | **[Students](#students)** | **[Contact](#contact-information)** |
+\## **[Biography](#short-biography)** \## **[Background](#education-and-work-experience)** | **[Services](#academic-services)** | **[Awards](#awards)** | **[Funding](#funding)** | **[Publications](#selected-publications)** | **[Teaching](#teaching)** | **[Students](#students)** | **[Contact](#contact-information)** |
 
 -------
 
@@ -212,7 +212,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 **Mail:** Room E312, School of Computer Science, Wuhan University, Wuhan 430072, Hubei Province, China  
 **Tel.:** +86-27-6877-6081  
-**E-mail:** ytma@whu.edu.cn  
+**E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-1-6</p>
+<p align="right">Last updated: 2020-1-7</p>

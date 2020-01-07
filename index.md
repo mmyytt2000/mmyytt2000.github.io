@@ -1,5 +1,5 @@
 &nbsp;
-<p align="center">**[Biography](#short-biography)** | **[Background](#education-and-work-experience)** | **[Services](#academic-services)** | **[Awards](#awards)** | **[Funding](#funding)** | **[Publications](#selected-publications)** | **[Teaching](#teaching)** | **[Students](#students)** | **[Contact](#contact-information)**</p>
+**[Biography](#short-biography)** | **[Background](#education-and-work-experience)** | **[Services](#academic-services)** | **[Awards](#awards)** | **[Funding](#funding)** | **[Publications](#selected-publications)** | **[Teaching](#teaching)** | **[Students](#students)** | **[Contact](#contact-information)**
 
 ## Latest News
 

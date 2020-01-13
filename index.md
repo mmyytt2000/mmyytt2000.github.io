@@ -215,7 +215,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<script src="https://cdn1.lncld.net/static/js/av-min-1.5.0.js"></script>
-<script src="https://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.3.0.js"></script>
-<span data-hk-page="current"> - </span>
 <p align="right">Last updated: 2020-1-7</p>

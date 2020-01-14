@@ -67,7 +67,7 @@ I have received a few notable international and domestic awards or prizes, inclu
 - First Prize of Invention and Entrepreneurship, 3rd Contributor, China Association of Inventions, 2018
 - Best Paper Award, [International Conference on Software Engineering and Knowledge Engineering](http://ksiresearchorg.ipage.com/seke/seke16.html), 2016
 - First Prize of Scientific and Technological Progress, 2nd Contributor, Hubei Province, 2015
-- First Prize of Scientific and Technological Progress, 6th Contributor, China Computer Federation, 2014
+- [First Prize of Scientific and Technological Progress](https://www.ccf.org.cn/awards/lnhjqk/2014/qb/), 6th Contributor, China Computer Federation, 2014
 - First Prize of Scientific and Technological Progress, 4th Contributor, Hubei Province, 2011
 - Second Prize of State Scientific and Technological Progress, 9th Contributor, P.R. China, 2009
 - First Prize of Scientific and Technological Progress, 6th Contributor, Hubei Province, 2008

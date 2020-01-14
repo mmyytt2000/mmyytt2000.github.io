@@ -206,7 +206,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2016 | Junchao Liu | One-year visiting student at Lehigh University | [Huawei](https://www.huawei.com/) |
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
 | 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
-| 2017 | Shengnan Ding |  | [Xiaomi](https://www.mi.com/) |
+| 2017 | Shengnan Ding | Second-class Scholarship (Top 20%, 2017, 2018) | [Xiaomi](https://www.mi.com/) |
 
 ## Contact Information
 

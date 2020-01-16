@@ -107,7 +107,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Service Recommendation and Service-based System Development
 
-- **Yutao Ma**, Xiao Geng, and Jian Wang*. A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation. _IEEE Transactions on Engineering Management_, DOI: 10.1109/TEM.2019.2961376, 2020. ([Code](https://github.com/ssea-lab/MISR))
+- **Yutao Ma**, Xiao Geng, and Jian Wang*. [A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation](https://ieeexplore.ieee.org/document/8960409). _IEEE Transactions on Engineering Management_, DOI: 10.1109/TEM.2019.2961376, 2020. ([Code](https://github.com/ssea-lab/MISR))
 - Liwei Huang, **Yutao Ma***, Shibo Wang, and Yanbo Liu. [An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation](https://ieeexplore.ieee.org/document/8723186). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2019.2918310, 2019. ([Code](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation))
 - Ruibin Xiong, Jian Wang*, Neng Zhang, and **Yutao Ma**. [Deep Hybrid Collaborative Filtering for Web Service Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417418303385). _Expert Systems with Applications_, 2018, 110: 191-205.
 - Neng Zhang, Jian Wang*, **Yutao Ma**, Keqing He, Zheng Li, and Xiaoqing Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). _Journal of Systems and Software_,
@@ -183,7 +183,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Jinxiao Huang (2017): Special Scholarship (2019), Second-class Scholarship (Top 20%, 2018, 2019), [CollaborateCom 2019 paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30146-0_33)
 - Hao Sun (2018): First-class Scholarship (Top 10%, 2019), [IEEE JBHI paper](https://ieeexplore.ieee.org/document/8854180)
 - Qingbin Wang (2018): Second-class Scholarship (Top 20%, 2019)
-- Xiao Geng (2018): IEEE TEM paper 
+- Xiao Geng (2018): [IEEE TEM paper](https://ieeexplore.ieee.org/document/8960409) 
 - Wenjian Xiong (2018)
 - Wanrong Dou (2019): Freshman Scholarship (2019)
 - Qinyi Yu (2019)
@@ -215,4 +215,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-1-7</p>
+<p align="right">Last updated: 2020-1-16</p>

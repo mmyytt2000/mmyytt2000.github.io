@@ -133,6 +133,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Seyedrebvar Hosseini, Burak Turhan, and Dimuthu Gunarathna. [A Systematic Literature Review and Meta-Analysis on Cross Project Defect Prediction](https://ieeexplore.ieee.org/document/8097045). _IEEE Transactions on Software Engineering_, 2019, 45(2): 111-147.
   > - Fangyun Qin, Zheng Zheng, Yu Qiao, and [Kishor S. Trivedi](https://ece.duke.edu/faculty/kishor-trivedi). [Studying Aging-Related Bug Prediction Using Cross-Project Models](https://ieeexplore.ieee.org/document/8449965). _IEEE Transactions on Reliability_, 2019, 68(3): 1134-1153.
   > - Qinbao Song, Yuchen Guo, and [Martin J. Shepperd](http://people.brunel.ac.uk/~csstmms/). [A Comprehensive Investigation of the Role of Imbalanced Learning for Software Defect Prediction](https://ieeexplore.ieee.org/document/8359087). _IEEE Transactions on Software Engineering_, 2019, 45(12): 1253-1269.
+  > - Christopher Theisen and [Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/). [Better together: Comparing vulnerability prediction models](https://doi.org/10.1016/j.infsof.2019.106204). _Information and Software Technology_, 2020, 119: 106204.
 - Mingming Chen and **Yutao Ma***. [An empirical study on predicting defect numbers](http://ksiresearchorg.ipage.com/seke/seke15paper/seke15paper_132.pdf). In _Proceedings of the 27th International Conference on Software Engineering and Knowledge Engineering (SEKE 2015)_, pp. 397-402, 2015.
   > - Seyedrebvar Hosseini, Burak Turhan, and Dimuthu Gunarathna. [A Systematic Literature Review and Meta-Analysis on Cross Project Defect Prediction](https://ieeexplore.ieee.org/document/8097045). _IEEE Transactions on Software Engineering_, 2019, 45(2): 111-147.
   > - Santosh Singh Rathore and Sandeep Kumar. [An Approach for the Prediction of Number of Software Faults Based on the Dynamic Selection of Learning Techniques](https://ieeexplore.ieee.org/document/8445625). _IEEE Transactions on Reliability_, 2019, 68(1): 216-236.
@@ -215,4 +216,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-1-16</p>
+<p align="right">Last updated: 2020-2-14</p>

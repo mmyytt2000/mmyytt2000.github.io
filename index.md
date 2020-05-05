@@ -4,7 +4,7 @@
 
 ## Latest News
 
-**Apr. 2020** To all the deceased rest in peace!
+**Apr. 2020** &emsp; To all the deceased rest in peace!
 
 **Jan. 2020** &emsp; Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
 

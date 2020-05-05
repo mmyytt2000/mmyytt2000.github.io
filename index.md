@@ -4,15 +4,13 @@
 
 ## Latest News
 
+**Apr. 2020** To all the deceased rest in peace!
+
 **Jan. 2020** &emsp; Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
 
 **Dec. 2019** &emsp; Dr. Yutao Ma was invited to serve the [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) as an Associate Editor.  
 
 **Dec. 2019** &emsp; A new paper was accepted by [IEEE Transactions on Engineering Management](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/).
-
-**Dec. 2019** &emsp; A new paper (written in Chinese) was accepted by the [Journal of Computer Research and Development](http://crad.ict.ac.cn/CN/volumn/home.shtml)
-
-**Nov. 2019** &emsp; Four M.S. students obtained scholarships from Wuhan University.
 
 ## Short Biography
 
@@ -99,7 +97,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Xianxu Zeng#, Xiaoan Zhang#, Canyu Li, Xiaofang Wang, Jason Jerwick, Tao Xu, Yuan Ning, Yihong Wang, Linlin Zhang, Zhan Zhang, **Yutao Ma**, and Chao Zhou*. [Ultrahigh-resolution optical coherence microscopy accurately classifies precancerous and cancerous human cervix free of labeling](https://www.thno.org/v08p3099.htm). _Theranostics_, 2018, 8(11): 3099-3110. (**[Front-Cover Article](https://www.thno.org/v8i11)**)
   > Kathryn A. Kundrod, Chelsey A. Smith, Brady Hunt, Richard A. Schwarz, Kathleen Schmeler, and [Rebecca Richards-Kortum](https://en.wikipedia.org/wiki/Rebecca_Richards-Kortum). [Advances in technologies for cervical cancer detection in low-resource settings](https://www.tandfonline.com/doi/full/10.1080/14737159.2019.1648213). _Expert Review of Molecular Diagnostics_, 2019, 19(8): 695-714.
 - Lian Duan, Xi Qin, Yuanhao He, Xialin Sang, Jinda Pan, Tao Xu, Jing Men, Rudolph E. Tanzi, Airong Li, **Yutao Ma**, and Chao Zhou*. [Segmentation of _Drosophila_ heart in optical coherence microscopy images using convolutional neural networks](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201800146). _Journal of Biophotonics_, 2018, 11(12): e201800146. (**[Back-Cover Article](https://onlinelibrary.wiley.com/toc/18640648/2018/11/12)**)
-- Jing Men, Jason Jerwick, Penghe Wu, Mingming Chen, Aneesh Alex, **Yutao Ma**, Rudolph E. Tanzi, Airong Li, and Chao Zhou*. [_Drosophila_ Preparation and Longitudinal Imaging of Heart Function _In Vivo_ Using Optical Coherence Microscopy (OCM)](https://www.jove.com/video/55002/drosophila-preparation-longitudinal-imaging-heart-function-vivo-using). _Journal of Visualized Experiments_, 2016, 118: e55002. 
+  > Shang Wang, Irina V. Larina, and [Kirill V. Larin](http://bol.egr.uh.edu/). [Label-free optical imaging in developmental biology](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-11-4-2017). _Biomedical Optics Express_, 2020, 11(4): 2017-2040. 
 - Chao Zhou*, Aneesh Alex, Janarthanan Rasakanthan, and **Yutao Ma**. [Space-division multiplexing optical coherence tomography](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-16-19219). _Optics Express_, 2013, 21(16): 19219-19227.
   > - Trevor Anderson, Armin Segref, Grant Frisken, and [Steven Frisken](https://www.cyliteoptics.com/about/). [3D spectral imaging system for anterior chamber metrology](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9312/93120N/3D-spectral-imaging-system-for-anterior-chamber-metrology/10.1117/12.2079229.full?SSO=1). _Proceedings of SPIE_, 2015, 9312: 93120N.
   > - Pablo Eugui, Antonia Lichtenegger, Marco Augustin, Danielle J. Harper, Stanislava Fialová, Andreas Wartak, [Christoph K. Hitzenberger](https://www.meduniwien.ac.at/web/index.php?id=688&res=christoph_hitzenberger), and Bernhard Baumann. [Few-mode fiber detection for tissue characterization in optical coherence tomography](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10416/104160M/Few-mode-fiber-detection-for-tissue-characterization-in-optical-coherence/10.1117/12.2287667.full?SSO=1). _Proceedings of SPIE_, 2017, 10416: 104160M.
@@ -114,7 +112,6 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 2018, 142: 73-91.
 - Jian Wang, Panpan Gao, **Yutao Ma***, Keqing He, and Patrick Hung. [A Web Service Discovery Approach Based on Common Topic Groups Extraction](https://ieeexplore.ieee.org/document/7939969). _IEEE Access_, 2017, 5: 10193-10208. ([Conference Version](https://link.springer.com/chapter/10.1007/978-3-319-26979-5_7))
 - Neng Zhang, Jian Wang*, and **Yutao Ma**. [Mining Domain Knowledge on Service Goals From Textual Service Descriptions](https://ieeexplore.ieee.org/document/7896653). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2017.2693147, 2017.
-- Wei Xiong, Bing Li*, Xiaohui Cui, **Yutao Ma**, Rong Yang, and Peng He. [A Learning Approach to the Prediction of Reliability Ranking for Web Services](https://ieeexplore.ieee.org/document/7195566). In _Proceedings of the 2015 IEEE International Conference on Web Services (IEEE ICWS 2015)_, pp. 169-176, 2015.
 - Bo Hu, **Yutao Ma***, Liang-Jie Zhang, Chunxiao Xing, Jun Zou, and Ping Xu. [A CCRA based Mass Customization Development for Cloud Services](https://ieeexplore.ieee.org/document/6649760). In _Proceedings of the 2013 IEEE International Conference on Services Computing (IEEE SCC 2013)_, pp. 705-712, 2013.
   > Mehdi Bahrami and [Mukesh Singhal](https://cloudlab.ucmerced.edu/~mukesh). [DCCSOA: A Dynamic Cloud Computing Service-Oriented Architecture](https://ieeexplore.ieee.org/document/7300969). In _Proceedings of the 2015 IEEE International Conference on Information Reuse and Integration (IEEE IRI 2015)_, pp. 158-165, 2015.
 
@@ -217,4 +214,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-2-14</p>
+<p align="right">Last updated: 2020-5-5</p>

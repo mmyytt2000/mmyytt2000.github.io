@@ -6,7 +6,7 @@
 
 **Jun. 2020** &emsp; A paper was published by the IEEE J-BHI.
 
-**May  2020** &emsp; Congratulations! Feng Wang and Jinxiao Huang defended their MS dissertations.
+**May 2020** &emsp; Congratulations! Feng Wang and Jinxiao Huang defended their MS dissertations.
 
 **Apr. 2020** &emsp; To all the deceased rest in peace!
 
@@ -174,10 +174,8 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Feng Wang (2017): [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage) (2017), Freshman Scholarship (2017), Second-class Scholarship (Top 20%, 2018, 2019), [APSEC 2018 paper](https://ieeexplore.ieee.org/document/8719520)
-- Jinxiao Huang (2017): Special Scholarship (2019), Second-class Scholarship (Top 20%, 2018, 2019), [CollaborateCom 2019 paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30146-0_33)
-- Hao Sun (2018): First-class Scholarship (Top 10%, 2019), [IEEE JBHI paper](https://ieeexplore.ieee.org/document/8854180)
-- Qingbin Wang (2018): Second-class Scholarship (Top 20%, 2019)
+- Hao Sun (2018): First-class Scholarship (2019), [IEEE JBHI paper](https://ieeexplore.ieee.org/document/8854180)
+- Qingbin Wang (2018): Second-class Scholarship (2019)
 - Xiao Geng (2018): [IEEE TEM paper](https://ieeexplore.ieee.org/document/8960409) 
 - Wenjian Xiong (2018)
 - Wanrong Dou (2019): Freshman Scholarship (2019)
@@ -188,21 +186,22 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 | Grade | Name | Award or Scholarship | Employment |
 | :------: | :------: | :------ | :------: |
-| 2008 | [Weifeng Pan](https://wfpan.github.io/)<br>(Ph.D. Supervisor: Prof. Bing Li) | Second-class Scholarship (Top 20%, 2010) | [Zhejiang Gongshang University](http://www.zjgsu.edu.cn/) |
+| 2008 | [Weifeng Pan](https://wfpan.github.io/)<br>(Ph.D. Supervisor: Prof. Bing Li) | Second-class Scholarship (2010) | [Zhejiang Gongshang University](http://www.zjgsu.edu.cn/) |
 | 2012 | Peng He<br>(Ph.D. Supervisor: Prof. Bing Li) | National Scholarship for postgraduates (2013, 2014) | [Hubei University](http://www.hubu.edu.cn/) |
 | 2013 | Hongrun Wu<br>(Ph.D. Supervisor: Prof. Deyi Li) | One-year exchange student at [Rovira i Virgili University](http://www.urv.cat/en/)<br>Short-term visiting student at [Indiana University](https://indiana.edu/) | [Minnan Normal University](http://www.mnnu.edu.cn/) |
 | 2013 | Qing Xu | Short-term visiting student at Lehigh University | [Guotai Junan Securities](https://www.gtja.com/) |
 | 2014 | Mingming Chen | One-year visiting student at Lehigh University<br>National Scholarship for postgraduates (2016) | [NetEase](https://www.163.com/) |
 | 2014 | Guoan You | [Best Paper Award of SEKE 2016](http://ksiresearchorg.ipage.com/seke/seke16.html)<br>Special Scholarship (2016) | [Baidu](https://www.baidu.com/) |
 | 2014 | Haiyang Liu |  | [China UnionPay](https://cn.unionpay.com/) |
-| 2015 | Tao Xu | One-year visiting student at Lehigh University<br>Second-class Scholarship (Top 20%, 2017) | [Ultralucia](http://www.guangchao.net.cn/) |
-| 2015 | Xiaowan Shi | Second-class Scholarship (Top 20%, 2017) | [JD.COM](https://www.jd.com/) |
+| 2015 | Tao Xu | One-year visiting student at Lehigh University<br>Second-class Scholarship (2017) | [Ultralucia](http://www.guangchao.net.cn/) |
+| 2015 | Xiaowan Shi | Second-class Scholarship (2017) | [JD.COM](https://www.jd.com/) |
 | 2015 | Huazhi Song |  | [JD.COM](https://www.jd.com/) |
 | 2016 | Junchao Liu | One-year visiting student at Lehigh University | [Huawei](https://www.huawei.com/) |
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
 | 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
-| 2017 | Shengnan Ding | Second-class Scholarship (Top 20%, 2017, 2018) | [Xiaomi](https://www.mi.com/) |
-| 2017 | Feng Wang | [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage) (2017)<br>Freshman Scholarship (2017)<br>Second-class Scholarship (Top 20%, 2018, 2019) |
+| 2017 | Shengnan Ding | Second-class Scholarship (2017, 2018) | [Xiaomi](https://www.mi.com/) |
+| 2017 | Feng Wang | [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage) (2017)<br>Freshman Scholarship (2017)<br>Second-class Scholarship (2018, 2019) | [ByteDance](https://www.bytedance.com/zh/) |
+| 2017 | Jinxiao Huang | Special Scholarship (2019)<br>Second-class Scholarship (2018, 2019) | [Xiaomi](https://www.mi.com/) |
 
 ## Contact Information
 

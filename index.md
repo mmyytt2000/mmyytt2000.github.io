@@ -4,13 +4,13 @@
 
 ## Latest News
 
+**Jun. 2020** &emsp; A paper was published by the IEEE J-BHI.
+
+**May  2020** &emsp; Congratulations! Feng Wang and Jinxiao Huang defended their MS dissertations.
+
 **Apr. 2020** &emsp; To all the deceased rest in peace!
 
-**Jan. 2020** &emsp; Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
-
-**Dec. 2019** &emsp; Dr. Yutao Ma was invited to serve the [International Journal of Web Services Research](https://www.igi-global.com/journal/international-journal-web-services-research/1079) as an Associate Editor.  
-
-**Dec. 2019** &emsp; A new paper was accepted by [IEEE Transactions on Engineering Management](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/).
+**Jan. 2020** &emsp; Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)  
 
 ## Short Biography
 
@@ -92,7 +92,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Biomedical Imaging and AI-based Applications
 
-- Hao Sun#, Xianxu Zeng#, Tao Xu, Gang Peng, and **Yutao Ma***. [Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms](https://ieeexplore.ieee.org/document/8854180). _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2019.2944977, 2019. ([Code](https://github.com/ssea-lab/DL4ETI))
+- Hao Sun#, Xianxu Zeng#, Tao Xu, Gang Peng, and **Yutao Ma***. [Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms](https://ieeexplore.ieee.org/document/8854180). _IEEE Journal of Biomedical and Health Informatics_, 2020, 24(6): 1664-1676. ([Code](https://github.com/ssea-lab/DL4ETI))
 - **Yutao Ma#**, Tao Xu#, Xiaolei Huang, Xiaofang Wang, Canyu Li, Jason Jerwick, Yuan Ning, Xianxu Zeng, Baojin Wang, Yihong Wang, Zhan Zhang, Xiaoan Zhang, and Chao Zhou*. [Computer-Aided Diagnosis of Label-Free 3-D Optical Coherence Microscopy Images of Human Cervical Tissue](https://ieeexplore.ieee.org/document/8598821). _IEEE Transactions on Biomedical Engineering_, 2019, 66(9): 2447-2456.
 - Xianxu Zeng#, Xiaoan Zhang#, Canyu Li, Xiaofang Wang, Jason Jerwick, Tao Xu, Yuan Ning, Yihong Wang, Linlin Zhang, Zhan Zhang, **Yutao Ma**, and Chao Zhou*. [Ultrahigh-resolution optical coherence microscopy accurately classifies precancerous and cancerous human cervix free of labeling](https://www.thno.org/v08p3099.htm). _Theranostics_, 2018, 8(11): 3099-3110. (**[Front-Cover Article](https://www.thno.org/v8i11)**)
   > Kathryn A. Kundrod, Chelsey A. Smith, Brady Hunt, Richard A. Schwarz, Kathleen Schmeler, and [Rebecca Richards-Kortum](https://en.wikipedia.org/wiki/Rebecca_Richards-Kortum). [Advances in technologies for cervical cancer detection in low-resource settings](https://www.tandfonline.com/doi/full/10.1080/14737159.2019.1648213). _Expert Review of Molecular Diagnostics_, 2019, 19(8): 695-714.
@@ -202,6 +202,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
 | 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
 | 2017 | Shengnan Ding | Second-class Scholarship (Top 20%, 2017, 2018) | [Xiaomi](https://www.mi.com/) |
+| 2017 | Feng Wang | [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage) (2017)<br>Freshman Scholarship (2017)<br>Second-class Scholarship (Top 20%, 2018, 2019) |
 
 ## Contact Information
 
@@ -210,4 +211,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-5-5</p>
+<p align="right">Last updated: 2020-6-5</p>

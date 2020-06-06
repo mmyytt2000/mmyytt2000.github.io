@@ -4,7 +4,7 @@
 
 ## Latest News
 
-**Jun. 2020** &emsp; A paper was published by the IEEE J-BHI.
+**Jun. 2020** &emsp; One paper was published by the IEEE J-BHI.
 
 **May 2020** &emsp; Congratulations! Feng Wang and Jinxiao Huang defended their MS dissertations.
 

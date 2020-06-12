@@ -4,13 +4,13 @@
 
 ## Latest News
 
+**Jun. 2020** &emsp; One paper was published by the IEEE TSC.
+
 **Jun. 2020** &emsp; One paper was published by the IEEE J-BHI.
 
 **May 2020** &emsp; Congratulations! Feng Wang and Jinxiao Huang defended their MS dissertations.
 
 **Apr. 2020** &emsp; To all the deceased rest in peace!
-
-**Jan. 2020** &emsp; Dr. Yutao Ma became a member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)  
 
 ## Short Biography
 
@@ -105,13 +105,12 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Service Recommendation and Service-based System Development
 
+- Neng Zhang, Jian Wang*, and **Yutao Ma**. [Mining Domain Knowledge on Service Goals From Textual Service Descriptions](https://ieeexplore.ieee.org/document/7896653). _IEEE Transactions on Services Computing_, 2020, 13(3): 488-502.
 - **Yutao Ma**, Xiao Geng, and Jian Wang*. [A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation](https://ieeexplore.ieee.org/document/8960409). _IEEE Transactions on Engineering Management_, DOI: 10.1109/TEM.2019.2961376, 2020. ([Code](https://github.com/ssea-lab/MISR))
 - Liwei Huang, **Yutao Ma***, Shibo Wang, and Yanbo Liu. [An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation](https://ieeexplore.ieee.org/document/8723186). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2019.2918310, 2019. ([Code](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation))
 - Ruibin Xiong, Jian Wang*, Neng Zhang, and **Yutao Ma**. [Deep Hybrid Collaborative Filtering for Web Service Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417418303385). _Expert Systems with Applications_, 2018, 110: 191-205.
 - Neng Zhang, Jian Wang*, **Yutao Ma**, Keqing He, Zheng Li, and Xiaoqing Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). _Journal of Systems and Software_,
 2018, 142: 73-91.
-- Jian Wang, Panpan Gao, **Yutao Ma***, Keqing He, and Patrick Hung. [A Web Service Discovery Approach Based on Common Topic Groups Extraction](https://ieeexplore.ieee.org/document/7939969). _IEEE Access_, 2017, 5: 10193-10208. ([Conference Version](https://link.springer.com/chapter/10.1007/978-3-319-26979-5_7))
-- Neng Zhang, Jian Wang*, and **Yutao Ma**. [Mining Domain Knowledge on Service Goals From Textual Service Descriptions](https://ieeexplore.ieee.org/document/7896653). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2017.2693147, 2017.
 - Bo Hu, **Yutao Ma***, Liang-Jie Zhang, Chunxiao Xing, Jun Zou, and Ping Xu. [A CCRA based Mass Customization Development for Cloud Services](https://ieeexplore.ieee.org/document/6649760). In _Proceedings of the 2013 IEEE International Conference on Services Computing (IEEE SCC 2013)_, pp. 705-712, 2013.
   > Mehdi Bahrami and [Mukesh Singhal](https://cloudlab.ucmerced.edu/~mukesh). [DCCSOA: A Dynamic Cloud Computing Service-Oriented Architecture](https://ieeexplore.ieee.org/document/7300969). In _Proceedings of the 2015 IEEE International Conference on Information Reuse and Integration (IEEE IRI 2015)_, pp. 158-165, 2015.
 
@@ -165,7 +164,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 - Object-oriented Software Engineering: 2018 fall, 2019 fall
 - Design and Development of Large-scale Application Software: 2018 fall, 2019 fall
-- Practical Training of Programming: 2019 summer
+- Practical Training of Programming: 2019 summer, 2020 summer
 - Introduction to Software Engineering: 2020 spring
 
 ### For Graduate Students
@@ -174,7 +173,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Hao Sun (2018): First-class Scholarship (2019), [IEEE JBHI paper](https://ieeexplore.ieee.org/document/8854180)
+- Hao Sun (2018): First-class Scholarship (2019), [IEEE J-BHI paper](https://ieeexplore.ieee.org/document/8854180)
 - Qingbin Wang (2018): Second-class Scholarship (2019)
 - Xiao Geng (2018): [IEEE TEM paper](https://ieeexplore.ieee.org/document/8960409) 
 - Wenjian Xiong (2018)
@@ -210,4 +209,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-6-5</p>
+<p align="right">Last updated: 2020-6-12</p>

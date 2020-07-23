@@ -4,13 +4,11 @@
 
 ## Latest News
 
-**Jun. 2020** &emsp; One paper was published by the IEEE TSC.
+**July 2020** &emsp; One paper was published by the Elsevier FGCS.
 
-**Jun. 2020** &emsp; One paper was published by the IEEE J-BHI.
+**June 2020** &emsp; One paper was published by the IEEE TSC.
 
-**May 2020** &emsp; Congratulations! Feng Wang and Jinxiao Huang defended their MS dissertations.
-
-**Apr. 2020** &emsp; To all the deceased rest in peace!
+**June 2020** &emsp; One paper was published by the IEEE J-BHI.
 
 ## Short Biography
 
@@ -94,6 +92,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 - Hao Sun#, Xianxu Zeng#, Tao Xu, Gang Peng, and **Yutao Ma***. [Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms](https://ieeexplore.ieee.org/document/8854180). _IEEE Journal of Biomedical and Health Informatics_, 2020, 24(6): 1664-1676. ([Code](https://github.com/ssea-lab/DL4ETI))
 - **Yutao Ma#**, Tao Xu#, Xiaolei Huang, Xiaofang Wang, Canyu Li, Jason Jerwick, Yuan Ning, Xianxu Zeng, Baojin Wang, Yihong Wang, Zhan Zhang, Xiaoan Zhang, and Chao Zhou*. [Computer-Aided Diagnosis of Label-Free 3-D Optical Coherence Microscopy Images of Human Cervical Tissue](https://ieeexplore.ieee.org/document/8598821). _IEEE Transactions on Biomedical Engineering_, 2019, 66(9): 2447-2456.
+  > - Yifeng Zeng, Shiqi Xu, William C. Chapman, Shuying Li, Zahra Alipour, Heba Abdelal, Deyali Chatterjee, Matthew Mutch, and [Quing Zhu](https://engineering.wustl.edu/Profiles/Pages/Quing-Zhu.aspx). [Real-time colorectal cancer diagnosis using PR-OCT with deep learning](https://doi.org/10.1364/OCT.2020.OW2E.5). In _Proceedings of the 2020 Conference on Optical Coherence Tomography (OCT 2020)_, Washington, DC United States, 20–23 April, 2020, p. OW2E.5.
 - Xianxu Zeng#, Xiaoan Zhang#, Canyu Li, Xiaofang Wang, Jason Jerwick, Tao Xu, Yuan Ning, Yihong Wang, Linlin Zhang, Zhan Zhang, **Yutao Ma**, and Chao Zhou*. [Ultrahigh-resolution optical coherence microscopy accurately classifies precancerous and cancerous human cervix free of labeling](https://www.thno.org/v08p3099.htm). _Theranostics_, 2018, 8(11): 3099-3110. (**[Front-Cover Article](https://www.thno.org/v8i11)**)
   > Kathryn A. Kundrod, Chelsey A. Smith, Brady Hunt, Richard A. Schwarz, Kathleen Schmeler, and [Rebecca Richards-Kortum](https://en.wikipedia.org/wiki/Rebecca_Richards-Kortum). [Advances in technologies for cervical cancer detection in low-resource settings](https://www.tandfonline.com/doi/full/10.1080/14737159.2019.1648213). _Expert Review of Molecular Diagnostics_, 2019, 19(8): 695-714.
 - Lian Duan, Xi Qin, Yuanhao He, Xialin Sang, Jinda Pan, Tao Xu, Jing Men, Rudolph E. Tanzi, Airong Li, **Yutao Ma**, and Chao Zhou*. [Segmentation of _Drosophila_ heart in optical coherence microscopy images using convolutional neural networks](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201800146). _Journal of Biophotonics_, 2018, 11(12): e201800146. (**[Back-Cover Article](https://onlinelibrary.wiley.com/toc/18640648/2018/11/12)**)
@@ -118,6 +117,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ### Bug Prediction and Triaging
 
 - Feng Wang, Jinxiao Huang, and **Yutao Ma***. [A Top-k Learning to Rank Approach to Cross-Project Software Defect Prediction](https://ieeexplore.ieee.org/document/8719520). In _Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018)_, pp. 335-344, 2018. ([Dataset](https://github.com/ssea-lab/PROMISE))
+  > - Chao Ni, Xin Xia, David Lo, Xiang Chen, and Qing Gu. [Revisiting Supervised and Unsupervised Methods for Effort-Aware Cross-Project Defect Prediction](https://doi.org/10.1109/TSE.2020.3001739). _IEEE Transactions on Software Engineering_, DOI: 10.1109/TSE.2020.3001739, 2020.
 - Hongrun Wu, Haiyang Liu, and **Yutao Ma***. [Empirical study on developer factors affecting tossing path length of bug reports](https://ieeexplore.ieee.org/document/8371790/). _IET Software_, 2018, 12(3): 258-270. ([Project](https://github.com/ssea-lab/BugTriage))
   > Shengqu Xi, Yuan Yao, Xusheng Xiao, Feng Xu, and Jian Lu ([吕建院士](https://cs.nju.edu.cn/58/2a/c2639a153642/page.htm)). [Bug Triaging Based on Tossing Sequence Modeling](https://link.springer.com/10.1007/s11390-019-1953-5). _Journal of Computer Science and Technology_, 2019, 34(5): 942-956. ([Conference Version](https://doi.org/10.1145/3275219.3275228))
 - Guoan You and **Yutao Ma***. [A Ranking-Oriented Approach to Cross-Project Software Defect Prediction: An Empirical Study](http://ksiresearchorg.ipage.com/seke/seke16paper/seke16paper_47.pdf). In _Proceedings of the 28th International Conference on Software Engineering and Knowledge Engineering (SEKE 2016)_, pp. 159-164. (**Best Paper Award**, [Journal Version](https://www.worldscientific.com/doi/abs/10.1142/S0218194016400155))
@@ -130,7 +130,8 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Fangyun Qin, Zheng Zheng, Yu Qiao, and [Kishor S. Trivedi](https://ece.duke.edu/faculty/kishor-trivedi). [Studying Aging-Related Bug Prediction Using Cross-Project Models](https://ieeexplore.ieee.org/document/8449965). _IEEE Transactions on Reliability_, 2019, 68(3): 1134-1153.
   > - Qinbao Song, Yuchen Guo, and [Martin J. Shepperd](http://people.brunel.ac.uk/~csstmms/). [A Comprehensive Investigation of the Role of Imbalanced Learning for Software Defect Prediction](https://ieeexplore.ieee.org/document/8359087). _IEEE Transactions on Software Engineering_, 2019, 45(12): 1253-1269.
   > - Christopher Theisen and [Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/). [Better together: Comparing vulnerability prediction models](https://doi.org/10.1016/j.infsof.2019.106204). _Information and Software Technology_, 2020, 119: 106204.
-  > -  Jiayuan Zhou, Shaowei Wang, Cor-Paul Bezemer, Ying Zou, and [Ahmed E. Hassan](http://research.cs.queensu.ca/home/ahmed/home/). [Studying the Association between Bountysource Bounties and the Issue-addressing Likelihood of GitHub Issue Reports](https://ieeexplore.ieee.org/document/9000923). _IEEE Transactions on Software Engineering_, DOI: 10.1109/TSE.2020.2974469, 2020.
+  > - Jiayuan Zhou, Shaowei Wang, Cor-Paul Bezemer, Ying Zou, and [Ahmed E. Hassan](http://research.cs.queensu.ca/home/ahmed/home/). [Studying the Association between Bountysource Bounties and the Issue-addressing Likelihood of GitHub Issue Reports](https://ieeexplore.ieee.org/document/9000923). _IEEE Transactions on Software Engineering_, DOI: 10.1109/TSE.2020.2974469, 2020.
+  > - Ke Li, Zilin Xiang, Tao Chen, Shuo Wang, and [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm). [Understanding the Automated Parameter Optimization on Transfer Learning for Cross-Project Defect Prediction: An Empirical Study](https://conf.researchr.org/details/icse-2020/icse-2020-papers/65/Understanding-the-Automated-Parameter-Optimization-on-Transfer-Learning-for-Cross-Pro). In _Proceedings of the 42nd International Conference on Software Engineering (ICSE 2020)_, Seoul, South Korea, June 27 – July 19, 2020.
 - Peng He, Bing Li, and **Yutao Ma**. [Towards Cross-Project Defect Prediction with Imbalanced Feature Sets](https://arxiv.org/abs/1411.4228). _Computing Research Repository (CoRR)_, arXiv: 1411.4228, 2014.
   > - Karl R. Weiss, Taghi M. Khoshgoftaar, and Dingding Wang. [A survey of transfer learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-016-0043-6). _Journal of Big Data_, 2016, 3: Art. no. 9.
   > - Steffen Herbold, Alexander Trautsch, and Jens Grabowski. [Global vs. local models for cross-project defect prediction - A replication study](https://link.springer.com/article/10.1007%2Fs10664-016-9468-y). _Empirical Software Engineering_, 2017, 22(4): 1866-1902.

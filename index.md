@@ -106,6 +106,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ### Service Recommendation and Service-based System Development
 
 - Neng Zhang, Jian Wang*, and **Yutao Ma**. [Mining Domain Knowledge on Service Goals From Textual Service Descriptions](https://ieeexplore.ieee.org/document/7896653). _IEEE Transactions on Services Computing_, 2020, 13(3): 488-502.
+  > - Kaushik Madala, Shraddha Piparia, Eduardo Blanco, Hyunsook Do, and Renee Bryce. [Model elements identification using neural networks: a comprehensive study](https://doi.org/10.1007/s00766-020-00332-2). _Requirements Engineering_, DOI: 10.1007/s00766-020-00332-2, 2020.
 - **Yutao Ma**, Xiao Geng, and Jian Wang*. [A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation](https://ieeexplore.ieee.org/document/8960409). _IEEE Transactions on Engineering Management_, DOI: 10.1109/TEM.2019.2961376, 2020. ([Code](https://github.com/ssea-lab/MISR))
 - Liwei Huang, **Yutao Ma***, Shibo Wang, and Yanbo Liu. [An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation](https://ieeexplore.ieee.org/document/8723186). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2019.2918310, 2019. ([Code](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation))
 - Ruibin Xiong, Jian Wang*, Neng Zhang, and **Yutao Ma**. [Deep Hybrid Collaborative Filtering for Web Service Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417418303385). _Expert Systems with Applications_, 2018, 110: 191-205.
@@ -137,6 +138,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Yuming Zhou, Yibiao Yang, Hongmin Lu, _et al_. [How Far We Have Progressed in the Journey? An Examination of Cross-Project Defect Prediction](https://dl.acm.org/doi/10.1145/3183339). _ACM Transactions on Software Engineering and Methodology_, 2018, 27(1): 1:1-1:51.
   > - Jaechang Nam, Wei Fu, Sunghun Kim, [Tim Menzies](http://menzies.us/), and Lin Tan. [Heterogeneous Defect Prediction](https://ieeexplore.ieee.org/document/7959597). _IEEE Transactions on Software Engineering_, 2018, 44(9): 874-896. ([Conference Version](https://dl.acm.org/doi/10.1145/2786805.2786814))
   > - Seyedrebvar Hosseini, Burak Turhan, and Dimuthu Gunarathna. [A Systematic Literature Review and Meta-Analysis on Cross Project Defect Prediction](https://ieeexplore.ieee.org/document/8097045). _IEEE Transactions on Software Engineering_, 2019, 45(2): 111-147.
+  > - Sousuke Amasaki. [Cross-version defect prediction: use historical data, cross-project data, or both](https://doi.org/10.1007/s10664-019-09777-8)? _Empirical Software Engineering_, 2020, 25(2): 1573-1595.
 
 ### Software Analytics based on Complex Networks
 
@@ -152,6 +154,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - 何克清, **马于涛**, 刘婧, 李兵, 彭蓉. 软件网络. 北京: 科学出版社, 2008.
   > 陈关荣([Guanrong Chen](http://www.ee.cityu.edu.hk/~gchen/)). [复杂网络及其新近研究进展简介](http://lxjz.cstam.org.cn/CN/10.6052/1000-0992-2008-6-J2008-079). 力学进展, 2008, 38(6): 653-662. (in Chinese with English abstract)
 - **Yutao Ma**, Keqing He, Dehui Du, Jing Liu, and Yulan Yan. [A Complexity Metrics Set for Large-Scale Object-Oriented Software Systems](https://ieeexplore.ieee.org/document/4019967). In _Proceedings of the 6th IEEE International Conference on Computer and Information Technology (IEEE CIT 2006)_, p. 189, 2006. (**Best Paper Award**, [Journal Version](https://link.springer.com/article/10.1007/s11390-010-9398-x))
+  > - 	Andrea Capiluppi, Nemitari Ajienka, and [Steve Counsell](https://www.brunel.ac.uk/people/steve-counsell). [The effect of multiple developers on structural attributes: A Study based on java software](https://doi.org/10.1016/j.jss.2020.110593). _Journal of Systems and Software_, 2020, 167: 110593.
 - Jing Liu*, Keqing He, **Yutao Ma**, and Rong Peng. [Scale free in software metrics](https://ieeexplore.ieee.org/document/4020082). In _Proceedings of the 30th Annual International Computer Software and Applications Conference (COMPSAC 2006)_, vol. 1, pp. 229-235, 2006. 
   > - Reuven Cohen and [Shlomo Havlin](https://en.wikipedia.org/wiki/Shlomo_Havlin). _Complex Networks: Structure, Robustness and Function_. Cambridge University Press, 2010.
   > - Craig Taube-Schock, Robert J. Walker, and [Ian H. Witten](https://en.wikipedia.org/wiki/Ian_H._Witten). [Can We Avoid High Coupling?](https://link.springer.com/chapter/10.1007/978-3-642-22655-7_10). In _Proceedings of the 25th European Conference on Object-Oriented Programming (ECOOP 2011)_, pp. 204-228, 2011.
@@ -166,10 +169,11 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Design and Development of Large-scale Application Software: 2018 fall, 2019 fall
 - Practical Training of Programming: 2019 summer, 2020 summer
 - Introduction to Software Engineering: 2020 spring
+- Software Design and Architecture: 2020 fall
 
 ### For Graduate Students
 
-- Services Computing and Software Service Engineering: 2016 spring, 2017 spring, 2018 spring, 2018 fall, 2019 fall
+- Services Computing and Software Service Engineering: 2016 spring, 2017 spring, 2018 spring, 2018 fall, 2019 fall, 2020 fall
 
 ## Students
 
@@ -209,4 +213,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-6-12</p>
+<p align="right">Last updated: 2020-7-23</p>

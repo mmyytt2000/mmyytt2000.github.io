@@ -84,7 +84,7 @@ My research has been supported by the National Basic Research Program of China (
 
 ## Selected Publications
 
-For more publications, please refer to my profile on [ResearchGate](https://www.researchgate.net/profile/Yutao_Ma) and [Google Scholar](https://scholar.google.com/citations?user=_92TyiIAAAAJ&hl=zh-CN).  
+For more publications, please refer to my profile on [ResearchGate](https://www.researchgate.net/profile/Yutao_Ma), [DBLP](https://dblp.uni-trier.de/pers/hd/m/Ma:Yutao), and [Google Scholar](https://scholar.google.com/citations?user=_92TyiIAAAAJ&hl=zh-CN).  
 
 Here \# denotes who contributed equally to the work, and \* means the corresponding author.
 
@@ -109,10 +109,10 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - **Yutao Ma**, Xiao Geng, and Jian Wang*. [A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation](https://ieeexplore.ieee.org/document/8960409). _IEEE Transactions on Engineering Management_, DOI: 10.1109/TEM.2019.2961376, 2020. ([Code](https://github.com/ssea-lab/MISR))
 - Liwei Huang, **Yutao Ma***, Shibo Wang, and Yanbo Liu. [An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation](https://ieeexplore.ieee.org/document/8723186). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2019.2918310, 2019. ([Code](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation))
 - Ruibin Xiong, Jian Wang*, Neng Zhang, and **Yutao Ma**. [Deep Hybrid Collaborative Filtering for Web Service Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417418303385). _Expert Systems with Applications_, 2018, 110: 191-205.
-- Neng Zhang, Jian Wang*, **Yutao Ma**, Keqing He, Zheng Li, and Xiaoqing Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). _Journal of Systems and Software_,
-2018, 142: 73-91.
+- Neng Zhang, Jian Wang*, **Yutao Ma**, Keqing He, Zheng Li, and Xiaoqing Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). _Journal of Systems and Software_, 2018, 142: 73-91.
 - Bo Hu, **Yutao Ma***, Liang-Jie Zhang, Chunxiao Xing, Jun Zou, and Ping Xu. [A CCRA based Mass Customization Development for Cloud Services](https://ieeexplore.ieee.org/document/6649760). In _Proceedings of the 2013 IEEE International Conference on Services Computing (IEEE SCC 2013)_, pp. 705-712, 2013.
   > Mehdi Bahrami and [Mukesh Singhal](https://cloudlab.ucmerced.edu/~mukesh). [DCCSOA: A Dynamic Cloud Computing Service-Oriented Architecture](https://ieeexplore.ieee.org/document/7300969). In _Proceedings of the 2015 IEEE International Conference on Information Reuse and Integration (IEEE IRI 2015)_, pp. 158-165, 2015.
+- Yuchao Liu*, **Yutao Ma**, Haisu Zhang, Deyi Li, and Guisheng Chen. [A Method for Trust Management in Cloud Computing: Data Coloring by Cloud Watermarking](http://link.springer.com/article/10.1007/s11633-011-0583-3). _International Journal of Automation and Computing_, 2011, 8(3): 280-285. (**[the most highly accessed articles in 2013-2014 on SpringerLink](http://www.ijac.net/news/IJACAwards/80e3d06d-7735-4fc1-bf7c-9df781268a0e_en.htm)**)
 
 ### Bug Prediction and Triaging
 
@@ -122,7 +122,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > Shengqu Xi, Yuan Yao, Xusheng Xiao, Feng Xu, and Jian Lu ([吕建院士](https://cs.nju.edu.cn/58/2a/c2639a153642/page.htm)). [Bug Triaging Based on Tossing Sequence Modeling](https://link.springer.com/10.1007/s11390-019-1953-5). _Journal of Computer Science and Technology_, 2019, 34(5): 942-956. ([Conference Version](https://doi.org/10.1145/3275219.3275228))
 - Guoan You and **Yutao Ma***. [A Ranking-Oriented Approach to Cross-Project Software Defect Prediction: An Empirical Study](http://ksiresearchorg.ipage.com/seke/seke16paper/seke16paper_47.pdf). In _Proceedings of the 28th International Conference on Software Engineering and Knowledge Engineering (SEKE 2016)_, pp. 159-164. (**Best Paper Award**, [Journal Version](https://www.worldscientific.com/doi/abs/10.1142/S0218194016400155))
   > Yuming Zhou, Yibiao Yang, Hongmin Lu, _et al_. [How Far We Have Progressed in the Journey? An Examination of Cross-Project Defect Prediction](https://dl.acm.org/doi/10.1145/3183339). _ACM Transactions on Software Engineering and Methodology_, 2018, 27(1): 1:1-1:51.
-- Peng He, Bing Li, Xiao Liu, Jun Chen, and **Yutao Ma***. [An Empirical Study on Software Defect Prediction with a Simplified Metric Set](https://www.sciencedirect.com/science/article/pii/S0950584914002523). _Information and Software Technology_, 2015, 59: 170–190.
+- Peng He, Bing Li, Xiao Liu, Jun Chen, and **Yutao Ma***. [An Empirical Study on Software Defect Prediction with a Simplified Metric Set](https://www.sciencedirect.com/science/article/pii/S0950584914002523). _Information and Software Technology_, 2015, 59: 170–190. (**[Most Cited IST Articles published since 2015](https://scholar.google.ca/citations?hl=en&vq=eng_softwaresystems&view_op=list_hcore&venue=pElyisFMojYJ.2020)**)
   > - Pradeep Singh, [Nikhil R. Pal](https://www.isical.ac.in/~nikhil/), Shrish Verma, and Om Prakash Vyas. [Fuzzy Rule-Based Approach for Software Fault Prediction](https://ieeexplore.ieee.org/document/7414476). _IEEE Transactions on Systems, Man, and Cybernetics: Systems_, 2017, 47(5): 826-837.
   > - Steffen Herbold, Alexander Trautsch, and Jens Grabowski. [A Comparative Study to Benchmark Cross-Project Defect Prediction Approaches](https://ieeexplore.ieee.org/document/7972992). _IEEE Transactions on Software Engineering_, 2018, 44(9): 811-833.
   > - Fabian Trautsch, Steffen Herbold, Philip Makedonski, and Jens Grabowski. [Addressing problems with replicability and validity of repository mining studies through a smart data platform](https://link.springer.com/article/10.1007/s10664-017-9537-x). _Empirical Software Engineering_, 2018, 23(2): 1036-1083.

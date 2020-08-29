@@ -4,6 +4,8 @@
 
 ## Latest News
 
+**Aug. 2020** &emsp; I was greatly honoured to receive the CCF-TCSC RockStar Award
+
 **July 2020** &emsp; One paper was published by the Elsevier FGCS.
 
 **June 2020** &emsp; One paper was published by the IEEE TSC.
@@ -60,6 +62,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 
 I have received a few notable international and domestic awards or prizes, including
 
+- CCF-TCSC RockStar Award, CCF Technical Committee on Services Computing, 2020
 - First Prize of Invention and Entrepreneurship, 3rd Contributor, China Association of Inventions, 2018
 - Best Paper Award, [International Conference on Software Engineering and Knowledge Engineering](http://ksiresearchorg.ipage.com/seke/seke16.html), 2016
 - First Prize of Scientific and Technological Progress, 2nd Contributor, Hubei Province, 2015
@@ -216,4 +219,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-7-23</p>
+<p align="right">Last updated: 2020-8-29</p>

@@ -178,6 +178,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Practical Training of Programming: 2019 summer, 2020 summer
 - Introduction to Software Engineering: 2020 spring
 - Software Design and Architecture: 2020 fall
+- Software Engineering Economics: 2020 fall 
 
 ### For Graduate Students
 

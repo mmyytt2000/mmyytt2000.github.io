@@ -4,13 +4,9 @@
 
 ## Latest News
 
+**Oct. 2020** &emsp; I was elevated to the grade of IEEE Senior member
+
 **Aug. 2020** &emsp; I was greatly honoured to receive the CCF-TCSC RockStar Award
-
-**July 2020** &emsp; One paper was published by the Elsevier FGCS.
-
-**June 2020** &emsp; One paper was published by the IEEE TSC.
-
-**June 2020** &emsp; One paper was published by the IEEE J-BHI.
 
 ## Short Biography
 
@@ -32,7 +28,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 ### Professional Membership
 
 - Senior member of the China Computer Federation ([CCF](https://www.ccf.org.cn/)) 
-- Member of the [IEEE](https://www.ieee.org/), [IEEE Computer Society](https://www.computer.org/), and [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/)
+- Senior Member of the [IEEE](https://www.ieee.org/), [IEEE Computer Society](https://www.computer.org/), and [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/)
 - Member of the Chinese Association for Artificial Intelligence ([CAAI](http://www.caai.cn/))
 
 ### Technical Committee Membership
@@ -78,7 +74,7 @@ I have received a few notable international and domestic awards or prizes, inclu
 My research has been supported by the National Basic Research Program of China (973 Program), the Natural Science Foundation of China ([NSFC](http://www.nsfc.gov.cn/)), and many other research funds. Selected national funds include:
 
 - NSFC under Grant No. 61972292, 2020/01 ~ 2023/12, PI
-- 973 Program under Grant No. 2014CB340400, 2014/01~2018/12, Sub-project PI
+- 973 Program under Grant No. 2014CB340400, 2014/01~2018/12, Sub-project PI (PI: Prof. [Benjamin W. Wah](https://en.wikipedia.org/wiki/Benjamin_Wah))
 - NSFC under Grant No. 61272111, 2013/01 ~ 2016/12, PI
 - NSFC under Grant No. 61003073, 2011/01 ~ 2011/12, PI
 - [China Postdoctoral Science Foundation](http://jj.chinapostdoctor.org.cn/V1/Program3/Default.aspx) under Grant No. 201003794, 2011/01 ~ 2011.12, PI
@@ -230,4 +226,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-8-29</p>
+<p align="right">Last updated: 2020-10-7</p>

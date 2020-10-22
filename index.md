@@ -4,6 +4,8 @@
 
 ## Latest News
 
+**Oct. 2020** &emsp; One paper was accepted by ACM TOIT
+
 **Oct. 2020** &emsp; I was elevated to the grade of IEEE Senior member
 
 **Aug. 2020** &emsp; I was greatly honoured to receive the CCF-TCSC RockStar Award
@@ -103,6 +105,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Service Recommendation and Service-based System Development
 
+- Liwei Huang, **Yutao Ma***, Yanbo Liu, and Keqing He. DAN-SNR: A Deep Attentive Network for Social-Aware Next Point-of-Interest Recommendation. _ACM Transactions on Internet Technology_, 2020. (Accepted, [arXiv](https://arxiv.org/pdf/2004.12161), [Code](https://github.com/drhuangliwei/DAN-SNR))
 - Neng Zhang, Jian Wang*, and **Yutao Ma**. [Mining Domain Knowledge on Service Goals From Textual Service Descriptions](https://ieeexplore.ieee.org/document/7896653). _IEEE Transactions on Services Computing_, 2020, 13(3): 488-502.
   > Kaushik Madala, Shraddha Piparia, Eduardo Blanco, Hyunsook Do, and Renee Bryce. [Model elements identification using neural networks: a comprehensive study](https://doi.org/10.1007/s00766-020-00332-2). _Requirements Engineering_, DOI: 10.1007/s00766-020-00332-2, 2020.
 - **Yutao Ma**, Xiao Geng, and Jian Wang*. [A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation](https://ieeexplore.ieee.org/document/8960409). _IEEE Transactions on Engineering Management_, DOI: 10.1109/TEM.2019.2961376, 2020. ([Code](https://github.com/ssea-lab/MISR))
@@ -226,4 +229,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-10-7</p>
+<p align="right">Last updated: 2020-10-22</p>

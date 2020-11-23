@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Nov. 2020** &emsp; Four group members got their scholarships from Wuhan University
+
 **Oct. 2020** &emsp; One paper was accepted by ACM TOIT
 
 **Oct. 2020** &emsp; I was elevated to the grade of IEEE Senior member
-
-**Aug. 2020** &emsp; I was greatly honoured to receive the CCF-TCSC RockStar Award
 
 ## Short Biography
 
@@ -191,14 +191,14 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Hao Sun (2018): First-class Scholarship (2019), [IEEE J-BHI paper](https://ieeexplore.ieee.org/document/8854180)
+- Hao Sun (2018): First-class Scholarship (2019, 2020), Special Scholarship (2020), [IEEE J-BHI paper](https://ieeexplore.ieee.org/document/8854180)
 - Qingbin Wang (2018): Second-class Scholarship (2019)
 - Xiao Geng (2018): [IEEE TEM paper](https://ieeexplore.ieee.org/document/8960409) 
 - Wenjian Xiong (2018)
-- Wanrong Dou (2019): Freshman Scholarship (2019)
-- Qinyi Yu (2019)
+- Wanrong Dou (2019): Freshman Scholarship (2019), First-class Scholarship (2020)
+- Qinyi Yu (2019): Second-class Scholarship (2020)
 - Siqin Yang (2019)
-- Kaiyi Chen (2020)
+- Kaiyi Chen (2020): Freshman Scholarship (2020)
 - Qi Sun (2020)
 
 ### Alumni
@@ -229,4 +229,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-10-22</p>
+<p align="right">Last updated: 2020-11-23</p>

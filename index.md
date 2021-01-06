@@ -6,8 +6,6 @@
 
 **Nov. 2020** &emsp; Four group members got their scholarships from Wuhan University
 
-**Oct. 2020** &emsp; One paper was accepted by ACM TOIT
-
 **Oct. 2020** &emsp; I was elevated to the grade of IEEE Senior member
 
 ## Short Biography
@@ -75,6 +73,7 @@ I have received a few notable international and domestic awards or prizes, inclu
 
 My research has been supported by the National Basic Research Program of China (973 Program), the Natural Science Foundation of China ([NSFC](http://www.nsfc.gov.cn/)), and many other research funds. Selected national funds include:
 
+- National Scientific and Technological Innovation 2030 Project under Grant No. 2020AAA0107700, 2020/11 ~ 2023/10, Sub-project PI (PI: Prof. [Kui Ren](https://person.zju.edu.cn/en/kuiren/))
 - NSFC under Grant No. 61972292, 2020/01 ~ 2023/12, PI
 - 973 Program under Grant No. 2014CB340400, 2014/01~2018/12, Sub-project PI (PI: Prof. [Benjamin W. Wah](https://en.wikipedia.org/wiki/Benjamin_Wah))
 - NSFC under Grant No. 61272111, 2013/01 ~ 2016/12, PI
@@ -178,10 +177,10 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### For Undergraduate Students
 
-- Object-oriented Software Engineering: 2018 fall, 2019 fall
+- Object-oriented Software Engineering: 2018 fall, 2019 fall, 2021 spring
 - Design and Development of Large-scale Application Software: 2018 fall, 2019 fall
 - Practical Training of Programming: 2019 summer, 2020 summer
-- Introduction to Software Engineering: 2020 spring
+- Introduction to Software Engineering: 2020 spring, 2021 spring
 - Software Design and Architecture: 2020 fall
 - Software Engineering Economics: 2020 fall 
 
@@ -229,4 +228,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2020-11-23</p>
+<p align="right">Last updated: 2021-1-6</p>

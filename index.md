@@ -4,6 +4,8 @@
 
 ## Latest News
 
+**Feb. 2021** &emsp; Happy Spring Festival!
+
 **Nov. 2020** &emsp; Four group members got their scholarships from Wuhan University
 
 **Oct. 2020** &emsp; I was elevated to the grade of IEEE Senior member
@@ -156,7 +158,8 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ### Software Analytics based on Complex Networks
 
 - Weifeng Pan*, Bing Li, Jing Liu, **Yutao Ma**, and Bo Hu. [Analyzing the structure of Java software systems by weighted k-core decomposition](https://www.sciencedirect.com/science/article/pii/S0167739X17320940). _Future Generation Computer Systems_, 2018, 83: 431-444.
-  > Yixiu Kong, Guiyuan Shi, Ruijie Wu, and Yicheng Zhang. [_k_-core: Theories and applications](https://www.sciencedirect.com/science/article/abs/pii/S037015731930328X). _[Physics Reports](https://www.sciencedirect.com/journal/physics-reports)_, 2019, 832: 1-32.
+  > - Yixiu Kong, Guiyuan Shi, Ruijie Wu, and Yicheng Zhang. [_k_-core: Theories and applications](https://www.sciencedirect.com/science/article/abs/pii/S037015731930328X). _[Physics Reports](https://www.sciencedirect.com/journal/physics-reports)_, 2019, 832: 1-32.
+  > - Qusay Alsarhan, Bestoun S. Ahmed, Miroslav Bures, and Kamal Zuhairi Zamli. [Software Module Clustering: An In-Depth Literature Analysis](https://doi.org/10.1109/TSE.2020.3042553). _IEEE Transactions on Software Engineering_, DOI: 10.1109/TSE.2020.3042553, 2020.
 - Weifeng Pan, Bing Li*, **Yutao Ma**, and Jing Liu. [Multi-granularity evolution analysis of software using complex network theory](https://link.springer.com/article/10.1007/s11424-011-0319-z). _Journal of Systems Science and Complexity_, 2011, 24(6): 1068-1082.
    > - Yu Qu, Xiaohong Guan ([管晓宏院士](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=502)), Qinghua Zheng, Ting Liu, Lidan Wang, Yuqiao Hou, and Zijiang Yang. [Exploring community structure of software Call Graph and its applications in class cohesion measurement](https://www.sciencedirect.com/science/article/pii/S0164121215001259). _Journal of Systems and Software_, 2015, 108: 193-210.
   > - An Zeng, Zhesi Shen, Jianlin Zhou, Jinshan Wu, Ying Fan, Yougui Wang, and [H. Eugene Stanley](https://en.wikipedia.org/wiki/H._Eugene_Stanley). [The science of science: From the perspective of complex systems](https://www.sciencedirect.com/science/article/pii/S0370157317303289). _[Physics Reports](https://www.sciencedirect.com/journal/physics-reports)_, 2017, 714–715: 1-73.
@@ -232,4 +235,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2021-1-6</p>
+<p align="right">Last updated: 2021-2-8</p>

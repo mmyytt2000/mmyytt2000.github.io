@@ -184,7 +184,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### For Undergraduate Students
 
-- Object-oriented Software Engineering: 2018 fall, 2019 fall, 2021 spring
+- Object-oriented Software Engineering: 2018 fall, 2019 fall
 - Design and Development of Large-scale Application Software: 2018 fall, 2019 fall
 - Practical Training of Programming: 2019 summer, 2020 summer
 - Introduction to Software Engineering: 2020 spring, 2021 spring

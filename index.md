@@ -4,7 +4,7 @@
 
 ## Latest News
 
-**Feb. 2021** &emsp; Happy Spring Festival!
+**Apr. 2021** &emsp; One patent for invention on AI-based cervical OCT image classification has been granted
 
 **Nov. 2020** &emsp; Four group members got their scholarships from Wuhan University
 
@@ -115,7 +115,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Kaushik Madala, Shraddha Piparia, Eduardo Blanco, Hyunsook Do, and Renee Bryce. [Model elements identification using neural networks: a comprehensive study](https://doi.org/10.1007/s00766-020-00332-2). _Requirements Engineering_, DOI: 10.1007/s00766-020-00332-2, 2020.
   > - [Michael Fisher](https://personalpages.manchester.ac.uk/staff/michael.fisher/), Viviana Mascardi, Kristin Yvonne Rozier, Bernd-Holger Schlingloff, Michael Winikoff, and Neil Yorke-Smith. [Towards a framework for certification of reliable autonomous systems](https://doi.org/10.1007/s10458-020-09487-2). _Autonomous Agents and Multi-Agent Systems_, 2021, 35: 8:1-8:65.
 - Liwei Huang, **Yutao Ma***, Shibo Wang, and Yanbo Liu. [An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation](https://ieeexplore.ieee.org/document/8723186). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2019.2918310, 2019. ([Code](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation))
-  > Jiayuan He, Jianzhong Qi, and [Kotagiri Ramamohanarao](https://www.science.org.au/profile/rao-kotagiri). [TimeSAN: A Time-Modulated Self-Attentive Network for Next Point-of-Interest Recommendation](https://doi.org/10.1109/IJCNN48605.2020.9207273). In _Proceedings of the 2020 IEEE International Joint Conference on Neural Networks (IJCNN 2020)_, pp. 1-8, 2020. 
+  > Jiayuan He, Jianzhong Qi, and [Ramamohanarao Kotagiri](https://www.science.org.au/profile/rao-kotagiri). [TimeSAN: A Time-Modulated Self-Attentive Network for Next Point-of-Interest Recommendation](https://doi.org/10.1109/IJCNN48605.2020.9207273). In _Proceedings of the 2020 IEEE International Joint Conference on Neural Networks (IJCNN 2020)_, pp. 1-8, 2020. 
 - Ruibin Xiong, Jian Wang*, Neng Zhang, and **Yutao Ma**. [Deep Hybrid Collaborative Filtering for Web Service Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417418303385). _Expert Systems with Applications_, 2018, 110: 191-205.
   > Lei Sang, Min Xu, Shengsheng Qian, and [Xindong Wu](http://xwu.bigke.org/). [Knowledge graph enhanced neural collaborative recommendation](https://doi.org/10.1016/j.eswa.2020.113992). _Expert Systems with Applications_, 2021, 164: 113992.
 - Neng Zhang, Jian Wang*, **Yutao Ma**, Keqing He, Zheng Li, and Xiaoqing Liu. [Web service discovery based on goal-oriented query expansion](https://www.sciencedirect.com/science/article/pii/S0164121218300748). _Journal of Systems and Software_, 2018, 142: 73-91.
@@ -226,14 +226,14 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
 | 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
 | 2017 | Shengnan Ding | Second-class Scholarship (2017, 2018) | [Xiaomi](https://www.mi.com/) |
-| 2017 | Feng Wang | [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/c/2017-07-31/602617.shtml?from=singlemessage) (2017)<br>Freshman Scholarship (2017)<br>Second-class Scholarship (2018, 2019) | [ByteDance](https://www.bytedance.com/zh/) |
+| 2017 | Feng Wang | [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/Awards/Awards_Recipients/2017/Elite_Collegiate/2020-01-07/686210.shtml) (2017)<br>Freshman Scholarship (2017)<br>Second-class Scholarship (2018, 2019) | [ByteDance](https://www.bytedance.com/zh/) |
 | 2017 | Jinxiao Huang | Special Scholarship (2019)<br>Second-class Scholarship (2018, 2019) | [Xiaomi](https://www.mi.com/) |
 
 ## Contact Information
 
-**Mail:** Room E312, School of Computer Science, Wuhan University, Wuhan 430072, Hubei Province, China  
+**Mail:** Room E310, School of Computer Science, Wuhan University, Wuhan 430072, Hubei Province, China  
 **Tel.:** +86-27-6877-6081  
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2021-2-8</p>
+<p align="right">Last updated: 2021-4-26</p>

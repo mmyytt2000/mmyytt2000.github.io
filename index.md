@@ -4,11 +4,9 @@
 
 ## Latest News
 
+**May  2021** &emsp; Four group members defended their theses
+
 **Apr. 2021** &emsp; One patent for invention on AI-based cervical OCT image classification has been granted
-
-**Nov. 2020** &emsp; Four group members got their scholarships from Wuhan University
-
-**Oct. 2020** &emsp; I was elevated to the grade of IEEE Senior member
 
 ## Short Biography
 
@@ -200,13 +198,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Hao Sun (2018): First-class Scholarship (2019, 2020), Special Scholarship (2020), [IEEE J-BHI paper](https://ieeexplore.ieee.org/document/8854180)
 - Qingbin Wang (2018): Second-class Scholarship (2019)
-- Xiao Geng (2018): [IEEE TEM paper](https://ieeexplore.ieee.org/document/8960409) 
 - Wenjian Xiong (2018)
 - Wanrong Dou (2019): Freshman Scholarship (2019), First-class Scholarship (2020)
-- Qinyi Yu (2019): Second-class Scholarship (2020)
-- Siqin Yang (2019)
 - Kaiyi Chen (2020): Freshman Scholarship (2020)
 - Qi Sun (2020)
 
@@ -228,8 +222,12 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
 | 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
 | 2017 | Shengnan Ding | Second-class Scholarship (2017, 2018) | [Xiaomi](https://www.mi.com/) |
-| 2017 | Feng Wang | [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/Awards/Awards_Recipients/2017/Elite_Collegiate/2020-01-07/686210.shtml) (2017)<br>Freshman Scholarship (2017)<br>Second-class Scholarship (2018, 2019) | [ByteDance](https://www.bytedance.com/zh/) |
+| 2017 | Feng Wang | [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/Awards/Awards_Recipients/2017/Elite_Collegiate/2020-01-07/686210.shtml) (2017)<br>Freshman Scholarship (2017)<br>Second-class Scholarship (2018, 2019) | [ByteDance](https://www.bytedance.com) |
 | 2017 | Jinxiao Huang | Special Scholarship (2019)<br>Second-class Scholarship (2018, 2019) | [Xiaomi](https://www.mi.com/) |
+| 2018 | Hao Sun | Special Scholarship (2020)<br>First-class Scholarship (2019, 2020) | [Tencent](https://www.tencent.com) |
+| 2018 | Xiao Geng |  | [Kuaishou](https://www.kuaishou.com) |
+| 2019 | Qinyi Yu | Second-class Scholarship (2020) | [Tencent](https://www.tencent.com) |
+| 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
 
 ## Contact Information
 
@@ -238,4 +236,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2021-4-26</p>
+<p align="right">Last updated: 2021-6-1</p>

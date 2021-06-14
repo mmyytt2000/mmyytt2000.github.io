@@ -129,7 +129,6 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ### Bug Prediction and Triaging
 
 - Feng Wang, Jinxiao Huang, and **Yutao Ma***. [A Top-k Learning to Rank Approach to Cross-Project Software Defect Prediction](https://ieeexplore.ieee.org/document/8719520). In _Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018)_, pp. 335-344, 2018. ([Dataset](https://github.com/ssea-lab/PROMISE))
-  > Chao Ni, Xin Xia, David Lo, Xiang Chen, and Qing Gu. [Revisiting Supervised and Unsupervised Methods for Effort-Aware Cross-Project Defect Prediction](https://doi.org/10.1109/TSE.2020.3001739). _IEEE Transactions on Software Engineering_, DOI: 10.1109/TSE.2020.3001739, 2020.
 - Hongrun Wu, Haiyang Liu, and **Yutao Ma***. [Empirical study on developer factors affecting tossing path length of bug reports](https://ieeexplore.ieee.org/document/8371790/). _IET Software_, 2018, 12(3): 258-270. ([Project](https://github.com/ssea-lab/BugTriage))
   > - Shengqu Xi, Yuan Yao, Xusheng Xiao, Feng Xu, and Jian Lu ([吕建院士](https://cs.nju.edu.cn/58/2a/c2639a153642/page.htm)). [Bug Triaging Based on Tossing Sequence Modeling](https://link.springer.com/10.1007/s11390-019-1953-5). _Journal of Computer Science and Technology_, 2019, 34(5): 942-956. ([Conference Version](https://doi.org/10.1145/3275219.3275228))
   > - Steffen Herbold, Aynur Amirfallah, Fabian Trautsch, and Jens Grabowski. [A systematic mapping study of developer social network research](https://doi.org/10.1016/j.jss.2020.110802). _Journal of Systems and Software_, 2021, 171: 110802.
@@ -237,4 +236,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2021-6-1</p>
+<p align="right">Last updated: 2021-6-13</p>

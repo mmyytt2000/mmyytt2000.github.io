@@ -165,6 +165,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
    > - Yu Qu, Xiaohong Guan ([管晓宏院士](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=502)), Qinghua Zheng, Ting Liu, Lidan Wang, Yuqiao Hou, and Zijiang Yang. [Exploring community structure of software Call Graph and its applications in class cohesion measurement](https://www.sciencedirect.com/science/article/pii/S0164121215001259). _Journal of Systems and Software_, 2015, 108: 193-210.
   > - An Zeng, Zhesi Shen, Jianlin Zhou, Jinshan Wu, Ying Fan, Yougui Wang, and [H. Eugene Stanley](https://en.wikipedia.org/wiki/H._Eugene_Stanley). [The science of science: From the perspective of complex systems](https://www.sciencedirect.com/science/article/pii/S0370157317303289). _[Physics Reports](https://www.sciencedirect.com/journal/physics-reports)_, 2017, 714–715: 1-73.
   > - Marçal Mora-Cantallops, Salvador Sánchez-Alonso, and Elena García-Barriocanal. [A complex network analysis of the Comprehensive R Archive Network (CRAN) package ecosystem](https://doi.org/10.1016/j.jss.2020.110744). _Journal of Systems and Software_, 2020, 170: 110744.
+  > - Drew A. Vecchio, Samuel H. Mahler, Mark D. Hammig, and [Nicholas A. Kotov](https://che.engin.umich.edu/people/kotov-nicholas/). [Structural Analysis of Nanoscale Network Materials Using Graph Theory](https://doi.org/10.1021/acsnano.1c04711). _ACS Nano_, DOI: 10.1021/acsnano.1c04711, 2021. 
 - **马于涛***, 何克清, 李兵, 刘婧. [网络化软件的复杂网络特性实证](http://jos.org.cn/ch/reader/create_pdf.aspx?file_no=3934&journal_id=jos). 软件学报, 2011, 22(3): 381-407. (in Chinese with English abstract)
 - Weifeng Pan, Bing Li*, **Yutao Ma**, Yeyi Qin, and Xiaoyan Zhou. [Measuring structural quality of object-oriented softwares via bug propagation analysis on weighted software networks](https://link.springer.com/article/10.1007/s11390-010-9399-9). _Journal of Computer Science and Technology_, 2010, 25(6): 1202-1213.
   > An Zeng, Zhesi Shen, Jianlin Zhou, Jinshan Wu, Ying Fan, Yougui Wang, and [H. Eugene Stanley](https://en.wikipedia.org/wiki/H._Eugene_Stanley). [The science of science: From the perspective of complex systems](https://www.sciencedirect.com/science/article/pii/S0370157317303289). _[Physics Reports](https://www.sciencedirect.com/journal/physics-reports)_, 2017, 714–715: 1-73.
@@ -199,7 +200,6 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ## Students
 
 - Qingbin Wang (2018): Second-class Scholarship (2019)
-- Wenjian Xiong (2018)
 - Wanrong Dou (2019): Freshman Scholarship (2019), First-class Scholarship (2020)
 - Kaiyi Chen (2020): Freshman Scholarship (2020)
 - Qi Sun (2020)

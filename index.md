@@ -4,9 +4,7 @@
 
 ## Latest News
 
-**May  2021** &emsp; Four group members defended their theses
-
-**Apr. 2021** &emsp; One patent for invention on AI-based cervical OCT image classification has been granted
+**Sep  2021** &emsp; Welcome new group members!
 
 ## Short Biography
 
@@ -204,6 +202,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Wanrong Dou (2019): Freshman Scholarship (2019), First-class Scholarship (2020)
 - Kaiyi Chen (2020): Freshman Scholarship (2020)
 - Qi Sun (2020)
+- Zesheng Wang (2021)
+- Xiaoyang Chen (2021)
+- Junwei Huang (2021)
 
 ### Alumni
 
@@ -237,4 +238,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2021-6-13</p>
+<p align="right">Last updated: 2021-9-17</p>

@@ -4,6 +4,8 @@
 
 ## Latest News
 
+**OCT  2021** &emsp; Our work was awarded the Second Prize of CCF Natural Science Award!
+
 **Sep  2021** &emsp; Welcome new group members!
 
 ## Short Biography
@@ -56,6 +58,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 
 I have received a few notable international and domestic awards or prizes, including
 
+- [Second Prize of Natural Science Award](https://www.ccf.org.cn/Focus/2021-10-14/745210.shtml), 1st Contributor, China Computer Federation, 2021
 - CCF-TCSC RockStar Award, CCF Technical Committee on Services Computing, 2020
 - First Prize of Invention and Entrepreneurship, 3rd Contributor, China Association of Inventions, 2018
 - Best Paper Award, [International Conference on Software Engineering and Knowledge Engineering](http://ksiresearchorg.ipage.com/seke/seke16.html), 2016
@@ -240,4 +243,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2021-9-17</p>
+<p align="right">Last updated: 2021-10-16</p>

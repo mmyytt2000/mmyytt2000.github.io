@@ -4,7 +4,7 @@
 
 ## Latest News
 
-**OCT  2021** &emsp; Our work was awarded the Second Prize of CCF Natural Science Award!
+**Oct  2021** &emsp; Our work was awarded the Second Prize of CCF Natural Science Award!
 
 **Sep  2021** &emsp; Welcome new group members!
 

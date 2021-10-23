@@ -205,7 +205,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 - Qingbin Wang (2018): Second-class Scholarship (2019)
 - Wanrong Dou (2019): Freshman Scholarship (2019), First-class Scholarship (2020)
-- Kaiyi Chen (2020): Freshman Scholarship (2020)
+- Kaiyi Chen (2020): Freshman Scholarship (2020), Second-class Scholarship (2021) 
 - Qi Sun (2020)
 - Zesheng Wang (2021)
 - Xiaoyang Chen (2021)

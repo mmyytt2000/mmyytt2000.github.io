@@ -58,7 +58,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 
 I have received a few notable international and domestic awards or prizes, including
 
-- [Second Prize of Natural Science Award](https://www.ccf.org.cn/Focus/2021-10-14/745210.shtml), 1st Contributor, China Computer Federation, 2021
+- [Second Prize of Natural Science Award](https://www.ccf.org.cn/Awards/Awards_Recipients/2021/kxjsj/2021-10-19/745535.shtml), 1st Contributor, China Computer Federation, 2021
 - CCF-TCSC RockStar Award, CCF Technical Committee on Services Computing, 2020
 - First Prize of Invention and Entrepreneurship, 3rd Contributor, China Association of Inventions, 2018
 - Best Paper Award, [International Conference on Software Engineering and Knowledge Engineering](http://ksiresearchorg.ipage.com/seke/seke16.html), 2016

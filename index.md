@@ -4,11 +4,11 @@
 
 ## Latest News
 
-**Nov  2021** &emsp; One paper was published by IEEE TSC
+**Dec. 2021** &emsp; Our team won the runner-up in the China Postgraduate AI Innovation Competition!
 
-**Oct  2021** &emsp; Our work was awarded the Second Prize of CCF Natural Science Award!
+**Nov. 2021** &emsp; One paper was published by IEEE TSC
 
-**Sep  2021** &emsp; Welcome new group members!
+**Oct. 2021** &emsp; Our work was awarded the Second Prize of CCF Natural Science Award!
 
 ## Short Biography
 
@@ -60,6 +60,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 
 I have received a few notable international and domestic awards or prizes, including
 
+- [Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975), Advisor, Chinese Society of Academic Degrees and Graduate Eduation, 2021
 - [Second Prize of Natural Science Award](https://www.ccf.org.cn/Awards/Awards_Recipients/2021/kxjsj/2021-10-19/745535.shtml), 1st Contributor, China Computer Federation, 2021
 - CCF-TCSC RockStar Award, CCF Technical Committee on Services Computing, 2020
 - First Prize of Invention and Entrepreneurship, 3rd Contributor, China Association of Inventions, 2018
@@ -245,4 +246,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2021-11-30</p>
+<p align="right">Last updated: 2021-12-18</p>

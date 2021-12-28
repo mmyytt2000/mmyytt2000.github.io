@@ -95,7 +95,8 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ### Biomedical Imaging and AI-based Applications
 
 - Hao Sun#, Xianxu Zeng#, Tao Xu, Gang Peng, and **Yutao Ma***. [Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms](https://ieeexplore.ieee.org/document/8854180). _IEEE Journal of Biomedical and Health Informatics_, 2020, 24(6): 1664-1676. ([Code](https://github.com/ssea-lab/DL4ETI))
-  > Abtin Riasatian _et al._ [Fine-Tuning and training of densenet for histopathology image representation using TCGA diagnostic slides](https://doi.org/10.1016/j.media.2021.102032). _Medical Image Analysis_, 2021, 70: 102032. 
+  > - Abtin Riasatian _et al._ [Fine-Tuning and training of densenet for histopathology image representation using TCGA diagnostic slides](https://doi.org/10.1016/j.media.2021.102032). _Medical Image Analysis_, 2021, 70: 102032.
+  > - Munetoshi Akazawa and Kazunori Hashimoto. [Artificial intelligence in gynecologic cancers: Current status and future challenges – A systematic review](https://doi.org/10.1016/j.artmed.2021.102164). _Artificial Intelligence in Medicine_, 2021, 120: 102164.
 - **Yutao Ma#**, Tao Xu#, Xiaolei Huang, Xiaofang Wang, Canyu Li, Jason Jerwick, Yuan Ning, Xianxu Zeng, Baojin Wang, Yihong Wang, Zhan Zhang, Xiaoan Zhang, and Chao Zhou*. [Computer-Aided Diagnosis of Label-Free 3-D Optical Coherence Microscopy Images of Human Cervical Tissue](https://ieeexplore.ieee.org/document/8598821). _IEEE Transactions on Biomedical Engineering_, 2019, 66(9): 2447-2456.
   > Yifeng Zeng, Shiqi Xu, William C. Chapman, Shuying Li, Zahra Alipour, Heba Abdelal, Deyali Chatterjee, Matthew Mutch, and [Quing Zhu](https://engineering.wustl.edu/faculty/Quing-Zhu.html). [Real-time colorectal cancer diagnosis using PR-OCT with deep learning](https://doi.org/10.1364/OCT.2020.OW2E.5). In _Proceedings of the 2020 Conference on Optical Coherence Tomography (OCT 2020)_, Washington, DC United States, 20–23 April, 2020, p. OW2E.5.
 - Xianxu Zeng#, Xiaoan Zhang#, Canyu Li, Xiaofang Wang, Jason Jerwick, Tao Xu, Yuan Ning, Yihong Wang, Linlin Zhang, Zhan Zhang, **Yutao Ma**, and Chao Zhou*. [Ultrahigh-resolution optical coherence microscopy accurately classifies precancerous and cancerous human cervix free of labeling](https://www.thno.org/v08p3099.htm). _Theranostics_, 2018, 8(11): 3099-3110. (**[Front-Cover Article](https://www.thno.org/v8i11)**)
@@ -247,4 +248,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2021-12-18</p>
+<p align="right">Last updated: 2021-12-28</p>

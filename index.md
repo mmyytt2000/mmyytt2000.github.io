@@ -4,11 +4,9 @@
 
 ## Latest News
 
+**Jan. 2022** &emsp; One paper was accepted by ACM TOIS.
+
 **Dec. 2021** &emsp; Our team won the runner-up in the China Postgraduate AI Innovation Competition!
-
-**Nov. 2021** &emsp; One paper was published by IEEE TSC
-
-**Oct. 2021** &emsp; Our work was awarded the Second Prize of CCF Natural Science Award!
 
 ## Short Biography
 
@@ -115,6 +113,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Service Recommendation and Service-based System Development
 
+- Liwei Huang, **Yutao Ma***, Yanbo Liu, Bohong (Danny) Du, Shuliang Wang, and Deyi Li. Position-enhanced and Time-aware Graph Convolutional Network for Sequential Recommendations. _ACM Transactions on Information Systems_, 2022. (Accepted, [arXiv](https://arxiv.org/abs/2107.05235), [Code](https://github.com/drhuangliwei/PTGCN))
 - Liwei Huang, **Yutao Ma***, Shibo Wang, and Yanbo Liu. [An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation](https://ieeexplore.ieee.org/document/8723186). _IEEE Transactions on Services Computing_, 2021, 14(6): 1585-1597. ([Code](https://github.com/drhuangliwei/An-Attention-based-Spatiotemporal-LSTM-Network-for-Next-POI-Recommendation), **included in [LibCity](https://libcity.ai/)**)
   > - Jiayuan He, Jianzhong Qi, and [Ramamohanarao Kotagiri](https://www.science.org.au/profile/rao-kotagiri). [TimeSAN: A Time-Modulated Self-Attentive Network for Next Point-of-Interest Recommendation](https://doi.org/10.1109/IJCNN48605.2020.9207273). In _Proceedings of the 2020 IEEE International Joint Conference on Neural Networks (IJCNN 2020)_, pp. 1-8, 2020.
   > - Yudong Chen, Xin Wang, Miao Fan, Jizhou Huang, Shengwen Yang, and [Wenwu Zhu](https://www.ae-info.org/ae/Member/Zhu_Wenwu). [Curriculum Meta-Learning for Next POI Recommendation](https://doi.org/10.1145/3447548.3467132). In _Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD 2021)_, pp. 2692–2702, 2021.
@@ -249,4 +248,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2021-12-28</p>
+<p align="right">Last updated: 2022-01-14</p>

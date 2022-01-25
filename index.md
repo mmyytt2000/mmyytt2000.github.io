@@ -4,6 +4,8 @@
 
 ## Latest News
 
+**Jan. 2022** &emsp; One paper was accepted by Elsevier KBS.
+
 **Jan. 2022** &emsp; One paper was accepted by ACM TOIS.
 
 **Dec. 2021** &emsp; Our team won the runner-up in the China Postgraduate AI Innovation Competition!
@@ -136,6 +138,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Bug Prediction and Triaging
 
+- Hongrun Wu, **Yutao Ma***, Zhenglong Xiang, Chen Yang, and Keqing He. A Spatial-Temporal Graph Neural Network Framework for Automated Software Bug Triaging. _Knowledge-Based Systems_, 2022. (Accepted, [arXiv](https://arxiv.org/abs/2101.11846), [Code](https://github.com/ssea-lab/BugTriage/tree/master/GRCNN))
 - Feng Wang, Jinxiao Huang, and **Yutao Ma***. [A Top-k Learning to Rank Approach to Cross-Project Software Defect Prediction](https://ieeexplore.ieee.org/document/8719520). In _Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018)_, pp. 335-344, 2018. ([Dataset](https://github.com/ssea-lab/PROMISE))
 - Hongrun Wu, Haiyang Liu, and **Yutao Ma***. [Empirical study on developer factors affecting tossing path length of bug reports](https://ieeexplore.ieee.org/document/8371790/). _IET Software_, 2018, 12(3): 258-270. ([Project](https://github.com/ssea-lab/BugTriage))
   > - Shengqu Xi, Yuan Yao, Xusheng Xiao, Feng Xu, and Jian Lu ([吕建院士](https://cs.nju.edu.cn/58/2a/c2639a153642/page.htm)). [Bug Triaging Based on Tossing Sequence Modeling](https://link.springer.com/10.1007/s11390-019-1953-5). _Journal of Computer Science and Technology_, 2019, 34(5): 942-956. ([Conference Version](https://doi.org/10.1145/3275219.3275228))
@@ -198,7 +201,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Object-oriented Software Engineering: 2018 fall, 2019 fall
 - Design and Development of Large-scale Application Software: 2018 fall, 2019 fall, 2021 fall
 - Practical Training of Programming: 2019 summer, 2020 summer
-- Introduction to Software Engineering: 2020 spring, 2021 spring
+- Introduction to Software Engineering: 2020 spring, 2021 spring, 2022 spring
 - Software Design and Architecture: 2020 fall
 - Software Engineering Economics: 2020 fall, 2021 fall 
 
@@ -248,4 +251,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2022-01-14</p>
+<p align="right">Last updated: 2022-01-25</p>

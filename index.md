@@ -4,9 +4,9 @@
 
 ## Latest News
 
-**Jan. 2022** &emsp; One paper was accepted by Elsevier KBS.
+**Feb. 2022** &emsp; I served the IEEE-CS Technical Community on Services Computing as an Executive Committee member.
 
-**Jan. 2022** &emsp; One paper was accepted by ACM TOIS.
+**Jan. 2022** &emsp; One paper was accepted by ACM TOIS; One paper was accepted by Elsevier KBS.
 
 **Dec. 2021** &emsp; Our team won the runner-up in the China Postgraduate AI Innovation Competition!
 
@@ -36,7 +36,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 ### Technical Committee Membership
 
 - Member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
-- Member of the [IEEE Computer Society Technical Committee on Services Computing](https://tc.computer.org/tcsvc/)
+- Member of the executive committee of the [IEEE Computer Society Technical Community on Services Computing](http://tab.computer.org/tcsvc/)
 - Member of the [IEEE Computer Society Technical Council on Software Engineering](http://www.cs-tcse.org/)
 - Member of the [IEEE Computer Society Technical Committee on Cloud Computing](https://tc.computer.org/tccld/)
 - Member of the CAAI Technical Committee on Artificial Intelligence with Uncertainty
@@ -254,4 +254,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2022-01-25</p>
+<p align="right">Last updated: 2022-02-03</p>

@@ -35,8 +35,8 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 
 ### Technical Committee Membership
 
-- Member of the Standing committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
-- Member of the executive committee of the [IEEE Computer Society Technical Community on Services Computing](http://tab.computer.org/tcsvc/)
+- Member of the Standing Committee of the [CCF Technical Committee on Services Computing](http://tc.ccf.org.cn/tcsc/)
+- Member of the Executive Committee of the [IEEE Computer Society Technical Community on Services Computing](http://tab.computer.org/tcsvc/)
 - Member of the [IEEE Computer Society Technical Council on Software Engineering](http://www.cs-tcse.org/)
 - Member of the [IEEE Computer Society Technical Committee on Cloud Computing](https://tc.computer.org/tccld/)
 - Member of the CAAI Technical Committee on Artificial Intelligence with Uncertainty

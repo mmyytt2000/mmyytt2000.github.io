@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Feb. 2022** &emsp; One OCT-based AI-aided diagnosis patent for cervical cancer was granted.
+
 **Feb. 2022** &emsp; I served the IEEE-CS Technical Community on Services Computing as an Executive Committee member.
 
 **Jan. 2022** &emsp; One paper was accepted by ACM TOIS; One paper was accepted by Elsevier KBS.
-
-**Dec. 2021** &emsp; Our team won the runner-up in the China Postgraduate AI Innovation Competition!
 
 ## Short Biography
 
@@ -254,4 +254,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2022-02-03</p>
+<p align="right">Last updated: 2022-02-16</p>

@@ -31,6 +31,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 
 - Senior member of the China Computer Federation ([CCF](https://www.ccf.org.cn/)) 
 - Senior member of the [IEEE](https://www.ieee.org/), [IEEE Computer Society](https://www.computer.org/), and [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/)
+- Senior member of the Chinese Institute of Command and Control [CICC](http://www.c2.org.cn/)
 - Member of the Chinese Association for Artificial Intelligence ([CAAI](http://www.caai.cn/))
 
 ### Technical Committee Membership

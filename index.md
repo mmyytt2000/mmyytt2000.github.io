@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Mar. 2022** &emsp; One paper was accepted by Medical Physics.
+
 **Feb. 2022** &emsp; One OCT-based AI-aided diagnosis patent for cervical cancer was granted.
 
 **Feb. 2022** &emsp; I served the IEEE-CS Technical Community on Services Computing as an Executive Committee member.
-
-**Jan. 2022** &emsp; One paper was accepted by ACM TOIS; One paper was accepted by Elsevier KBS.
 
 ## Short Biography
 
@@ -95,6 +95,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Biomedical Imaging and AI-based Applications
 
+- Kaiyi Chen, Qingbin Wang, and **Yutao Ma***. Cervical Optical Coherence Tomography Image Classification Based on Contrastive Self-Supervised Texture Learning. _Medical Physics_, 2022. (Accepted, [arXiv](https://arxiv.org/abs/2108.05081), [Code](https://github.com/whuchris/MIA-CTL))
 - Hao Sun#, Xianxu Zeng#, Tao Xu, Gang Peng, and **Yutao Ma***. [Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms](https://ieeexplore.ieee.org/document/8854180). _IEEE Journal of Biomedical and Health Informatics_, 2020, 24(6): 1664-1676. ([Code](https://github.com/ssea-lab/DL4ETI))
   > - Abtin Riasatian _et al._ [Fine-Tuning and training of densenet for histopathology image representation using TCGA diagnostic slides](https://doi.org/10.1016/j.media.2021.102032). _Medical Image Analysis_, 2021, 70: 102032.
   > - Munetoshi Akazawa and Kazunori Hashimoto. [Artificial intelligence in gynecologic cancers: Current status and future challenges – A systematic review](https://doi.org/10.1016/j.artmed.2021.102164). _Artificial Intelligence in Medicine_, 2021, 120: 102164.

@@ -4,21 +4,19 @@
 
 ## Latest News
 
+**Apr. 2022** &emsp; One deep learning-based service recommendation patent was granted.
+
 **Mar. 2022** &emsp; One paper was accepted by Medical Physics.
-
-**Feb. 2022** &emsp; One OCT-based AI-aided diagnosis patent for cervical cancer was granted.
-
-**Feb. 2022** &emsp; I served the IEEE-CS Technical Community on Services Computing as an Executive Committee member.
 
 ## Short Biography
 
-Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Associate Professor in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/). He is a member of the [Software Service Engineering and Application Laboratory](https://ssea-lab.github.io/) and is currently a deputy director of the Institute of Intelligentized Software and Services in the School of Computer Science. He obtained the Ph.D. degree in Computer Science from Wuhan University in 2007. Dr. Ma was a postdoctoral researcher with Prof. [Deyi Li](http://www.cae.cn/cae/html/main/colys/00679747.html) in the Institute of China Electronic System Engineering Corporation and has been a short-term visiting scholar in the [Department of Electrical and Computer Engineering](https://engineering.lehigh.edu/ece) at [Lehigh University](https://www1.lehigh.edu/home). In 2016, he became the leader of a scientific and technological innovation team in Hubei Province. Besides, he has been selected to the Wuhan Yellow Crane Talent Programme and the Wuhan Youth ChengGuang Programme of Science and Technology. His research interest is the development and maintenance of intelligent software services, including service-based system development using artificial intelligence techniques, mining software repositories, and domain-specific application and practice (especially on biomedical imaging and computer-aided diagnosis). 
+Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Associate Professor in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/). He is a member of the [Software Service Engineering and Application Laboratory](https://ssea-lab.github.io/) and is currently a deputy director of the Institute of Intelligentized Software and Services in the School of Computer Science. He obtained a Ph.D. degree in Computer Science from Wuhan University in 2007. Dr. Ma was a postdoctoral researcher with Prof. [Deyi Li](http://www.cae.cn/cae/html/main/colys/00679747.html) in the Institute of China Electronic System Engineering Corporation and has been a short-term visiting scholar in the [Department of Electrical and Computer Engineering](https://engineering.lehigh.edu/ece) at [Lehigh University](https://www1.lehigh.edu/home). In 2016, he began to lead a scientific and technological innovation team in Hubei Province. Besides, he has been selected for the Wuhan Yellow Crane Talent Programme and the Wuhan Youth ChengGuang Programme of Science and Technology. His research interest is developing and maintaining intelligent software services, including service-based system development using artificial intelligence techniques, mining software repositories, and domain-specific application and practice (especially in biomedical imaging and computer-aided diagnosis). 
 
 ## Education and Work Experience
 
 - 2010/12 ~ present, Associate Professor, School of Computer Science, Wuhan University
 - 2012/07 ~ 2012/09, Visiting Scholar, Department of Electrical and Computer Engineering, Lehigh University
-- 2008/08 ~ 2012/01, Postdoc Fellow, Institute of China Electronic System Engineering Corporation, Supervisor: Prof. Deyi Li
+- 2008/06 ~ 2012/03, Postdoc Fellow, Institute of China Electronic System Engineering Corporation, Supervisor: Prof. Deyi Li
 - 2007/12 ~ 2010/11, Lecturer, State Key Laboratory of Software Engineering, Wuhan University
 - 2007/07 ~ 2007/11, Research Associate, State Key Laboratory of Software Engineering, Wuhan University
 - 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. [Keqing He](https://baike.baidu.com/item/%E4%BD%95%E5%85%8B%E6%B8%85/10908095?fr=aladdin)
@@ -41,6 +39,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 - Member of the [IEEE Computer Society Technical Council on Software Engineering](http://www.cs-tcse.org/)
 - Member of the [IEEE Computer Society Technical Committee on Cloud Computing](https://tc.computer.org/tccld/)
 - Member of the CAAI Technical Committee on Artificial Intelligence with Uncertainty
+- Member of the CICC Technical Committee on Network Science and Engineering
 
 ### Journal Services
 
@@ -72,7 +71,7 @@ I have received a few notable international and domestic awards or prizes, inclu
 - Second Prize of State Scientific and Technological Progress, 9th Contributor, P.R. China, 2009
 - First Prize of Scientific and Technological Progress, 6th Contributor, Hubei Province, 2008
 - Best Paper Award, IEEE International Conference on Computer and Information Technology, 2006
-- Outstanding Master Dissertation Award, Hubei Province, 2005
+- Outstanding Master Thesis Award, Hubei Province, 2005
 
 ## Funding
 
@@ -127,7 +126,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Neng Zhang, Jian Wang*, and **Yutao Ma**. [Mining Domain Knowledge on Service Goals From Textual Service Descriptions](https://ieeexplore.ieee.org/document/7896653). _IEEE Transactions on Services Computing_, 2020, 13(3): 488-502.
   > - Kaushik Madala, Shraddha Piparia, Eduardo Blanco, Hyunsook Do, and Renee Bryce. [Model elements identification using neural networks: a comprehensive study](https://doi.org/10.1007/s00766-020-00332-2). _Requirements Engineering_, 2021, 26: 67–96.
   > - [Michael Fisher](https://personalpages.manchester.ac.uk/staff/michael.fisher/), Viviana Mascardi, Kristin Yvonne Rozier, Bernd-Holger Schlingloff, Michael Winikoff, and Neil Yorke-Smith. [Towards a framework for certification of reliable autonomous systems](https://doi.org/10.1007/s10458-020-09487-2). _Autonomous Agents and Multi-Agent Systems_, 2021, 35: 8:1-8:65.
-  > - Unil Yun, Heonho Kim, Taewoog Ryu, Yoonji Baek, Hyoju Nam, Judae Lee, Bay Vo, and [Witold Pedrycz](http://www.ece.ualberta.ca/~pedrycz/). [Pre-Large based Utility-Oriented Data Analytics for Transaction Modifications in Internet of Things](https://doi.org/10.1109/JIOT.2021.3080284). _IEEE Internet of Things Journal_, DOI: 10.1109/JIOT.2021.3080284, 2021.
+  > - Unil Yun, Heonho Kim, Taewoog Ryu, Yoonji Baek, Hyoju Nam, Judae Lee, Bay Vo, and [Witold Pedrycz](http://www.ece.ualberta.ca/~pedrycz/). [Pre-Large based Utility-Oriented Data Analytics for Transaction Modifications in Internet of Things](https://doi.org/10.1109/JIOT.2021.3080284). _IEEE Internet of Things Journal_, 2021, 8(24): 17333-17344.
   > - Chao Liu, Xin Xia, [David Lo](http://www.mysmu.edu/faculty/davidlo/), Zhiwe Liu, [Ahmed E. Hassan](https://research.cs.queensu.ca/home/ahmed/home/), and Shanping Li. [CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words](https://doi.org/10.1145/3465403). _ACM Transactions on Software Engineering and Methodology_, 2022, 31(1): 12:1-12:37.
 - Ruibin Xiong, Jian Wang*, Neng Zhang, and **Yutao Ma**. [Deep Hybrid Collaborative Filtering for Web Service Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417418303385). _Expert Systems with Applications_, 2018, 110: 191-205.
   > - Lei Sang, Min Xu, Shengsheng Qian, and [Xindong Wu](http://xwu.bigke.org/). [Knowledge graph enhanced neural collaborative recommendation](https://doi.org/10.1016/j.eswa.2020.113992). _Expert Systems with Applications_, 2021, 164: 113992.
@@ -157,13 +156,13 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Santosh S. Rathore and Sandeep Kumar. [A study on software fault prediction techniques](https://doi.org/10.1007/s10462-017-9563-5). _Artificial Intelligence Review_, 2019, 51: 255–327. 
   > - Qinbao Song, Yuchen Guo, and [Martin J. Shepperd](http://people.brunel.ac.uk/~csstmms/). [A Comprehensive Investigation of the Role of Imbalanced Learning for Software Defect Prediction](https://ieeexplore.ieee.org/document/8359087). _IEEE Transactions on Software Engineering_, 2019, 45(12): 1253-1269.
   > - Christopher Theisen and [Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/). [Better together: Comparing vulnerability prediction models](https://doi.org/10.1016/j.infsof.2019.106204). _Information and Software Technology_, 2020, 119: 106204.
-  > - Jiayuan Zhou, Shaowei Wang, Cor-Paul Bezemer, Ying Zou, and [Ahmed E. Hassan](http://research.cs.queensu.ca/home/ahmed/home/). [Studying the Association between Bountysource Bounties and the Issue-addressing Likelihood of GitHub Issue Reports](https://ieeexplore.ieee.org/document/9000923). _IEEE Transactions on Software Engineering_, DOI: 10.1109/TSE.2020.2974469, 2020.
   > - Ke Li, Zilin Xiang, Tao Chen, Shuo Wang, and [Kay Chen Tan](http://www.cityu.edu.hk/stfprofile/kaytan.htm). [Understanding the Automated Parameter Optimization on Transfer Learning for Cross-Project Defect Prediction: An Empirical Study](https://doi.org/10.1145/3377811.3380360). In _Proceedings of the 42nd International Conference on Software Engineering (ICSE 2020)_, Seoul, South Korea, June 27 – July 19, 2020, pp. 566-577.
   > - Jinfu Chen, Weiyi Shang, and Emad Shihab. [PerfJIT: Test-level Just-in-time Prediction for Performance Regression Introducing Commits](https://doi.org/10.1109/TSE.2020.3023955). _IEEE Transactions on Software Engineering_, DOI: 10.1109/TSE.2020.3023955, 2020.
   > - Mojdeh Golagha, Alexander Pretschner, and [Lionel C. Briand](https://www.lbriand.info/). [Can We Predict the Quality of Spectrum-based Fault Localization?](https://doi.org/10.1109/ICST46399.2020.00012) In _Proceedings of the 13th IEEE International Conference on Software Testing, Validation and Verification (ICST 2020)_, Porto, Portugal, 24-28 October, 2020, pp. 4-15.
   > - Sousuke Amasaki, Hirohisa Aman, and Tomoyuki Yokogawa. [A Preliminary Evaluation of CPDP Approaches on Just-in-Time Software Defect Prediction](https://doi.org/10.1109/SEAA53835.2021.00042). In _Proceedings of the 47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA 2021)_, Palermo, Italy, 1-3 September, 2021, pp. 279-286.
+  > -Jiayuan Zhou, Shaowei Wang, Cor-Paul Bezemer, Ying Zou, and [Ahmed E. Hassan](http://research.cs.queensu.ca/home/ahmed/home/). [Studying the Association between Bountysource Bounties and the Issue-addressing Likelihood of GitHub Issue Reports](https://ieeexplore.ieee.org/document/9000923). _IEEE Transactions on Software Engineering_, 2021, 47(12): 2919-2933.
   > - Sousuke Amasaki, Hirohisa Aman, and Tomoyuki Yokogawa. [An extended study on applicability and performance of homogeneous cross-project defect prediction approaches under homogeneous cross-company effort estimation situation](https://doi.org/10.1007/s10664-021-10103-4). _Empirical Software Engineering_, 2022, 27: 46.
-  > - Yanming Yang, Xin Xia, [David Lo](http://www.mysmu.edu/faculty/davidlo/), Tingting Bi, [John Grundy](https://research.monash.edu/en/persons/john-grundy), and Xiaohu Yang. [Predictive Models in Software Engineering: Challenges and Opportunities](https://doi.org/10.1145/3503509). _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3503509, 2022.
+  > - Yanming Yang, Xin Xia, [David Lo](http://www.mysmu.edu/faculty/davidlo/), Tingting Bi, [John Grundy](https://research.monash.edu/en/persons/john-grundy), and Xiaohu Yang. [Predictive Models in Software Engineering: Challenges and Opportunities](https://doi.org/10.1145/3503509). _ACM Transactions on Software Engineering and Methodology_, 2022, 31(3): 56.
 - Peng He, Bing Li, and **Yutao Ma**. [Towards Cross-Project Defect Prediction with Imbalanced Feature Sets](https://arxiv.org/abs/1411.4228). _Computing Research Repository (CoRR)_, arXiv: 1411.4228, 2014.
   > - Karl R. Weiss, Taghi M. Khoshgoftaar, and Dingding Wang. [A survey of transfer learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-016-0043-6). _Journal of Big Data_, 2016, 3: Art. no. 9.
   > - Steffen Herbold, Alexander Trautsch, and Jens Grabowski. [Global vs. local models for cross-project defect prediction - A replication study](https://link.springer.com/article/10.1007%2Fs10664-016-9468-y). _Empirical Software Engineering_, 2017, 22(4): 1866-1902.
@@ -257,4 +256,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2022-03-28</p>
+<p align="right">Last updated: 2022-04-30</p>

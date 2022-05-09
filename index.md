@@ -16,7 +16,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 
 - 2010/12 ~ present, Associate Professor, School of Computer Science, Wuhan University
 - 2012/07 ~ 2012/09, Visiting Scholar, Department of Electrical and Computer Engineering, Lehigh University
-- 2008/06 ~ 2012/03, Postdoc Fellow, Institute of China Electronic System Engineering Corporation, Supervisor: Prof. Deyi Li
+- 2009/06 ~ 2012/03, Postdoc Fellow, Institute of China Electronic System Engineering Corporation, Supervisor: Prof. Deyi Li
 - 2007/12 ~ 2010/11, Lecturer, State Key Laboratory of Software Engineering, Wuhan University
 - 2007/07 ~ 2007/11, Research Associate, State Key Laboratory of Software Engineering, Wuhan University
 - 2004/09 ~ 2007/06, Computer Software and Theory, Wuhan University, Ph.D. Supervisor: Prof. [Keqing He](https://baike.baidu.com/item/%E4%BD%95%E5%85%8B%E6%B8%85/10908095?fr=aladdin)

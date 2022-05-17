@@ -53,7 +53,7 @@ Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Assoc
 
 - TPC Co-Chairs of [CollaborateCom 2016](http://archive.collaboratecom.org/2016/show/org-com) 
 - TPC Vice Chair of [SCC 2018](http://thescc.org/2018/organization.html)
-- Publication Chair: [APSCC 2014](https://ieeexplore.ieee.org/document/7175484), CCF NCSC 2015, [S2 ICIOT 2016](http://iciot.org/2016/)
+- Publication Chair: [APSCC 2014](https://ieeexplore.ieee.org/document/7175484), CCF NCSC 2015, [S2 ICIOT 2016](http://iciot.org/2016/), [CNIS 2023](https://www.cnis-conf.org/)
 - Publicity Co-Chairs: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html)
 
 ## Awards
@@ -272,4 +272,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2022-04-30</p>
+<p align="right">Last updated: 2022-05-17</p>

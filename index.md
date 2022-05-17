@@ -262,7 +262,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Jinxiao Huang | Special Scholarship (2019)<br>Second-class Scholarship (2018, 2019) | [Xiaomi](https://www.mi.com/) |
 | 2018 | Hao Sun | Special Scholarship (2020)<br>First-class Scholarship (2019, 2020) | [Tencent](https://www.tencent.com) |
 | 2018 | Xiao Geng |  | [Kuaishou](https://www.kuaishou.com) |
-| 2019 | Qinyi Yu | Second-class Scholarship (2020) | [Tencent](https://www.tencent.com) |
+| 2019 | Qinyi Yu | Second-class Scholarship (2020)<br>One issued patent (ZL202110268171.2) | [Tencent](https://www.tencent.com) |
 | 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
 
 ## Contact Information

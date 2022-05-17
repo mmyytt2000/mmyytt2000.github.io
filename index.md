@@ -260,8 +260,8 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Shengnan Ding | Second-class Scholarship (2017, 2018) | [Xiaomi](https://www.mi.com/) |
 | 2017 | Feng Wang | [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/Awards/Awards_Recipients/2017/Elite_Collegiate/2020-01-07/686210.shtml) (2017)<br>Freshman Scholarship (2017)<br>Second-class Scholarship (2018, 2019) | [ByteDance](https://www.bytedance.com) |
 | 2017 | Jinxiao Huang | Special Scholarship (2019)<br>Second-class Scholarship (2018, 2019) | [Xiaomi](https://www.mi.com/) |
-| 2018 | Hao Sun | Special Scholarship (2020)<br>First-class Scholarship (2019, 2020) | [Tencent](https://www.tencent.com) |
-| 2018 | Xiao Geng |  | [Kuaishou](https://www.kuaishou.com) |
+| 2018 | Hao Sun | Special Scholarship (2020)<br>First-class Scholarship (2019, 2020)<br>One [IEEE JBHI paper](https://doi.org/10.1109/JBHI.2019.2944977) | [Tencent](https://www.tencent.com) |
+| 2018 | Xiao Geng | One [IEEE TEM paper](https://doi.org/10.1109/TEM.2019.2961376)<br>One issued patent (ZL202011359895.X) | [Kuaishou](https://www.kuaishou.com) |
 | 2019 | Qinyi Yu | Second-class Scholarship (2020)<br>One issued patent (ZL202110268171.2) | [Tencent](https://www.tencent.com) |
 | 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
 

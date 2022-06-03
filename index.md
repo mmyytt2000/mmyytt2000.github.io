@@ -4,6 +4,8 @@
 
 ## Latest News
 
+**May  2022** &emsp; Two mater students defended their theses. Congratulations!
+
 **Apr. 2022** &emsp; One deep learning-based service recommendation patent was granted.
 
 **Mar. 2022** &emsp; One paper was accepted by Medical Physics.
@@ -233,9 +235,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ## Students
 
 - Qingbin Wang (2018): Second-class Scholarship (2019)
-- Wanrong Dou (2019): Freshman Scholarship (2019), First-class Scholarship (2020)
 - Kaiyi Chen (2020): Freshman Scholarship (2020), Second-class Scholarship (2021), One [Medical Physics paper](https://doi.org/10.1002/mp.15630) (2022) 
-- Qi Sun (2020)
 - Zesheng Wang (2021)
 - Xiaoyang Chen (2021)
 - Junwei Huang (2021)
@@ -264,6 +264,8 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2018 | Xiao Geng | One [IEEE TEM paper](https://doi.org/10.1109/TEM.2019.2961376)<br>One issued patent (ZL202011359895.X) | [Kuaishou](https://www.kuaishou.com) |
 | 2019 | Qinyi Yu | Second-class Scholarship (2020)<br>One issued patent (ZL202110268171.2) | [Tencent](https://www.tencent.com) |
 | 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
+| 2019 | Wanrong Dou | Freshman Scholarship (2019)<br>First-class Scholarship (2020) | |
+| 2020 | Qi Sun |  | [Huawei](https://www.huawei.com/) |
 
 ## Contact Information
 
@@ -272,4 +274,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2022-05-17</p>
+<p align="right">Last updated: 2022-06-03</p>

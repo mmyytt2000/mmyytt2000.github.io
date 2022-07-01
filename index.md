@@ -4,7 +4,7 @@
 
 ## Latest News
 
-**Jul. 2022** &emsp; One AI-aided diagnosis patent for cervical cancer was granted.
+**July 2022** &emsp; One AI-aided diagnosis patent for cervical cancer was granted.
 
 **May  2022** &emsp; Two mater students defended their theses. Congratulations!
 

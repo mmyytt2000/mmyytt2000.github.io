@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Jul. 2022** &emsp; One AI-aided diagnosis patent for cervical cancer was granted.
+
 **May  2022** &emsp; Two mater students defended their theses. Congratulations!
 
 **Apr. 2022** &emsp; One deep learning-based service recommendation patent was granted.
-
-**Mar. 2022** &emsp; One paper was accepted by Medical Physics.
 
 ## Short Biography
 
@@ -264,7 +264,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2018 | Xiao Geng | One [IEEE TEM paper](https://doi.org/10.1109/TEM.2019.2961376)<br>One issued patent (ZL202011359895.X) | [Kuaishou](https://www.kuaishou.com) |
 | 2019 | Qinyi Yu | Second-class Scholarship (2020)<br>One issued patent (ZL202110268171.2) | [Tencent](https://www.tencent.com) |
 | 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
-| 2019 | Wanrong Dou | Freshman Scholarship (2019)<br>First-class Scholarship (2020) | National Centre for Computer Network and Information Security Management |
+| 2019 | Wanrong Dou | Freshman Scholarship (2019)<br>First-class Scholarship (2020)<br>One issued patent (ZL202011343939.X) | National Centre for Computer Network and Information Security Management |
 | 2020 | Qi Sun |  | [Huawei](https://www.huawei.com/) |
 
 ## Contact Information
@@ -274,4 +274,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2022-06-03</p>
+<p align="right">Last updated: 2022-07-01</p>

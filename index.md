@@ -182,6 +182,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Seyedrebvar Hosseini, Burak Turhan, and Dimuthu Gunarathna. [A Systematic Literature Review and Meta-Analysis on Cross Project Defect Prediction](https://ieeexplore.ieee.org/document/8097045). _IEEE Transactions on Software Engineering_, 2019, 45(2): 111-147.
   > - Sousuke Amasaki. [Cross-version defect prediction: use historical data, cross-project data, or both](https://doi.org/10.1007/s10664-019-09777-8)? _Empirical Software Engineering_, 2020, 25(2): 1573-1595.
   > - Pravas Ranjan Bal and Sandeep Kumar. [A Data Transfer and Relevant Metrics Matching based Approach for Heterogeneous Defect Prediction](https://doi.org/10.1109/TSE.2022.3173678). _IEEE Transactions on Software Engineering_, DOI: 10.1109/TSE.2022.3173678, 2022.
+  > - Suvodeep Majumder, Tianpei Xia, Rahul Krishna, and [Tim Menzies](https://menzies.us/). [Methods for Stabilizing Models Across Large Samples of Projects (with case studies on Predicting Defect and Project Health)](https://doi.org/10.1145/3524842.3527934). In _Proceedings of the IEEE/ACM 19th International Conference on Mining Software Repositories (MSR 2022)_, Pittsburgh, PA, USA, May 23-24, 2022, pp. 566-578.
 
 ### Software Analytics based on Complex Networks
 
@@ -275,4 +276,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2022-07-01</p>
+<p align="right">Last updated: 2022-07-20</p>

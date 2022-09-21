@@ -278,7 +278,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ## Contact Information
 
 **Mail:** School of Computer Science, Central China Normal University, Wuhan 430079, Hubei Province, China   
-**E-mail:** <ytma@whu.edu.cn>  
+**E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
 <p align="right">Last updated: 2022-09-21</p>

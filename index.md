@@ -4,19 +4,20 @@
 
 ## Latest News
 
+**Sep. 2022** &emsp; One paper was published online by CAAI Trans Intell Techno.
+
 **July 2022** &emsp; One AI-aided diagnosis patent for cervical cancer was granted.
 
 **May  2022** &emsp; Two mater students defended their theses. Congratulations!
 
-**Apr. 2022** &emsp; One deep learning-based service recommendation patent was granted.
-
 ## Short Biography
 
-Yutao Ma ([马于涛](http://cs.whu.edu.cn/teacherinfo.aspx?id=206)) is an Associate Professor in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/). He is a member of the [Software Service Engineering and Application Laboratory](https://ssea-lab.github.io/) and is currently a deputy director of the Institute of Intelligentized Software and Services in the School of Computer Science. He obtained a Ph.D. degree in Computer Science from Wuhan University in 2007. Dr. Ma was a postdoctoral researcher with Prof. [Deyi Li](http://www.cae.cn/cae/html/main/colys/00679747.html) in the Institute of China Electronic System Engineering Corporation and has been a short-term visiting scholar in the [Department of Electrical and Computer Engineering](https://engineering.lehigh.edu/ece) at [Lehigh University](https://www1.lehigh.edu/home). In 2016, he began to lead a scientific and technological innovation team in Hubei Province. Besides, he has been selected for the Wuhan Yellow Crane Talent Programme and the Wuhan Youth ChengGuang Programme of Science and Technology. His research interest is developing and maintaining intelligent software services, including service-based system development using artificial intelligence techniques, mining software repositories, and domain-specific application and practice (especially in biomedical imaging and computer-aided diagnosis). 
+Yutao Ma is a Professor in the [School of Computer Science](http://cs.ccnu.edu.cn/) at [Central China Normal University](http://www.ccnu.edu.cn/). Dr. Ma was previously an Associate Professor in the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](http://www.whu.edu.cn/) and the deputy director of the Institute of Intelligentized Software and Services in Wuhan University's School of Computer Science. He is a member of the [Software Service Engineering and Application Laboratory](https://ssea-lab.github.io/). In 2007, Dr. Ma received his Ph.D. degree in Computer Science from Wuhan University. He worked as a postdoctoral researcher with Prof. [Deyi Li](http://www.cae.cn/cae/html/main/colys/00679747.html) in the Institute of China Electronic System Engineering Corporation and as a short-term visiting scholar in the [Department of Electrical and Computer Engineering](https://engineering.lehigh.edu/ece) at [Lehigh University](https://www1.lehigh.edu/home). In 2016, he began leading a scientific and technical innovation team in Hubei Province. Besides, he has also been selected for the Wuhan Yellow Crane Talent Programme and the Wuhan Youth ChengGuang Programme of Science and Technology. His research interests include the development and maintenance of intelligent software services, such as service-based system development using artificial intelligence approaches, software repository mining, and domain-specific application and practice (especially in biomedical imaging and computer-aided diagnosis). 
 
 ## Education and Work Experience
 
-- 2010/12 ~ present, Associate Professor, School of Computer Science, Wuhan University
+- 2022/09 ~ present, Professor, School of Computer Science, Central China Normal University
+- 2010/12 ~ 2022/08, Associate Professor, School of Computer Science, Wuhan University
 - 2012/07 ~ 2012/09, Visiting Scholar, Department of Electrical and Computer Engineering, Lehigh University
 - 2009/06 ~ 2012/03, Postdoc Fellow, Institute of China Electronic System Engineering Corporation, Supervisor: Prof. Deyi Li
 - 2007/12 ~ 2010/11, Lecturer, State Key Laboratory of Software Engineering, Wuhan University
@@ -87,6 +88,7 @@ My research has been supported by the National Basic Research Program of China (
 - [China Postdoctoral Science Foundation](http://jj.chinapostdoctor.org.cn/V1/Program3/Default.aspx) under Grant No. 201003794, 2011/01 ~ 2011.12, PI
 - China Postdoctoral Science Foundation under Grant No. 20090460107, 2010/01 ~ 2011/12, PI
 - 973 Program under Grant No. 2007CB310800, 2007/07~2011/08, CI (PI: Prof. Deyi Li)
+- 973 Program under Grant No. 2006CB708300, 2006/07~2008/08, CI (PI: Prof. Keqing He)
 
 ## Selected Publications
 
@@ -275,8 +277,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Contact Information
 
-**Mail:** Room E310, School of Computer Science, Wuhan University, Wuhan 430072, Hubei Province, China  
-**Tel.:** +86-27-6877-6057  
+**Mail:** School of Computer Science, Central China Normal University, Wuhan 430079, Hubei Province, China   
 **E-mail:** <ytma@whu.edu.cn>  
 
 ---------

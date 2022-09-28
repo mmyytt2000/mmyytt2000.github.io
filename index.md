@@ -179,6 +179,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Jiayuan Zhou, Shaowei Wang, Cor-Paul Bezemer, Ying Zou, and [Ahmed E. Hassan](http://research.cs.queensu.ca/home/ahmed/home/). [Studying the Association between Bountysource Bounties and the Issue-addressing Likelihood of GitHub Issue Reports](https://ieeexplore.ieee.org/document/9000923). _IEEE Transactions on Software Engineering_, 2021, 47(12): 2919-2933.
   > - Sousuke Amasaki, Hirohisa Aman, and Tomoyuki Yokogawa. [An extended study on applicability and performance of homogeneous cross-project defect prediction approaches under homogeneous cross-company effort estimation situation](https://doi.org/10.1007/s10664-021-10103-4). _Empirical Software Engineering_, 2022, 27: 46.
   > - Yanming Yang, Xin Xia, [David Lo](http://www.mysmu.edu/faculty/davidlo/), Tingting Bi, [John Grundy](https://research.monash.edu/en/persons/john-grundy), and Xiaohu Yang. [Predictive Models in Software Engineering: Challenges and Opportunities](https://doi.org/10.1145/3503509). _ACM Transactions on Software Engineering and Methodology_, 2022, 31(3): 56.
+  > - Steffen Tunkel and Steffen Herbold. [Exploring the relationship between performance metrics and cost saving potential of defect prediction models](https://doi.org/10.1007/s10664-022-10224-4). _Empirical Software Engineering_, 2022, 27: 182.
 - Peng He, Bing Li, and **Yutao Ma**. [Towards Cross-Project Defect Prediction with Imbalanced Feature Sets](https://arxiv.org/abs/1411.4228). _Computing Research Repository (CoRR)_, arXiv: 1411.4228, 2014.
   > - Karl R. Weiss, Taghi M. Khoshgoftaar, and Dingding Wang. [A survey of transfer learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-016-0043-6). _Journal of Big Data_, 2016, 3: Art. no. 9.
   > - Steffen Herbold, Alexander Trautsch, and Jens Grabowski. [Global vs. local models for cross-project defect prediction - A replication study](https://link.springer.com/article/10.1007%2Fs10664-016-9468-y). _Empirical Software Engineering_, 2017, 22(4): 1866-1902.
@@ -247,6 +248,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Zesheng Wang (2021)
 - Xiaoyang Chen (2021)
 - Junwei Huang (2021)
+- Hanfeng Zhu (2022)
 
 ### Alumni
 
@@ -281,4 +283,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2022-09-21</p>
+<p align="right">Last updated: 2022-09-28</p>

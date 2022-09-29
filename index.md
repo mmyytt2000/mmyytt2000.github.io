@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Sep. 2022** &emsp; I was elected as a CCF Distinguished Member.
+
 **Sep. 2022** &emsp; One paper was published online by CAAI Trans Intell Techno.
 
 **July 2022** &emsp; One AI-aided diagnosis patent for cervical cancer was granted.
-
-**May  2022** &emsp; Two mater students defended their theses. Congratulations!
 
 ## Short Biography
 
@@ -30,7 +30,7 @@ Yutao Ma is a Professor in the [School of Computer Science](http://cs.ccnu.edu.c
 
 ### Professional Membership
 
-- Senior member of the China Computer Federation ([CCF](https://www.ccf.org.cn/)) 
+- Distinguished member of the China Computer Federation ([CCF](https://www.ccf.org.cn/)) 
 - Senior member of the [IEEE](https://www.ieee.org/), [IEEE Computer Society](https://www.computer.org/), and [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/)
 - Senior member of the Chinese Institute of Command and Control ([CICC](http://www.c2.org.cn/))
 - Member of the Chinese Association for Artificial Intelligence ([CAAI](http://www.caai.cn/))
@@ -109,6 +109,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Kathryn A. Kundrod, Chelsey A. Smith, Brady Hunt, Richard A. Schwarz, Kathleen Schmeler, and [Rebecca Richards-Kortum](https://en.wikipedia.org/wiki/Rebecca_Richards-Kortum). [Advances in technologies for cervical cancer detection in low-resource settings](https://www.tandfonline.com/doi/full/10.1080/14737159.2019.1648213). _Expert Review of Molecular Diagnostics_, 2019, 19(8): 695-714.
   > - Xingchen Ji, Diana Mojahed, [Yoshitomo Okawachi](https://gaeta.apam.columbia.edu/people/yoshitomo-okawachi), [Alexander L. Gaeta](https://www.apam.columbia.edu/faculty/alex-gaeta), Christine P. Hendon, and [Michal Lipson](https://www.engineering.columbia.edu/faculty/michal-lipson). [Millimeter-scale chip–based supercontinuum generation for optical coherence tomography](http://dx.doi.org/10.1126/sciadv.abg8869). _[Science Advances](https://www.science.org/journal/sciadv)_, 2021, 7(38): eabg8869.
   > - Jackson B. Coole, David Brenes, Júlio César Possati-Resende, Márcio Antoniazzi, Bruno de Oliveira Fonseca, Yajur Maker, Alex Kortum, Imran S. Vohra, Richard A. Schwarz, Jennifer Carns, Karen Cristina Borba Souza, Iara Viana Vidigal Santana, Regis Kreitchmann, Mila P. Salcedo, [Nirmala Ramanujam](https://bme.duke.edu/faculty/nimmi-ramanujam), [Kathleen M. Schmeler](https://faculty.mdanderson.org/profiles/kathleen_schmeler.html), and [Rebecca Richards-Kortum](https://en.wikipedia.org/wiki/Rebecca_Richards-Kortum). [Development of a multimodal mobile colposcope for real-time cervical cancer detection](https://doi.org/10.1364/BOE.463253). _Biomedical Optics Express_, 2022, 13(10): 5116-5130.
+  > - Lukas Glandorf, Paul-James Marchand, Theo Lasser, and [Daniel Razansky](https://biomed.ee.ethz.ch/institute/People/person-detail.MjUwODY5.TGlzdC8xNTg2LC0xMTc1NTEzMTIz.html). [Digital aberration correction enhances field of view in visible-light optical coherence microscopy](https://doi.org/10.1364/OL.464405). _Optics Letters_, 2022, 47(19): 5088-5091.
 - Lian Duan, Xi Qin, Yuanhao He, Xialin Sang, Jinda Pan, Tao Xu, Jing Men, Rudolph E. Tanzi, Airong Li, **Yutao Ma**, and Chao Zhou*. [Segmentation of _Drosophila_ heart in optical coherence microscopy images using convolutional neural networks](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201800146). _Journal of Biophotonics_, 2018, 11(12): e201800146. (**[Back-Cover Article](https://onlinelibrary.wiley.com/toc/18640648/2018/11/12)**)
   > Shang Wang, Irina V. Larina, and [Kirill V. Larin](http://bol.egr.uh.edu/). [Label-free optical imaging in developmental biology](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-11-4-2017). _Biomedical Optics Express_, 2020, 11(4): 2017-2040. 
 - Chao Zhou*, Aneesh Alex, Janarthanan Rasakanthan, and **Yutao Ma**. [Space-division multiplexing optical coherence tomography](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-16-19219). _Optics Express_, 2013, 21(16): 19219-19227.
@@ -279,7 +280,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Contact Information
 
-**Mail:** School of Computer Science, Central China Normal University, Wuhan 430079, Hubei Province, China   
+**Mail:** Room 7097, School of Computer Science, Central China Normal University, Wuhan 430079, Hubei Province, China   
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------

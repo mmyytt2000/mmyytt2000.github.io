@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Oct. 2022** &emsp; Three group members received their scholarships.
+
 **Sep. 2022** &emsp; I was elected as a CCF Distinguished Member.
 
 **Sep. 2022** &emsp; One paper was published online by CAAI Trans Intell Techno.
-
-**July 2022** &emsp; One AI-aided diagnosis patent for cervical cancer was granted.
 
 ## Short Biography
 
@@ -54,9 +54,9 @@ Yutao Ma is a Professor in the [School of Computer Science](http://cs.ccnu.edu.c
 
 ### Conference Services
 
-- TPC Co-Chairs of [CollaborateCom 2016](http://archive.collaboratecom.org/2016/show/org-com) 
+- TPC Co-Chairs of [CollaborateCom 2016](https://collaboratecom.eai-conferences.org/2016/show/org-com.html) 
 - TPC Vice Chair of [SCC 2018](http://thescc.org/2018/organization.html)
-- Publication Chair: [APSCC 2014](https://ieeexplore.ieee.org/document/7175484), CCF NCSC 2015, [S2 ICIOT 2016](http://iciot.org/2016/), [CNIS 2023](https://www.cnis-conf.org/)
+- Publication Chair: [APSCC 2014]http://grid.hust.edu.cn/apscc2014/index.html, CCF NCSC 2015, [S2 ICIOT 2016](http://iciot.org/2016/), [CNIS 2023](https://www.cnis-conf.org/)
 - Publicity Co-Chairs: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html)
 
 ## Awards
@@ -245,9 +245,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ## Students
 
 - Qingbin Wang (2018): Second-class Scholarship (2019)
-- Kaiyi Chen (2020): Freshman Scholarship (2020), Second-class Scholarship (2021), One [Medical Physics paper](https://doi.org/10.1002/mp.15630) (2022) 
-- Zesheng Wang (2021)
-- Xiaoyang Chen (2021)
+- Kaiyi Chen (2020): Freshman Scholarship (2020), Second-class Scholarship (2021), [Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975) (2021), One [Medical Physics paper](https://doi.org/10.1002/mp.15630) (2022), National Scholarship for postgraduates (2022), First-class Scholarship (2022)  
+- Zesheng Wang (2021): Second-class Scholarship (2022)
+- Xiaoyang Chen (2021): Second-class Scholarship (2022)
 - Junwei Huang (2021)
 - Hanfeng Zhu (2022)
 
@@ -284,4 +284,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2022-09-28</p>
+<p align="right">Last updated: 2022-10-31</p>

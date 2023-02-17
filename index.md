@@ -264,7 +264,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Qingbin Wang (2018): Second-class Scholarship (2019)
+- Qingbin Wang (2018): Second-class Scholarship (2019), One IEEE/ACM TCBB paper (2023)
 - Kaiyi Chen (2020): Freshman Scholarship (2020), Second-class Scholarship (2021), [Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975) (2021), One [Medical Physics paper](https://doi.org/10.1002/mp.15630) (2022), National Scholarship for postgraduates (2022), First-class Scholarship (2022)  
 - Zesheng Wang (2021): Second-class Scholarship (2022)
 - Xiaoyang Chen (2021): Second-class Scholarship (2022)

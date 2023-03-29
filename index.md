@@ -144,6 +144,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Hanrui Wu, Chung Wang Wong, Jia Zhang, Yuguang Yan, Dahai Yu, Jinyi Long, and [Michael Ng](https://hkumath.hku.hk/~mng/). [Cold-start Next-item Recommendation by User-Item Matching and Auto-encoders](https://doi.org/10.1109/TSC.2023.3237638). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2023.3237638, 2023.
   > - Jiaqi Wu, Jingyi Yuan, Yang Weng, and [Raja Ayyanar](https://search.asu.edu/profile/283502). [Spatial-Temporal Deep Learning for Hosting Capacity Analysis in Distribution Grids](https://doi.org/10.1109/TSG.2022.3196943). _IEEE Transactions on Smart Grid_, 2023, 14(1): 354-364.
   > - Jing Chen, Wenjun Jiang, [Jie Wu](https://cis.temple.edu/~wu/), Kenli Li, and [Keqin Li](http://www.cs.newpaltz.edu/~lik/). [Dynamic Personalized POI Sequence Recommendation With Fine-grained Contexts](https://doi.org/10.1145/3583687). _ACM Transactions on Internet Technology_, DOI: 10.1145/3583687, 2023.
+  > - Yan Luo, Ye Liu, Fu-lai Chung, Yu Liu, and [Chang Wen Chen](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chen-changwen/). [End-to-End Personalized Next Location Recommendation via Contrastive User Preference Modeling](https://arxiv.org/abs/2303.12507). _Computing Research Repository (CoRR)_, arXiv:2303.12507, 2023. 
 - **Yutao Ma**, Xiao Geng, and Jian Wang*. [A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation](https://ieeexplore.ieee.org/document/8960409). _IEEE Transactions on Engineering Management_, 2021, 68(1): 105-119. ([Code](https://github.com/ssea-lab/MISR))
 - Liwei Huang, **Yutao Ma***, Yanbo Liu, and Keqing He. [DAN-SNR: A Deep Attentive Network for Social-Aware Next Point-of-Interest Recommendation](https://dl.acm.org/doi/10.1145/3430504). _ACM Transactions on Internet Technology_, 2021, 21(1): 2:1-2:27. ([arXiv](https://arxiv.org/pdf/2004.12161), [Code](https://github.com/drhuangliwei/DAN-SNR))
   > Junpei Masuho, Tomo Miyazaki, Yoshihiro Sugaya, Masako Omachi, and Shinichiro Omachi. [A Framework for Estimating Gaze Point Information for Location-Based Services](https://doi.org/10.1109/TVT.2021.3101932). _IEEE Transactions on Vehicular Technology_, 2021, 70(9): 8468-8477.
@@ -306,4 +307,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2023-02-16</p>
+<p align="right">Last updated: 2023-03-29</p>

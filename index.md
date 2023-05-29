@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**May 2023** &emsp; Congratulations to Kaiyi Chen and Xiaoyang Chen for defending their master theses.
+
 **Feb. 2023** &emsp; One paper was accepted by IEEE/ACM TCBB.
 
 **Oct. 2022** &emsp; Three group members received their scholarships.
-
-**Sep. 2022** &emsp; I was elected as a CCF Distinguished Member.
 
 ## Short Biography
 
@@ -271,9 +271,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ## Students
 
 - Qingbin Wang (2018): Second-class Scholarship (2019), One IEEE/ACM TCBB paper (2023)
-- Kaiyi Chen (2020): Freshman Scholarship (2020), Second-class Scholarship (2021), [Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975) (2021), One [Medical Physics paper](https://doi.org/10.1002/mp.15630) (2022), National Scholarship for postgraduates (2022), First-class Scholarship (2022)  
 - Zesheng Wang (2021): Second-class Scholarship (2022)
-- Xiaoyang Chen (2021): Second-class Scholarship (2022)
 - Junwei Huang (2021)
 - Hanfeng Zhu (2022)
 
@@ -303,6 +301,8 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
 | 2019 | Wanrong Dou | Freshman Scholarship (2019)<br>First-class Scholarship (2020)<br>One issued patent (ZL202011343939.X) | National Centre for Computer Network and Information Security Management |
 | 2020 | Qi Sun |  | [Huawei](https://www.huawei.com/) |
+| 2020 | Kaiyi Chen | Freshman Scholarship (2020)<br>Second-class Scholarship (2021)<br>[Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975) (2021)<br>National Scholarship for postgraduates (2022)<br>First-class Scholarship (2022) | [ByteDance](https://www.bytedance.com) | 
+| 2021 | Xiaoyang Chen | Second-class Scholarship (2022) | [Meituan](https://i.meituan.com/) |
 
 ## Contact Information
 
@@ -310,4 +310,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2023-05-13</p>
+<p align="right">Last updated: 2023-05-29</p>

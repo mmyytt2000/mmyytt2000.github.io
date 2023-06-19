@@ -281,8 +281,8 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | Grade | Name | Award or Scholarship | Employment |
 | :------: | :------: | :------ | :------: |
 | 2008 | [Weifeng Pan](https://wfpan.github.io/)<br>(Ph.D. Supervisor: Prof. Bing Li) | Second-class Scholarship (2010) | [Zhejiang Gongshang University](http://www.zjgsu.edu.cn/) |
-| 2012 | Peng He<br>(Ph.D. Supervisor: Prof. Bing Li) | National Scholarship for postgraduates (2013, 2014) | [Hubei University](http://www.hubu.edu.cn/) |
-| 2013 | Hongrun Wu<br>(Ph.D. Supervisor: Prof. Deyi Li) | One-year exchange student at [Rovira i Virgili University](http://www.urv.cat/en/)<br>Short-term visiting student at [Indiana University](https://indiana.edu/) | [Minnan Normal University](http://www.mnnu.edu.cn/) |
+| 2012 | [Peng He](http://cybersec.hubu.edu.cn/info/1251/1098.htm)<br>(Ph.D. Supervisor: Prof. Bing Li) | National Scholarship for postgraduates (2013, 2014) | [Hubei University](http://www.hubu.edu.cn/) |
+| 2013 | [Hongrun Wu](https://wxxy.mnnu.edu.cn/info/1015/3019.htm)<br>(Ph.D. Supervisor: Prof. Deyi Li) | One-year exchange student at [Rovira i Virgili University](http://www.urv.cat/en/)<br>Short-term visiting student at [Indiana University](https://indiana.edu/) | [Minnan Normal University](http://www.mnnu.edu.cn/) |
 | 2013 | Qing Xu | Short-term visiting student at Lehigh University | [Guotai Junan Securities](https://www.gtja.com/) |
 | 2014 | Mingming Chen | One-year visiting student at Lehigh University<br>National Scholarship for postgraduates (2016) | [NetEase](https://www.163.com/) |
 | 2014 | Guoan You | [Best Paper Award of SEKE 2016](http://ksiresearchorg.ipage.com/seke/seke16.html)<br>Special Scholarship (2016) | [Baidu](https://www.baidu.com/) |

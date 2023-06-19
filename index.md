@@ -303,7 +303,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2019 | Wanrong Dou | Freshman Scholarship (2019)<br>First-class Scholarship (2020)<br>One issued patent (ZL202011343939.X) | National Centre for Computer Network and Information Security Management |
 | 2020 | Qi Sun |  | [Huawei](https://www.huawei.com/) |
 | 2020 | Kaiyi Chen | Freshman Scholarship (2020)<br>Second-class Scholarship (2021)<br>[Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975) (2021)<br>National Scholarship for postgraduates (2022)<br>First-class Scholarship (2022) | [ByteDance](https://www.bytedance.com) | 
-| 2021 | Xiaoyang Chen | Second-class Scholarship (2022) | [Meituan](https://i.meituan.com/) |
+| 2021 | Xiaoyang Chen | Second-class Scholarship (2022) | [Baidu](https://www.baidu.com/) |
 
 ## Contact Information
 
@@ -311,4 +311,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2023-05-29</p>
+<p align="right">Last updated: 2023-06-18</p>

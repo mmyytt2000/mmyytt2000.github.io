@@ -4,7 +4,7 @@
 
 ## Latest News
 
-**Jun 2023** &emsp; [CCF NCSC 2023](https://ccf.org.cn/service2023) Call for Papers.
+**Jun. 2023** &emsp; [CCF NCSC 2023](https://ccf.org.cn/service2023) Call for Papers.
 
 **May 2023** &emsp; Congratulations to Kaiyi Chen and Xiaoyang Chen for defending their master theses.
 
@@ -101,7 +101,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 - Qingbin Wang, Kaiyi Chen, Wanrong Dou, and **Yutao Ma***. [Cross-Attention Based Multi-Resolution Feature Fusion Model for Self-Supervised Cervical OCT Image Classification](https://doi.org/10.1109/TCBB.2023.3246979). _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, DOI: 10.1109/TCBB.2023.3246979, 2023. ([Code](https://github.com/ssea-lab/transformer_OCT))
 - Kaiyi Chen, Qingbin Wang, and **Yutao Ma***. [Cervical Optical Coherence Tomography Image Classification Based on Contrastive Self-Supervised Texture Learning](https://doi.org/10.1002/mp.15630). _Medical Physics_, 2022, 49(6): 3638-3653. ([arXiv](https://arxiv.org/abs/2108.05081), [Code](https://github.com/whuchris/MIA-CTL))
-  > Wei-Chien Wang, Euijoon Ahn, [Dagan Feng](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dagan-feng.html), and Jinman Kim. [A Review of Predictive and Contrastive Self-supervised Learning for Medical Images](http://dx.doi.org/10.48550/arXiv.2302.05043). _Computing Research Repository (CoRR)_, arXiv:2302.05043, 2023.
+  > Wei-Chien Wang, Euijoon Ahn, [Dagan Feng](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dagan-feng.html), and Jinman Kim. [A Review of Predictive and Contrastive Self-supervised Learning for Medical Images](https://doi.org/10.1007/s11633-022-1406-4). _Machine Intelligence Research_, DOI: 10.1007/s11633-022-1406-4, 2023.
 - Hao Sun#, Xianxu Zeng#, Tao Xu, Gang Peng, and **Yutao Ma***. [Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms](https://ieeexplore.ieee.org/document/8854180). _IEEE Journal of Biomedical and Health Informatics_, 2020, 24(6): 1664-1676. ([Code](https://github.com/ssea-lab/DL4ETI))
   > - Abtin Riasatian, Morteza Babaie, Danial Maleki, et al. [Fine-Tuning and training of densenet for histopathology image representation using TCGA diagnostic slides](https://doi.org/10.1016/j.media.2021.102032). _Medical Image Analysis_, 2021, 70: 102032.
   > - Munetoshi Akazawa and Kazunori Hashimoto. [Artificial intelligence in gynecologic cancers: Current status and future challenges – A systematic review](https://doi.org/10.1016/j.artmed.2021.102164). _Artificial Intelligence in Medicine_, 2021, 120: 102164.

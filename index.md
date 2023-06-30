@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Jun 2023** &emsp; [CCF NCSC 2023](https://ccf.org.cn/service2023) Call for Papers.
+
 **May 2023** &emsp; Congratulations to Kaiyi Chen and Xiaoyang Chen for defending their master theses.
 
 **Feb. 2023** &emsp; One paper was accepted by IEEE/ACM TCBB.
-
-**Oct. 2022** &emsp; Three group members received their scholarships.
 
 ## Short Biography
 
@@ -54,6 +54,7 @@ Yutao Ma ([马于涛](http://faculty.ccnu.edu.cn/yutaoma)) is a Full Professor i
 
 ### Conference Services
 
+- General Co-Chairs of [CCF NCSC 2023](https://ccf.org.cn/service2023/org_3011)
 - TPC Co-Chairs of [CollaborateCom 2016](https://collaboratecom.eai-conferences.org/2016/show/org-com.html) 
 - TPC Vice Chair of [SCC 2018](http://thescc.org/2018/organization.html)
 - Publication Chair: [APSCC 2014](http://grid.hust.edu.cn/apscc2014/index.html), CCF NCSC 2015, [S2 ICIOT 2016](http://iciot.org/2016/), [CNIS 2023](https://www.cnis-conf.org/)
@@ -146,9 +147,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Jiaqi Wu, Jingyi Yuan, Yang Weng, and [Raja Ayyanar](https://search.asu.edu/profile/283502). [Spatial-Temporal Deep Learning for Hosting Capacity Analysis in Distribution Grids](https://doi.org/10.1109/TSG.2022.3196943). _IEEE Transactions on Smart Grid_, 2023, 14(1): 354-364.
   > - Chen Wang, Mengting Yuan, Rui Zhang, Kai Peng, and [Ling Liu](http://www.cc.gatech.edu/~lingliu). [Efficient Point-of-Interest Recommendation Services with Heterogenous Hypergraph Embedding](https://doi.org/10.1109/TSC.2022.3187038). _IEEE Transactions on Services Computing_, 2023, 16(2): 1132-1143.
   > - Hanrui Wu, Chung Wang Wong, Jia Zhang, Yuguang Yan, Dahai Yu, Jinyi Long, and [Michael Ng](https://hkumath.hku.hk/~mng/). [Cold-start Next-item Recommendation by User-Item Matching and Auto-encoders](https://doi.org/10.1109/TSC.2023.3237638). _IEEE Transactions on Services Computing_, DOI: 10.1109/TSC.2023.3237638, 2023.
-  > - Jing Chen, Wenjun Jiang, [Jie Wu](https://cis.temple.edu/~wu/), Kenli Li, and [Keqin Li](http://www.cs.newpaltz.edu/~lik/). [Dynamic Personalized POI Sequence Recommendation With Fine-grained Contexts](https://doi.org/10.1145/3583687). _ACM Transactions on Internet Technology_, DOI: 10.1145/3583687, 2023.
+  > - Jing Chen, Wenjun Jiang, [Jie Wu](https://cis.temple.edu/~wu/), Kenli Li, and [Keqin Li](http://www.cs.newpaltz.edu/~lik/). [Dynamic Personalized POI Sequence Recommendation With Fine-grained Contexts](https://doi.org/10.1145/3583687). _ACM Transactions on Internet Technology_, 2023, 23(2): 32:1-32:28.
   > - Yan Luo, Ye Liu, Fu-lai Chung, Yu Liu, and [Changwen Chen](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chen-changwen/). [End-to-End Personalized Next Location Recommendation via Contrastive User Preference Modeling](https://arxiv.org/abs/2303.12507). _Computing Research Repository (CoRR)_, arXiv:2303.12507, 2023. 
-  > - Junjie Ou, Haiming Jin, Xiaocheng Wang, Hao Jiang, Xinbing Wang, and Chenghu Zhou ([周成虎院士](http://casad.cas.cn/sourcedb_ad_cas/zw2/ysxx/dxb/201312/t20131219_4002022.html)). [STA-TCN: Spatial-Temporal Attention over Temporal Convolutional Network for Next Point-of-Interest Recommendation](https://doi.org/10.1145/3596497). _ACM Transactions on Knowledge Discovery from Data_, DOI: 10.1145/3596497, 2023.
+  > - Junjie Ou, Haiming Jin, Xiaocheng Wang, Hao Jiang, Xinbing Wang, and Chenghu Zhou ([周成虎院士](http://casad.cas.cn/sourcedb_ad_cas/zw2/ysxx/dxb/201312/t20131219_4002022.html)). [STA-TCN: Spatial-Temporal Attention over Temporal Convolutional Network for Next Point-of-Interest Recommendation](https://doi.org/10.1145/3596497). _ACM Transactions on Knowledge Discovery from Data_, 2023, 17(9): 124:1-124:19.
 - **Yutao Ma**, Xiao Geng, and Jian Wang*. [A Deep Neural Network with Multiplex Interactions for Cold-Start Service Recommendation](https://ieeexplore.ieee.org/document/8960409). _IEEE Transactions on Engineering Management_, 2021, 68(1): 105-119. ([Code](https://github.com/ssea-lab/MISR))
 - Liwei Huang, **Yutao Ma***, Yanbo Liu, and Keqing He. [DAN-SNR: A Deep Attentive Network for Social-Aware Next Point-of-Interest Recommendation](https://dl.acm.org/doi/10.1145/3430504). _ACM Transactions on Internet Technology_, 2021, 21(1): 2:1-2:27. ([arXiv](https://arxiv.org/pdf/2004.12161), [Code](https://github.com/drhuangliwei/DAN-SNR))
   > Junpei Masuho, Tomo Miyazaki, Yoshihiro Sugaya, Masako Omachi, and Shinichiro Omachi. [A Framework for Estimating Gaze Point Information for Location-Based Services](https://doi.org/10.1109/TVT.2021.3101932). _IEEE Transactions on Vehicular Technology_, 2021, 70(9): 8468-8477.
@@ -205,7 +206,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Mohammad Jamil Ahmad, Katerina Goseva-Popstojanova, and [Robyn R. Lutz](https://robynlutz.com/). [The Untold Impact of Learning Approaches on Software Fault-Proneness Predictions](https://arxiv.org/abs/2207.05710). _Computing Research Repository (CoRR)_, arXiv:2207.05710, 2022.
   > - Bruno Góis Mateus, Matias Martinez, and Christophe Kolski. [Learning migration models for supporting incremental language migrations of software applications](https://doi.org/10.1016/j.infsof.2022.107082). _Information and Software Technology_, 2023, 153: 107082.
   > - Adil Mukhtar, Birgit Hofer, Dietmar Jannach, and [Franz Wotawa](http://www.ist.tugraz.at/franz_wotawa/). [Explaining software fault predictions to spreadsheet users](https://doi.org/10.1016/j.jss.2023.111676). _Journal of Systems and Software_, 2023, 201: 111676.
-  > - Zhaoqiang Guo, Shiran Liu, Xutong Liu, et al. [Code-line-level bugginess identification: How far have we come, and how far have we yet to go?](https://doi.org/10.1145/3582572) _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3582572, 2023.
+  > - Zhaoqiang Guo, Shiran Liu, Xutong Liu, et al. [Code-line-level bugginess identification: How far have we come, and how far have we yet to go?](https://doi.org/10.1145/3582572) _ACM Transactions on Software Engineering and Methodology_, 2023, 32(4): 102:1-102:55.
   > - N. C. Shrikanth and [Tim Menzies](https://timm.github.io/). [Assessing the Early Bird Heuristic (for Predicting Project Quality)](https://doi.org/10.1145/3583565). _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3583565, 2023. 
 - Peng He, Bing Li, and **Yutao Ma**. [Towards Cross-Project Defect Prediction with Imbalanced Feature Sets](https://arxiv.org/abs/1411.4228). _Computing Research Repository (CoRR)_, arXiv: 1411.4228, 2014.
   > - Karl R. Weiss, Taghi M. Khoshgoftaar, and Dingding Wang. [A survey of transfer learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-016-0043-6). _Journal of Big Data_, 2016, 3: Art. no. 9.
@@ -311,4 +312,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2023-06-18</p>
+<p align="right">Last updated: 2023-06-30</p>

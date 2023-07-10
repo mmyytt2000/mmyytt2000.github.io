@@ -4,9 +4,9 @@
 
 ## Latest News
 
-**Jul. 2023** &emsp; It is our great honor to receive the [IEEE OSS Award](https://conferences.computer.org/services/2023/symposia/oss.html).
+**July 2023** &emsp; It is our great honor to receive the [IEEE OSS Award](https://conferences.computer.org/services/2023/symposia/oss.html).
 
-**Jun. 2023** &emsp; [CCF NCSC 2023](https://ccf.org.cn/service2023) Call for Papers.
+**June 2023** &emsp; [CCF NCSC 2023](https://ccf.org.cn/service2023) Call for Papers.
 
 **May 2023** &emsp; Congratulations to Kaiyi Chen and Xiaoyang Chen for defending their master theses.
 

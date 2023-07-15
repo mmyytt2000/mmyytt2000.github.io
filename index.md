@@ -4,7 +4,7 @@
 
 ## Latest News
 
-**July 2023** &emsp; It is our great honor to receive the [IEEE OSS Award](https://conferences.computer.org/services/2023/symposia/oss.html).
+**July 2023** &emsp; It is our great honor to receive the [IEEE OSS Award](https://conferences.computer.org/services/2023/awards/).
 
 **June 2023** &emsp; [CCF NCSC 2023](https://ccf.org.cn/service2023) Call for Papers.
 
@@ -64,7 +64,7 @@ Yutao Ma ([马于涛](http://faculty.ccnu.edu.cn/yutaoma)) is a Full Professor i
 
 I have received a few notable international and domestic awards or prizes, including
 
-- [IEEE Open Source Science Award](https://conferences.computer.org/services/2023/symposia/oss.html), 2nd Contributor, [IEEE SERVICES 2023](https://conferences.computer.org/services/2023/), 2023
+- [IEEE Open Source Science Award](https://conferences.computer.org/services/2023/awards/), 2nd Contributor, [IEEE SERVICES 2023](https://conferences.computer.org/services/2023/), 2023
 - [Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975), Advisor, Chinese Society of Academic Degrees and Graduate Eduation, 2021
 - [Second Prize of Natural Science Award](https://www.ccf.org.cn/Awards/Awards_Recipients/2021/kxjsj/2021-10-19/745535.shtml), 1st Contributor, China Computer Federation, 2021
 - CCF-TCSC RockStar Award, CCF Technical Committee on Services Computing, 2020

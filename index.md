@@ -4,9 +4,11 @@
 
 ## Latest News
 
-**Sep. 2023** &emsp; It is my great honor to receive the CCF TCSC Distinguished Research Achievement Award.
+**Sep. 2023** &emsp; Welcome new group members.
 
-**July 2023** &emsp; It is our great honor to receive the [IEEE OSS Award](https://conferences.computer.org/services/2023/awards/).
+**Sep. 2023** &emsp; One paper was accepted by ACM TWEB.
+
+**Sep. 2023** &emsp; It is my great honor to receive the CCF TCSC Distinguished Research Achievement Award.
 
 ## Short Biography
 
@@ -131,6 +133,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Service Recommendation and Service-based System Development
 
+- **Yutao Ma**, Zesheng Wang, Liwei Huang, and Jian Wang*. CLHHN: Category-aware Lossless Heterogeneous Hypergraph Neural Network for Session-based Recommendation. _ACM Transactions on the Web_, 2023. (accepted)
 - **Yutao Ma**, Xiao Geng, Jian Wang*, Keqing He, and Dionysis Athanasopoulos. [Deep Learning Framework for Multi-Round Service Bundle Recommendation in Iterative Mashup Development](http://doi.org/10.1049/cit2.12135). _CAAI Transactions on Intelligence Technology_, 2023, 8(3): 914-930. ([arXiv](https://arxiv.org/abs/2101.02836), [Code](https://github.com/ssea-lab/DLISR))
 - Liwei Huang, **Yutao Ma***, Yanbo Liu, Bohong (Danny) Du, Shuliang Wang, and Deyi Li. [Position-enhanced and Time-aware Graph Convolutional Network for Sequential Recommendations](https://doi.org/10.1145/3511700). _ACM Transactions on Information Systems_, 2023, 41(1): 6:1-6:32. ([arXiv](https://arxiv.org/abs/2107.05235), [Code](https://github.com/drhuangliwei/PTGCN))
   > - Aleksandr Petrov and Craig Macdonald. [A Systematic Review and Replicability Study of BERT4Rec for Sequential Recommendation](https://doi.org/10.1145/3523227.3548487). In _Proceedings of the Sixteenth ACM Conference on Recommender Systems (RecSys 2022)_, pp. 436-447, 2022.
@@ -276,9 +279,12 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ## Students
 
 - Qingbin Wang (2018): Second-class Scholarship (2019), One IEEE/ACM TCBB paper (2023)
-- Zesheng Wang (2021): Second-class Scholarship (2022)
+- Zesheng Wang (2021): Second-class Scholarship (2022), One ACM TWEB paper (2023)
 - Junwei Huang (2021)
 - Hanfeng Zhu (2022)
+- Mi Yin (2023)
+- Jingyuan Chen (2023)
+- Qibo Li (2023)
 
 ### Alumni
 
@@ -315,4 +321,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2023-09-17</p>
+<p align="right">Last updated: 2023-09-24</p>

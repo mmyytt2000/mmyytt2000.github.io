@@ -133,7 +133,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Service Recommendation and Service-based System Development
 
-- **Yutao Ma**, Zesheng Wang, Liwei Huang, and Jian Wang*. CLHHN: Category-aware Lossless Heterogeneous Hypergraph Neural Network for Session-based Recommendation. _ACM Transactions on the Web_, 2023. (accepted)
+- **Yutao Ma**, Zesheng Wang, Liwei Huang, and Jian Wang*. [CLHHN: Category-aware Lossless Heterogeneous Hypergraph Neural Network for Session-based Recommendation](https://doi.org/10.1145/3626569). _ACM Transactions on the Web_, DOI: 10.1145/3626569, 2023. ([Code](https://github.com/ssea-lab/CLHHN))
 - **Yutao Ma**, Xiao Geng, Jian Wang*, Keqing He, and Dionysis Athanasopoulos. [Deep Learning Framework for Multi-Round Service Bundle Recommendation in Iterative Mashup Development](http://doi.org/10.1049/cit2.12135). _CAAI Transactions on Intelligence Technology_, 2023, 8(3): 914-930. ([arXiv](https://arxiv.org/abs/2101.02836), [Code](https://github.com/ssea-lab/DLISR))
 - Liwei Huang, **Yutao Ma***, Yanbo Liu, Bohong (Danny) Du, Shuliang Wang, and Deyi Li. [Position-enhanced and Time-aware Graph Convolutional Network for Sequential Recommendations](https://doi.org/10.1145/3511700). _ACM Transactions on Information Systems_, 2023, 41(1): 6:1-6:32. ([arXiv](https://arxiv.org/abs/2107.05235), [Code](https://github.com/drhuangliwei/PTGCN))
   > - Aleksandr Petrov and Craig Macdonald. [A Systematic Review and Replicability Study of BERT4Rec for Sequential Recommendation](https://doi.org/10.1145/3523227.3548487). In _Proceedings of the Sixteenth ACM Conference on Recommender Systems (RecSys 2022)_, pp. 436-447, 2022.
@@ -280,7 +280,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 - Qingbin Wang (2018): Second-class Scholarship (2019), One IEEE/ACM TCBB paper (2023)
 - Zesheng Wang (2021): Second-class Scholarship (2022), One ACM TWEB paper (2023)
-- Junwei Huang (2021)
+- Weijun Huang (2021)
 - Hanfeng Zhu (2022)
 - Mi Yin (2023)
 - Jingyuan Chen (2023)
@@ -321,4 +321,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2023-09-24</p>
+<p align="right">Last updated: 2023-10-05</p>

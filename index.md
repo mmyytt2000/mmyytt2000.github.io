@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Oct. 2023** &emsp; We won the grand prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race.
+
 **Sep. 2023** &emsp; Welcome new group members.
 
 **Sep. 2023** &emsp; One paper was accepted by ACM TWEB.
-
-**Sep. 2023** &emsp; It is my great honor to receive the CCF TCSC Distinguished Research Achievement Award.
 
 ## Short Biography
 
@@ -64,9 +64,10 @@ Yutao Ma ([马于涛](http://faculty.ccnu.edu.cn/yutaoma)) is a Full Professor i
 
 I have received a few notable international and domestic awards or prizes, including
 
+- Grand Prize in the [18th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works by Race](https://2023.tiaozhanbei.net/), Mentor, the Central Committee of the Communist Youth League, 2023
 - CCF-TCSC Distinguished Research Achievement Award, CCF Technical Committee on Services Computing, 2023
 - [IEEE Open Source Science Award](https://conferences.computer.org/services/2023/awards/), 2nd Contributor, [IEEE SERVICES 2023](https://conferences.computer.org/services/2023/), 2023
-- [Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975), Advisor, Chinese Society of Academic Degrees and Graduate Eduation, 2021
+- [Runner-up in the 3rd China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975), Mentor, Chinese Society of Academic Degrees and Graduate Eduation, 2021
 - [Second Prize of Natural Science Award](https://www.ccf.org.cn/Awards/Awards_Recipients/2021/kxjsj/2021-10-19/745535.shtml), 1st Contributor, China Computer Federation, 2021
 - CCF-TCSC RockStar Award, CCF Technical Committee on Services Computing, 2020
 - First Prize of Invention and Entrepreneurship, 3rd Contributor, China Association of Inventions, 2018
@@ -321,4 +322,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2023-10-05</p>
+<p align="right">Last updated: 2023-10-31</p>

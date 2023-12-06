@@ -279,7 +279,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Qingbin Wang (2018): Second-class Scholarship (2019), One IEEE/ACM TCBB paper (2023), Second-class Scholarship (2023)
+- Qingbin Wang (2018): Second-class Scholarship (2019, 2023), One IEEE/ACM TCBB paper (2023)
 - Zesheng Wang (2021): Second-class Scholarship (2022), One ACM TWEB paper (2023)
 - Weijun Huang (2021): Second-class Scholarship (2023)
 - Hanfeng Zhu (2022): Second-class Scholarship (2022), First-class Scholarship (2023), Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023)

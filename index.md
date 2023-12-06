@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Nov. 2023** &emsp; Congratulations to group members who won their scholarship.
+
 **Oct. 2023** &emsp; We won the grand prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race.
 
 **Sep. 2023** &emsp; Welcome new group members.
-
-**Sep. 2023** &emsp; One paper was accepted by ACM TWEB.
 
 ## Short Biography
 
@@ -279,13 +279,13 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Qingbin Wang (2018): Second-class Scholarship (2019), One IEEE/ACM TCBB paper (2023)
+- Qingbin Wang (2018): Second-class Scholarship (2019), One IEEE/ACM TCBB paper (2023), Second-class Scholarship (2023)
 - Zesheng Wang (2021): Second-class Scholarship (2022), One ACM TWEB paper (2023)
-- Weijun Huang (2021)
-- Hanfeng Zhu (2022)
-- Mi Yin (2023)
-- Jingyuan Chen (2023)
-- Qibo Li (2023)
+- Weijun Huang (2021): Second-class Scholarship (2023)
+- Hanfeng Zhu (2022): Second-class Scholarship (2022), First-class Scholarship (2023), Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023)
+- Mi Yin (2023): First-class Scholarship (2023), Entrance Scholarship (2023)
+- Jingyuan Chen (2023): Second-class Scholarship (2023)
+- Qibo Li (2023): Second-class Scholarship (2023)
 
 ### Alumni
 
@@ -305,15 +305,15 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Ye Liu |  | [Sina](https://www.sina.com.cn/) |
 | 2017 | Yiwei Huang |  | [Huawei](https://www.huawei.com/) |
 | 2017 | Shengnan Ding | Second-class Scholarship (2017, 2018) | [Xiaomi](https://www.mi.com/) |
-| 2017 | Feng Wang | [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/Awards/Awards_Recipients/2017/Elite_Collegiate/2020-01-07/686210.shtml) (2017)<br>Freshman Scholarship (2017)<br>Second-class Scholarship (2018, 2019) | [ByteDance](https://www.bytedance.com) |
+| 2017 | Feng Wang | [CCF Award for Outstanding Undergraduates](https://www.ccf.org.cn/Awards/Awards_Recipients/2017/Elite_Collegiate/2020-01-07/686210.shtml) (2017)<br>Entrance Scholarship (2017)<br>Second-class Scholarship (2018, 2019) | [ByteDance](https://www.bytedance.com) |
 | 2017 | Jinxiao Huang | Special Scholarship (2019)<br>Second-class Scholarship (2018, 2019) | [Xiaomi](https://www.mi.com/) |
 | 2018 | Hao Sun | Special Scholarship (2020)<br>First-class Scholarship (2019, 2020)<br>One [IEEE JBHI paper](https://doi.org/10.1109/JBHI.2019.2944977) | [Tencent](https://www.tencent.com) |
 | 2018 | Xiao Geng | One [IEEE TEM paper](https://doi.org/10.1109/TEM.2019.2961376)<br>One issued patent (ZL202011359895.X)<br>One [CAAI TRIT paper](http://doi.org/10.1049/cit2.12135) | [Kuaishou](https://www.kuaishou.com) |
 | 2019 | Qinyi Yu | Second-class Scholarship (2020)<br>One issued patent (ZL202110268171.2) | [Tencent](https://www.tencent.com) |
 | 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
-| 2019 | Wanrong Dou | Freshman Scholarship (2019)<br>First-class Scholarship (2020)<br>One issued patent (ZL202011343939.X) | National Centre for Computer Network and Information Security Management |
+| 2019 | Wanrong Dou | Entrance Scholarship (2019)<br>First-class Scholarship (2020)<br>One issued patent (ZL202011343939.X) | National Centre for Computer Network and Information Security Management |
 | 2020 | Qi Sun |  | [Huawei](https://www.huawei.com/) |
-| 2020 | Kaiyi Chen | Freshman Scholarship (2020)<br>Second-class Scholarship (2021)<br>[Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975) (2021)<br>National Scholarship for postgraduates (2022)<br>First-class Scholarship (2022) | [ByteDance](https://www.bytedance.com) | 
+| 2020 | Kaiyi Chen | Entrance Scholarship (2020)<br>Second-class Scholarship (2021)<br>[Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975) (2021)<br>National Scholarship for postgraduates (2022)<br>First-class Scholarship (2022)<br>Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race | [ByteDance](https://www.bytedance.com) | 
 | 2021 | Xiaoyang Chen | Second-class Scholarship (2022) | [Baidu](https://www.baidu.com/) |
 
 ## Contact Information
@@ -322,4 +322,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2023-10-31</p>
+<p align="right">Last updated: 2023-11-30</p>

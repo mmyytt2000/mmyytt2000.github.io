@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Jan. 2024** &emsp; One patent of AI-assisted diagnosis for cervical OCT images was issued.
+
 **Nov. 2023** &emsp; Congratulations to group members who won their scholarship.
 
 **Oct. 2023** &emsp; We won the grand prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race.
-
-**Sep. 2023** &emsp; Welcome new group members.
 
 ## Short Biography
 
@@ -316,7 +316,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
 | 2019 | Wanrong Dou | Entrance Scholarship (2019)<br>First-class Scholarship (2020)<br>One issued patent (ZL202011343939.X) | National Centre for Computer Network and Information Security Management |
 | 2020 | Qi Sun |  | [Huawei](https://www.huawei.com/) |
-| 2020 | Kaiyi Chen | Entrance Scholarship (2020)<br>Second-class Scholarship (2021)<br>[Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975) (2021)<br>National Scholarship for postgraduates (2022)<br>First-class Scholarship (2022)<br>Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023) | [ByteDance](https://www.bytedance.com) | 
+| 2020 | Kaiyi Chen | Entrance Scholarship (2020)<br>Second-class Scholarship (2021)<br>[Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975) (2021)<br>National Scholarship for postgraduates (2022)<br>First-class Scholarship (2022)<br>Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023)<br>One issued patent (ZL202110778854.2) | [ByteDance](https://www.bytedance.com) | 
 | 2021 | Xiaoyang Chen | Second-class Scholarship (2022) | [Baidu](https://www.baidu.com/) |
 
 ## Contact Information
@@ -325,4 +325,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2023-12-15</p>
+<p align="right">Last updated: 2024-01-08</p>

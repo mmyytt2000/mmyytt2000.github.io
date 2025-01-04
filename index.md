@@ -293,8 +293,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Mi Yin (2023): First-class Scholarship (2023), Entrance Scholarship (2023), Second-class Scholarship (2024), One IEEE BIBM 2024 paper
 - Jingyuan Chen (2023): Second-class Scholarship (2023), First-class Scholarship (2024)
 - Qibo Li (2023): Second-class Scholarship (2023), First-class Scholarship (2024)
-- Yi Qu (2024)
-- Yubiao Yao (2024)
+- Yi Qu (2024): Second-class Scholarship (2024), Entrance Scholarship (2024)
+- Yubiao Yao (2024): First-class Scholarship (2024), Entrance Scholarship (2024)
+- Sheng Tu (2024): Second-class Scholarship (2024)
 
 ### Alumni
 

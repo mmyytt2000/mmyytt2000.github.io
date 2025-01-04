@@ -289,13 +289,12 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Qingbin Wang (2018): Second-class Scholarship (2019, 2023), One IEEE/ACM TCBB paper (2023)
-- Zesheng Wang (2021): Second-class Scholarship (2022), One ACM TWEB paper (2023)
-- Weijun Huang (2021): Second-class Scholarship (2023)
-- Hanfeng Zhu (2022): Second-class Scholarship (2022), First-class Scholarship (2023), Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023)
-- Mi Yin (2023): First-class Scholarship (2023), Entrance Scholarship (2023)
-- Jingyuan Chen (2023): Second-class Scholarship (2023)
-- Qibo Li (2023): Second-class Scholarship (2023)
+- Hanfeng Zhu (2022): Second-class Scholarship (2022), First-class Scholarship (2023, 2024), Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023), Silver Medal in the 14th "Challenge Cup" Chinese College Students Entrepreneurship Competition, National Scholarship for postgraduates (2024), One IEEE ICASSP 2025 paper
+- Mi Yin (2023): First-class Scholarship (2023), Entrance Scholarship (2023), Second-class Scholarship (2024), One IEEE BIBM 2024 paper
+- Jingyuan Chen (2023): Second-class Scholarship (2023), First-class Scholarship (2024)
+- Qibo Li (2023): Second-class Scholarship (2023), First-class Scholarship (2024)
+- Yi Qu (2024)
+- Yubiao Yao (2024)
 
 ### Alumni
 
@@ -319,12 +318,15 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Jinxiao Huang | Special Scholarship (2019)<br>Second-class Scholarship (2018, 2019) | [Xiaomi](https://www.mi.com/) |
 | 2018 | Hao Sun | Special Scholarship (2020)<br>First-class Scholarship (2019, 2020)<br>One [IEEE JBHI paper](https://doi.org/10.1109/JBHI.2019.2944977) | [Tencent](https://www.tencent.com) |
 | 2018 | Xiao Geng | One [IEEE TEM paper](https://doi.org/10.1109/TEM.2019.2961376)<br>One issued patent (ZL202011359895.X)<br>One [CAAI TRIT paper](http://doi.org/10.1049/cit2.12135) | [Kuaishou](https://www.kuaishou.com) |
+| 2018 | Qingbin Wang | Second-class Scholarship (2019, 2023)<br>One [IEEE/ACM TCBB paper](https://doi.org/10.1109/TCBB.2023.3246979)<br>One [MICCAI 2024 paper](https://doi.org/10.1007/978-3-031-72384-1_36) |  |
 | 2019 | Qinyi Yu | Second-class Scholarship (2020)<br>One issued patent (ZL202110268171.2) | [Tencent](https://www.tencent.com) |
 | 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
 | 2019 | Wanrong Dou | Entrance Scholarship (2019)<br>First-class Scholarship (2020)<br>One issued patent (ZL202011343939.X) | National Centre for Computer Network and Information Security Management |
 | 2020 | Qi Sun |  | [Huawei](https://www.huawei.com/) |
 | 2020 | Kaiyi Chen | Entrance Scholarship (2020)<br>Second-class Scholarship (2021)<br>[Runner-up in the China Postgraduate AI Innovation Competition](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90800c7da2aae7017dc32930b50975) (2021)<br>National Scholarship for postgraduates (2022)<br>First-class Scholarship (2022)<br>Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023)<br>One issued patent (ZL202110778854.2) | [ByteDance](https://www.bytedance.com) | 
 | 2021 | Xiaoyang Chen | Second-class Scholarship (2022) | [Baidu](https://www.baidu.com/) |
+| 2021 | Zesheng Wang | Second-class Scholarship (2022)<br>One [ACM TWEB paper](https://doi.org/10.1145/3626569) | [ByteDance](https://www.bytedance.com) |  |
+| 2021 | Weijun Huang | Second-class Scholarship (2023) |  |
 
 ## Contact Information
 

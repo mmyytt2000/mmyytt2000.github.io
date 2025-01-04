@@ -4,11 +4,11 @@
 
 ## Latest News
 
-**Jan. 2024** &emsp; One patent of AI-assisted diagnosis for cervical OCT images was issued.
+**Dec. 2024** &emsp; One paper was accepted by IEEE ICASSP 2025, one paper was published by Elsevier CMIG, and two papers were presented in IEEE BIBM 2024.
 
-**Nov. 2023** &emsp; Congratulations to group members who won their scholarship.
+**Nov. 2024** &emsp; Congratulations to Qingbin Wang for defending his PhD dissertation.
 
-**Oct. 2023** &emsp; We won the grand prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race.
+**Nov. 2024** &emsp; Our group won the Silver Medal in the 14th "Challenge Cup" Chinese College Students Entrepreneurship Competition.
 
 ## Short Biography
 
@@ -43,6 +43,7 @@ Yutao Ma ([马于涛](http://faculty.ccnu.edu.cn/yutaoma)) is a Full Professor i
 - Member of the [IEEE Computer Society Technical Committee on Cloud Computing](https://tc.computer.org/tccld/)
 - Member of the CAAI Technical Committee on Artificial Intelligence with Uncertainty
 - Member of the CICC Technical Committee on Network Science and Engineering
+- Member of the CICC Technical Committee on Medicine-Engineering Integration
 
 ### Journal Services
 
@@ -58,12 +59,14 @@ Yutao Ma ([马于涛](http://faculty.ccnu.edu.cn/yutaoma)) is a Full Professor i
 - TPC Co-Chairs of [CollaborateCom 2016](https://collaboratecom.eai-conferences.org/2016/show/org-com.html) 
 - TPC Vice Chair of [SCC 2018](http://thescc.org/2018/organization.html)
 - Publication Chair: [APSCC 2014](http://grid.hust.edu.cn/apscc2014/index.html), CCF NCSC 2015, [S2 ICIOT 2016](http://iciot.org/2016/), [CNIS 2023](https://www.cnis-conf.org/)
-- Publicity Co-Chairs: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html)
+- Publicity Co-Chairs: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html), [IEEE SERVICES 2025](https://services.conferences.computer.org/2025/organizers/)
 
 ## Awards
 
 I have received a few notable international and domestic awards or prizes, including
 
+- Second Place in the [Enlarged Perivascular Spaces (EPVS) Segmentation Challenge at MICCAI2024](https://www.synapse.org/Synapse:syn54100278/wiki/626542), Mentor, 2024
+- Silver Medal in the 14th "Challenge Cup" Chinese College Students Entrepreneurship Competition, Instructor, the Central Committee of the Communist Youth League, 2024
 - Grand Prize in the [18th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works by Race](https://2023.tiaozhanbei.net/), Mentor, the Central Committee of the Communist Youth League, 2023
 - CCF-TCSC Distinguished Research Achievement Award, CCF Technical Committee on Services Computing, 2023
 - [IEEE Open Source Science Award](https://conferences.computer.org/services/2023/awards/), 2nd Contributor, [IEEE SERVICES 2023](https://conferences.computer.org/services/2023/), 2023
@@ -102,6 +105,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Biomedical Imaging and AI-based Applications
 
+- Qingbin Wang, Yuxuan Xiong, Hanfeng Zhu, Xuefeng Mu, Yan Zhang, and **Yutao Ma***. [Cervical OCT image classification using contrastive masked autoencoders with Swin Transformer](https://doi.org/10.1016/j.compmedimag.2024.102469). _Computerized Medical Imaging and Graphics_, 2024, 118: 102469. ([Code](https://github.com/ssea-lab/CMSwin))
 - Qingbin Wang, Kaiyi Chen, Wanrong Dou, and **Yutao Ma***. [Cross-Attention Based Multi-Resolution Feature Fusion Model for Self-Supervised Cervical OCT Image Classification](https://doi.org/10.1109/TCBB.2023.3246979). _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, 2023, 20(4): 2541-2554. ([Code](https://github.com/ssea-lab/transformer_OCT))
 - Kaiyi Chen, Qingbin Wang, and **Yutao Ma***. [Cervical Optical Coherence Tomography Image Classification Based on Contrastive Self-Supervised Texture Learning](https://doi.org/10.1002/mp.15630). _Medical Physics_, 2022, 49(6): 3638-3653. ([arXiv](https://arxiv.org/abs/2108.05081), [Code](https://github.com/whuchris/MIA-CTL))
   > Wei-Chien Wang, Euijoon Ahn, [Dagan Feng](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dagan-feng.html), and Jinman Kim. [A Review of Predictive and Contrastive Self-supervised Learning for Medical Images](https://doi.org/10.1007/s11633-022-1406-4). _Machine Intelligence Research_, 2023, 20(4): 483-513.
@@ -185,6 +189,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Bug Prediction and Triaging
 
+- Yingjie Jiang, Ran Mo*, Wenjing Zhan, Dongyu Wang, Zengyang Li, and **Yutao Ma**. [Leveraging Modular Architecture for Bug Characterization and Analysis in Automated Driving Software](https://doi.org/10.1145/3707455). _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3707455, 2024.
 - Hongrun Wu, **Yutao Ma***, Zhenglong Xiang, Chen Yang, and Keqing He. [A Spatial-Temporal Graph Neural Network Framework for Automated Software Bug Triaging](https://doi.org/10.1016/j.knosys.2022.108308). _Knowledge-Based Systems_, 2022, 241: 108308:1-108308:19. ([ResearchGate](https://www.researchgate.net/publication/358310418_A_spatial-temporal_graph_neural_network_framework_for_automated_software_bug_triaging?_sg%5B0%5D=KtRZYB3xmz7MBZ3UQyAkRKFIS_iL6mMeYmbocId56J56Qg61iezy-TtI45EUOezOjybXJhbdlH0Qi_J_UKLiaF5whpTwcLLn8hbS07C1.YXQKg7sTQ8DdtD_yE7oFYWest_pHZocnb16XHc0B-r5D_R7dU1nvJuQqGB0TYOcWoy2gvnPa4IQ_UxouyRE1-Q), [Code](https://github.com/ssea-lab/BugTriage/tree/master/GRCNN))
   > Naresh KumarNagwani and [Jasjit S.Surib](https://en.wikipedia.org/wiki/Jasjit_S._Suri). [An artificial intelligence framework on software bug triaging, technological evolution, and future challenges: A review](https://doi.org/10.1016/j.jjimei.2022.100153). _International Journal of Information Management Data Insights_, 2023, 3(1): 100153.
 - Feng Wang, Jinxiao Huang, and **Yutao Ma***. [A Top-k Learning to Rank Approach to Cross-Project Software Defect Prediction](https://ieeexplore.ieee.org/document/8719520). In _Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018)_, pp. 335-344, 2018. ([Dataset](https://github.com/ssea-lab/PROMISE))
@@ -231,6 +236,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Software Analytics based on Complex Networks
 
+- Weifeng Pan, Wei Wu, Hua Ming, Dae-Kyoo Kim, Zijiang Yang*, and **Yutao Ma**. [Towards the Fractal Dimension of Classes](https://doi.org/10.1145/3688844). _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3688844, 2024.
 - Weifeng Pan*, Bing Li, Jing Liu, **Yutao Ma**, and Bo Hu. [Analyzing the structure of Java software systems by weighted k-core decomposition](https://www.sciencedirect.com/science/article/pii/S0167739X17320940). _Future Generation Computer Systems_, 2018, 83: 431-444.
   > - Yixiu Kong, Guiyuan Shi, Ruijie Wu, and Yicheng Zhang. [_k_-core: Theories and applications](https://www.sciencedirect.com/science/article/abs/pii/S037015731930328X). _[Physics Reports](https://www.sciencedirect.com/journal/physics-reports)_, 2019, 832: 1-32.
   > - Yu Qu, Qinghua Zheng ([郑庆华院士](https://www.cae.cn/cae/html/main/colys/95010324.html)), Jianlei Chi, et al. [Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance](https://doi.org/10.1109/TSE.2019.2892959). _IEEE Transactions on Software Engineering_, 2021, 47(2): 348-366.
@@ -275,7 +281,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Introduction to Software Engineering: 2020 spring, 2021 spring, 2022 spring, 2023 spring
 - Software Design and Architecture: 2020 fall
 - Software Engineering Economics: 2020 fall, 2021 fall
-- Software Requirements Analysis and Modeling: 2023 fall
+- Software Requirements Analysis and Modeling: 2023 fall, 2024 fall
 
 ### For Graduate Students
 
@@ -326,4 +332,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2024-01-16</p>
+<p align="right">Last updated: 2025-01-04</p>

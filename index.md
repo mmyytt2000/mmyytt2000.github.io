@@ -222,7 +222,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Adil Mukhtar, Birgit Hofer, Dietmar Jannach, and [Franz Wotawa](http://www.ist.tugraz.at/franz_wotawa/). [Explaining software fault predictions to spreadsheet users](https://doi.org/10.1016/j.jss.2023.111676). _Journal of Systems and Software_, 2023, 201: 111676.
   > - Zhaoqiang Guo, Shiran Liu, Xutong Liu, et al. [Code-line-level bugginess identification: How far have we come, and how far have we yet to go?](https://doi.org/10.1145/3582572) _ACM Transactions on Software Engineering and Methodology_, 2023, 32(4): 102:1-102:55.
   > - N. C. Shrikanth and [Tim Menzies](https://timm.github.io/). [Assessing the Early Bird Heuristic (for Predicting Project Quality)](https://doi.org/10.1145/3583565). _ACM Transactions on Software Engineering and Methodology_, 2023, 32(5): 116:1–116:39.
-  > - Shaiful Chowdhury, Gias Uddin, Hadi Hemmati, and Reid Holmes. [Method-Level Bug Prediction: Problems and Promises](https://doi.org/10.1145/3640331). _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3640331, 2024.
+  > - Shaiful Chowdhury, Gias Uddin, Hadi Hemmati, and Reid Holmes. [Method-Level Bug Prediction: Problems and Promises](https://doi.org/10.1145/3640331). _ACM Transactions on Software Engineering and Methodology_, 2024, 33(4): 98:1-98:31.
 - Peng He, Bing Li, and **Yutao Ma**. [Towards Cross-Project Defect Prediction with Imbalanced Feature Sets](https://arxiv.org/abs/1411.4228). _Computing Research Repository (CoRR)_, arXiv: 1411.4228, 2014.
   > - Karl R. Weiss, Taghi M. Khoshgoftaar, and Dingding Wang. [A survey of transfer learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-016-0043-6). _Journal of Big Data_, 2016, 3: Art. no. 9.
   > - Steffen Herbold, Alexander Trautsch, and Jens Grabowski. [Global vs. local models for cross-project defect prediction - A replication study](https://link.springer.com/article/10.1007%2Fs10664-016-9468-y). _Empirical Software Engineering_, 2017, 22(4): 1866-1902.
@@ -290,7 +290,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 ## Students
 
 - Hanfeng Zhu (2022): Second-class Scholarship (2022), First-class Scholarship (2023, 2024), Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023), Silver Medal in the 14th "Challenge Cup" Chinese College Students Entrepreneurship Competition, National Scholarship for postgraduates (2024), One IEEE ICASSP 2025 paper
-- Mi Yin (2023): First-class Scholarship (2023), Entrance Scholarship (2023), Second-class Scholarship (2024), One IEEE BIBM 2024 paper
+- Mi Yin (2023): First-class Scholarship (2023), Entrance Scholarship (2023), Second-class Scholarship (2024), One IEEE BIBM 2024 paper, IEEE BIBM 2024 Student Travel Award
 - Jingyuan Chen (2023): Second-class Scholarship (2023), First-class Scholarship (2024)
 - Qibo Li (2023): Second-class Scholarship (2023), First-class Scholarship (2024)
 - Yi Qu (2024): Second-class Scholarship (2024), Entrance Scholarship (2024)

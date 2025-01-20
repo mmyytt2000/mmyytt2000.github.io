@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Jan. 2025** &emsp; One paper was accepted by ACM TOSEM.
+
 **Dec. 2024** &emsp; One paper was accepted by IEEE ICASSP 2025, one paper was published by Elsevier CMIG, and two papers were presented in IEEE BIBM 2024.
 
 **Nov. 2024** &emsp; Congratulations to Qingbin Wang for defending his PhD dissertation.
-
-**Nov. 2024** &emsp; Our group won the Silver Medal in the 14th "Challenge Cup" Chinese College Students Entrepreneurship Competition.
 
 ## Short Biography
 
@@ -58,7 +58,7 @@ Yutao Ma ([马于涛](http://faculty.ccnu.edu.cn/yutaoma)) is a Full Professor i
 - General Co-Chairs of [CCF NCSC 2023](https://ccf.org.cn/service2023/org_3011)
 - TPC Co-Chairs of [CollaborateCom 2016](https://collaboratecom.eai-conferences.org/2016/show/org-com.html) 
 - TPC Vice Chair of [SCC 2018](http://thescc.org/2018/organization.html)
-- Publication Chair: [APSCC 2014](http://grid.hust.edu.cn/apscc2014/index.html), CCF NCSC 2015, [S2 ICIOT 2016](http://iciot.org/2016/), [CNIS 2023](https://www.cnis-conf.org/)
+- Publication Chair: [APSCC 2014](http://grid.hust.edu.cn/apscc2014/index.html), CCF NCSC 2015, [S2 ICIOT 2016](http://iciot.org/2016/), [CNIS 2023](https://www.cnis-conf.org/), [CCF ICSS 2025](https://ccf.org.cn/ICSS2025)
 - Publicity Co-Chairs: [CCF NCSC 2016](http://www.cmsci.com.cn/ncsc2016/huiyizuzhi.html), [IEEE SERVICES 2025](https://services.conferences.computer.org/2025/organizers/)
 
 ## Awards
@@ -189,6 +189,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Bug Prediction and Triaging
 
+- Ran Mo, Dongyu Wang, Wenjing Zhan, Yingjie Jiang, Yepeng Wang, Yuqi Zhao, Zengyang Li, and **Yutao Ma**. Assessing and Analyzing the Correctness of GitHub Copilot’s Code Suggestions. _ACM Transactions on Software Engineering and Methodology_, 2025. (Accept)
 - Yingjie Jiang, Ran Mo*, Wenjing Zhan, Dongyu Wang, Zengyang Li, and **Yutao Ma**. [Leveraging Modular Architecture for Bug Characterization and Analysis in Automated Driving Software](https://doi.org/10.1145/3707455). _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3707455, 2024.
 - Hongrun Wu, **Yutao Ma***, Zhenglong Xiang, Chen Yang, and Keqing He. [A Spatial-Temporal Graph Neural Network Framework for Automated Software Bug Triaging](https://doi.org/10.1016/j.knosys.2022.108308). _Knowledge-Based Systems_, 2022, 241: 108308:1-108308:19. ([ResearchGate](https://www.researchgate.net/publication/358310418_A_spatial-temporal_graph_neural_network_framework_for_automated_software_bug_triaging?_sg%5B0%5D=KtRZYB3xmz7MBZ3UQyAkRKFIS_iL6mMeYmbocId56J56Qg61iezy-TtI45EUOezOjybXJhbdlH0Qi_J_UKLiaF5whpTwcLLn8hbS07C1.YXQKg7sTQ8DdtD_yE7oFYWest_pHZocnb16XHc0B-r5D_R7dU1nvJuQqGB0TYOcWoy2gvnPa4IQ_UxouyRE1-Q), [Code](https://github.com/ssea-lab/BugTriage/tree/master/GRCNN))
   > Naresh KumarNagwani and [Jasjit S.Surib](https://en.wikipedia.org/wiki/Jasjit_S._Suri). [An artificial intelligence framework on software bug triaging, technological evolution, and future challenges: A review](https://doi.org/10.1016/j.jjimei.2022.100153). _International Journal of Information Management Data Insights_, 2023, 3(1): 100153.
@@ -319,7 +320,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Jinxiao Huang | Special Scholarship (2019)<br>Second-class Scholarship (2018, 2019) | [Xiaomi](https://www.mi.com/) |
 | 2018 | Hao Sun | Special Scholarship (2020)<br>First-class Scholarship (2019, 2020)<br>One [IEEE JBHI paper](https://doi.org/10.1109/JBHI.2019.2944977) | [Tencent](https://www.tencent.com) |
 | 2018 | Xiao Geng | One [IEEE TEM paper](https://doi.org/10.1109/TEM.2019.2961376)<br>One issued patent (ZL202011359895.X)<br>One [CAAI TRIT paper](http://doi.org/10.1049/cit2.12135) | [Kuaishou](https://www.kuaishou.com) |
-| 2018 | Qingbin Wang | Second-class Scholarship (2019, 2023)<br>One [IEEE/ACM TCBB paper](https://doi.org/10.1109/TCBB.2023.3246979)<br>One [MICCAI 2024 paper](https://doi.org/10.1007/978-3-031-72384-1_36) |  |
+| 2018 | Qingbin Wang | Second-class Scholarship (2019, 2023)<br>One [IEEE/ACM TCBB paper](https://doi.org/10.1109/TCBB.2023.3246979)<br>One [MICCAI 2024 paper](https://doi.org/10.1007/978-3-031-72384-1_36) | Wuhan University (Postdoctoral Fellow) |
 | 2019 | Qinyi Yu | Second-class Scholarship (2020)<br>One issued patent (ZL202110268171.2) | [Tencent](https://www.tencent.com) |
 | 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
 | 2019 | Wanrong Dou | Entrance Scholarship (2019)<br>First-class Scholarship (2020)<br>One issued patent (ZL202011343939.X) | National Centre for Computer Network and Information Security Management |
@@ -335,4 +336,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2025-01-04</p>
+<p align="right">Last updated: 2025-01-20</p>

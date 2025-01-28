@@ -208,7 +208,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Bug Prediction and Triaging
 
-- Ran Mo, Dongyu Wang, Wenjing Zhan, Yingjie Jiang, Yepeng Wang, Yuqi Zhao, Zengyang Li, and **Yutao Ma**. Assessing and Analyzing the Correctness of GitHub Copilot’s Code Suggestions. _ACM Transactions on Software Engineering and Methodology_, 2025. (Accept)
+- Ran Mo, Dongyu Wang, Wenjing Zhan, Yingjie Jiang, Yepeng Wang, Yuqi Zhao, Zengyang Li, and **Yutao Ma**. [Assessing and Analyzing the Correctness of GitHub Copilot’s Code Suggestions](https://doi.org/10.1145/3715108). _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3715108, 2025.
 - Yingjie Jiang, Ran Mo*, Wenjing Zhan, Dongyu Wang, Zengyang Li, and **Yutao Ma**. [Leveraging Modular Architecture for Bug Characterization and Analysis in Automated Driving Software](https://doi.org/10.1145/3707455). _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3707455, 2024.
 - Hongrun Wu, **Yutao Ma***, Zhenglong Xiang, Chen Yang, and Keqing He. [A Spatial-Temporal Graph Neural Network Framework for Automated Software Bug Triaging](https://doi.org/10.1016/j.knosys.2022.108308). _Knowledge-Based Systems_, 2022, 241: 108308:1-108308:19. ([ResearchGate](https://www.researchgate.net/publication/358310418_A_spatial-temporal_graph_neural_network_framework_for_automated_software_bug_triaging?_sg%5B0%5D=KtRZYB3xmz7MBZ3UQyAkRKFIS_iL6mMeYmbocId56J56Qg61iezy-TtI45EUOezOjybXJhbdlH0Qi_J_UKLiaF5whpTwcLLn8hbS07C1.YXQKg7sTQ8DdtD_yE7oFYWest_pHZocnb16XHc0B-r5D_R7dU1nvJuQqGB0TYOcWoy2gvnPa4IQ_UxouyRE1-Q), [Code](https://github.com/ssea-lab/BugTriage/tree/master/GRCNN))
   > Naresh KumarNagwani and [Jasjit S.Surib](https://en.wikipedia.org/wiki/Jasjit_S._Suri). [An artificial intelligence framework on software bug triaging, technological evolution, and future challenges: A review](https://doi.org/10.1016/j.jjimei.2022.100153). _International Journal of Information Management Data Insights_, 2023, 3(1): 100153.
@@ -262,7 +262,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Software Analytics based on Complex Networks
 
-- Weifeng Pan, Wei Wu, Hua Ming, Dae-Kyoo Kim, Zijiang Yang*, and **Yutao Ma**. [Towards the Fractal Dimension of Classes](https://doi.org/10.1145/3688844). _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3688844, 2024.
+- Weifeng Pan, Wei Wu, Hua Ming, Dae-Kyoo Kim, Zijiang Yang*, and **Yutao Ma**. [Towards the Fractal Dimension of Classes](https://doi.org/10.1145/3688844). _ACM Transactions on Software Engineering and Methodology_, 2025, 34(2): 30:1-30:50.
 - Weifeng Pan*, Bing Li, Jing Liu, **Yutao Ma**, and Bo Hu. [Analyzing the structure of Java software systems by weighted k-core decomposition](https://www.sciencedirect.com/science/article/pii/S0167739X17320940). _Future Generation Computer Systems_, 2018, 83: 431-444.
   > - Yixiu Kong, Guiyuan Shi, Ruijie Wu, and Yicheng Zhang. [_k_-core: Theories and applications](https://www.sciencedirect.com/science/article/abs/pii/S037015731930328X). _[Physics Reports](https://www.sciencedirect.com/journal/physics-reports)_, 2019, 832: 1-32.
   > - Yu Qu, Qinghua Zheng ([郑庆华院士](https://www.cae.cn/cae/html/main/colys/95010324.html)), Jianlei Chi, et al. [Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance](https://doi.org/10.1109/TSE.2019.2892959). _IEEE Transactions on Software Engineering_, 2021, 47(2): 348-366.
@@ -365,4 +365,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2025-01-20</p>
+<p align="right">Last updated: 2025-01-28</p>

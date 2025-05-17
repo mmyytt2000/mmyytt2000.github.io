@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**May  2024** &emsp; One paper was accepted by IEEE ICWS 2025.
+
 **Jan. 2025** &emsp; One paper was accepted by ACM TOSEM.
 
 **Dec. 2024** &emsp; One paper was accepted by IEEE ICASSP 2025, one paper was published by Elsevier CMIG, and two papers were presented in IEEE BIBM 2024.
-
-**Nov. 2024** &emsp; Congratulations to Qingbin Wang for defending his PhD dissertation.
 
 ## Short Biography
 
@@ -147,6 +147,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Denzel Faulkner, Marien Ochoa, Navid Ibtehaj Nizam, Shan Gao, and [Xavier Intes](https://faculty.rpi.edu/node/35940). [Diffuse Fluorescence Tomography](https://doi.org/10.1063/9780735423794_011). In book: Biomedical Optical Imaging: From Nanoscopy to Tomography, Chapter 11. AIP Publishing, Melville, New York, 2021.
   > - Min Woo Lee, Namseon Jang, Nara Choi, et al. [In Vivo Cellular-Level 3D Imaging of Peripheral Nerves Using a Dual-Focusing Technique for Intra-Neural Interface Implantation](https://doi.org/10.1002/advs.202102876). _Advanced Science_, 2022, 9(3): 2102876.
   > - Karol Karnowski, Jadwiga Milkiewicz, Angela Pachacz, Andrea Curatolo, Onur Cetinkaya, Rafal Pietruch, Piotr Ciacka, Ashkan Eliasy, Ahmed Abass, Ahmed Elsheikh, [Susana Marcos](https://www.urmc.rochester.edu/people/112362803-susana-marcos), and [Maciej Wojtkowski](https://en.wikipedia.org/wiki/Maciej_Wojtkowski). [Air puff-coupled multi-spot OCT for assessment of asymmetries in corneal biomechanics](https://doi.org/10.1117/12.2609511). _Proceedings of SPIE_, 2022, 11941: 119410U.
+  > - Yongmin Jung, Natasha Vukovic, Christophe A. Codemard, [Michalis N. Zervas](https://zepler.soton.ac.uk/people/mnz%20). [High-efficiency multi-spot beam generation with an all-fiber SMF-SCF structure](https://doi.org/10.1364/OE.554649). _Optics Express_, 2025, 33(10): 21951-21960.
 
 ### Service Recommendation and Service-based System Development
 
@@ -367,4 +368,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2025-04-25</p>
+<p align="right">Last updated: 2025-05-17</p>

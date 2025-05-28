@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**May  2024** &emsp; Congratulations! Hanfeng Zhu defended his master thesis.
+
 **May  2024** &emsp; One paper was accepted by IEEE ICWS 2025.
 
 **Jan. 2025** &emsp; One paper was accepted by ACM TOSEM.
-
-**Dec. 2024** &emsp; One paper was accepted by IEEE ICASSP 2025, one paper was published by Elsevier CMIG, and two papers were presented in IEEE BIBM 2024.
 
 ## Short Biography
 
@@ -325,7 +325,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Hanfeng Zhu (2022): Second-class Scholarship (2022), First-class Scholarship (2023, 2024), Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023), Silver Medal in the 14th "Challenge Cup" Chinese College Students Entrepreneurship Competition, National Scholarship for postgraduates (2024), One IEEE ICASSP 2025 paper
 - Mi Yin (2023): First-class Scholarship (2023), Entrance Scholarship (2023), Second-class Scholarship (2024), One IEEE BIBM 2024 paper, IEEE BIBM 2024 Student Travel Award
 - Jingyuan Chen (2023): Second-class Scholarship (2023), First-class Scholarship (2024)
-- Qibo Li (2023): Second-class Scholarship (2023), First-class Scholarship (2024)
+- Qibo Li (2023): Second-class Scholarship (2023), First-class Scholarship (2024), One IEEE ICWS 2025 paper
 - Yi Qu (2024): Second-class Scholarship (2024), Entrance Scholarship (2024)
 - Yubiao Yao (2024): First-class Scholarship (2024), Entrance Scholarship (2024)
 - Sheng Tu (2024): Second-class Scholarship (2024)
@@ -368,4 +368,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2025-05-17</p>
+<p align="right">Last updated: 2025-05-27</p>

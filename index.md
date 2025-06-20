@@ -352,7 +352,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2017 | Jinxiao Huang | Special Scholarship (2019)<br>Second-class Scholarship (2018, 2019) | [Xiaomi](https://www.mi.com/) |
 | 2018 | Hao Sun | Special Scholarship (2020)<br>First-class Scholarship (2019, 2020)<br>One [IEEE JBHI paper](https://doi.org/10.1109/JBHI.2019.2944977) | [Tencent](https://www.tencent.com) |
 | 2018 | Xiao Geng | One [IEEE TEM paper](https://doi.org/10.1109/TEM.2019.2961376)<br>One issued patent (ZL202011359895.X)<br>One [CAAI TRIT paper](http://doi.org/10.1049/cit2.12135) | [Kuaishou](https://www.kuaishou.com) |
-| 2018 | Qingbin Wang | Second-class Scholarship (2019, 2023)<br>One [IEEE/ACM TCBB paper](https://doi.org/10.1109/TCBB.2023.3246979)<br>One [MICCAI 2024 paper](https://doi.org/10.1007/978-3-031-72384-1_36) | [Wuhan University](https://www.whu.edu.cn/) (Postdoctoral Fellow) |
+| 2018 | Qingbin Wang | Second-class Scholarship (2019, 2023)<br>One [IEEE/ACM TCBB paper](https://doi.org/10.1109/TCBB.2023.3246979)<br>One [MICCAI 2024 paper](https://doi.org/10.1007/978-3-031-72384-1_36)<br>One ACM TECS paper | [Wuhan University](https://www.whu.edu.cn/) (Postdoctoral Fellow) |
 | 2019 | Qinyi Yu | Second-class Scholarship (2020)<br>One issued patent (ZL202110268171.2) | [Tencent](https://www.tencent.com) |
 | 2019 | Siqin Yang |  | [China Construction Bank Corporation](https://www.ccb.com) |
 | 2019 | Wanrong Dou | Entrance Scholarship (2019)<br>First-class Scholarship (2020)<br>One issued patent (ZL202011343939.X) | National Centre for Computer Network and Information Security Management |

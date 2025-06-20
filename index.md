@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**June 2025** &emsp; One paper was accepted by ACM TECS.
+
 **May  2024** &emsp; Congratulations! Hanfeng Zhu defended his master thesis.
 
 **May  2024** &emsp; One paper was accepted by IEEE ICWS 2025.
-
-**Jan. 2025** &emsp; One paper was accepted by ACM TOSEM.
 
 ## Short Biography
 
@@ -105,6 +105,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Biomedical Imaging and AI-based Applications
 
+- Qingbin Wang, Yuchen Pei, Wai Chon Wong, Xuefeng Mu, Yan Zhang*, and **Yutao Ma***. Activation Map-based Knowledge Distillation for Real-time Cervical OCT Image Classification. _ACM Transactions on Embedded Computing Systems_, 2025. (accepted)
 - Qingbin Wang, Yuxuan Xiong, Hanfeng Zhu, Xuefeng Mu, Yan Zhang, and **Yutao Ma***. [Cervical OCT image classification using contrastive masked autoencoders with Swin Transformer](https://doi.org/10.1016/j.compmedimag.2024.102469). _Computerized Medical Imaging and Graphics_, 2024, 118: 102469. ([Code](https://github.com/ssea-lab/CMSwin))
 - Qingbin Wang, Kaiyi Chen, Wanrong Dou, and **Yutao Ma***. [Cross-Attention Based Multi-Resolution Feature Fusion Model for Self-Supervised Cervical OCT Image Classification](https://doi.org/10.1109/TCBB.2023.3246979). _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, 2023, 20(4): 2541-2554. ([Code](https://github.com/ssea-lab/transformer_OCT))
 - Kaiyi Chen, Qingbin Wang, and **Yutao Ma***. [Cervical Optical Coherence Tomography Image Classification Based on Contrastive Self-Supervised Texture Learning](https://doi.org/10.1002/mp.15630). _Medical Physics_, 2022, 49(6): 3638-3653. ([arXiv](https://arxiv.org/abs/2108.05081), [Code](https://github.com/whuchris/MIA-CTL))
@@ -322,7 +323,6 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ## Students
 
-- Hanfeng Zhu (2022): Second-class Scholarship (2022), First-class Scholarship (2023, 2024), Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023), Silver Medal in the 14th "Challenge Cup" Chinese College Students Entrepreneurship Competition, National Scholarship for postgraduates (2024), One IEEE ICASSP 2025 paper
 - Mi Yin (2023): First-class Scholarship (2023), Entrance Scholarship (2023), Second-class Scholarship (2024), One IEEE BIBM 2024 paper, IEEE BIBM 2024 Student Travel Award
 - Jingyuan Chen (2023): Second-class Scholarship (2023), First-class Scholarship (2024)
 - Qibo Li (2023): Second-class Scholarship (2023), First-class Scholarship (2024), One IEEE ICWS 2025 paper
@@ -361,6 +361,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 | 2021 | Xiaoyang Chen | Second-class Scholarship (2022) | [Baidu](https://www.baidu.com/) |
 | 2021 | Zesheng Wang | Second-class Scholarship (2022)<br>One [ACM TWEB paper](https://doi.org/10.1145/3626569) | [ByteDance](https://www.bytedance.com) |  |
 | 2021 | Weijun Huang | Second-class Scholarship (2023) |  |
+| 2022 | Hanfeng Zhu  | Second-class Scholarship (2022)<br>First-class Scholarship (2023, 2024)<br>Grand Prize in the 18th “Challenge Cup” National Undergraduate Curricular Academic Science and Technology Works by Race (2023)<br>Silver Medal in the 14th "Challenge Cup" Chinese College Students Entrepreneurship Competition (2024)<br>National Scholarship for postgraduates (2024) | [China Energy Investment Corporation Co., Ltd.](https://www.ceic.com/) |
 
 ## Contact Information
 
@@ -368,4 +369,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2025-05-27</p>
+<p align="right">Last updated: 2025-06-20</p>

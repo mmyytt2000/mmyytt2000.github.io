@@ -4,11 +4,11 @@
 
 ## Latest News
 
+**Sep. 2025** &emsp; One paper was accepted by Wiley SPE.
+
 **June 2025** &emsp; One paper was accepted by ACM TECS.
 
 **May  2024** &emsp; Congratulations! Hanfeng Zhu defended his master thesis.
-
-**May  2024** &emsp; One paper was accepted by IEEE ICWS 2025.
 
 ## Short Biography
 
@@ -34,6 +34,7 @@ Yutao Ma ([马于涛](http://faculty.ccnu.edu.cn/yutaoma)) is a Full Professor i
 - Senior member of the [IEEE](https://www.ieee.org/), [IEEE Computer Society](https://www.computer.org/), and [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/)
 - Senior member of the Chinese Institute of Command and Control ([CICC](http://www.c2.org.cn/))
 - Member of the Chinese Association for Artificial Intelligence ([CAAI](http://www.caai.cn/))
+- Member of the Chinese Association of Automation ([CAA](https://www.cac.org.cn/))
 
 ### Technical Committee Membership
 
@@ -44,6 +45,7 @@ Yutao Ma ([马于涛](http://faculty.ccnu.edu.cn/yutaoma)) is a Full Professor i
 - Member of the CAAI Technical Committee on Artificial Intelligence with Uncertainty
 - Member of the CICC Technical Committee on Network Science and Engineering
 - Member of the CICC Technical Committee on Medicine-Engineering Integration
+- Member of the CAA Technical Committee on Network Computing
 
 ### Journal Services
 
@@ -105,7 +107,7 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Biomedical Imaging and AI-based Applications
 
-- Qingbin Wang, Yuchen Pei, Wai Chon Wong, Xuefeng Mu, Yan Zhang*, and **Yutao Ma***. [Activation Map-based Knowledge Distillation for Real-time Cervical OCT Image Classification](http://dx.doi.org/10.1145/3746229). _ACM Transactions on Embedded Computing Systems_, DOI: 10.1145/3746229, 2025.
+- Qingbin Wang, Yuchen Pei, Wai Chon Wong, Xuefeng Mu, Yan Zhang*, and **Yutao Ma***. [Activation Map-based Knowledge Distillation for Real-time Cervical OCT Image Classification](http://dx.doi.org/10.1145/3746229). _ACM Transactions on Embedded Computing Systems_, 2025, 24(4): 62:1-62:27. ([Code](https://github.com/ssea-lab/AMKD))
 - Qingbin Wang, Yuxuan Xiong, Hanfeng Zhu, Xuefeng Mu, Yan Zhang, and **Yutao Ma***. [Cervical OCT image classification using contrastive masked autoencoders with Swin Transformer](https://doi.org/10.1016/j.compmedimag.2024.102469). _Computerized Medical Imaging and Graphics_, 2024, 118: 102469. ([Code](https://github.com/ssea-lab/CMSwin))
 - Qingbin Wang, Kaiyi Chen, Wanrong Dou, and **Yutao Ma***. [Cross-Attention Based Multi-Resolution Feature Fusion Model for Self-Supervised Cervical OCT Image Classification](https://doi.org/10.1109/TCBB.2023.3246979). _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, 2023, 20(4): 2541-2554. ([Code](https://github.com/ssea-lab/transformer_OCT))
 - Kaiyi Chen, Qingbin Wang, and **Yutao Ma***. [Cervical Optical Coherence Tomography Image Classification Based on Contrastive Self-Supervised Texture Learning](https://doi.org/10.1002/mp.15630). _Medical Physics_, 2022, 49(6): 3638-3653. ([arXiv](https://arxiv.org/abs/2108.05081), [Code](https://github.com/whuchris/MIA-CTL))
@@ -118,9 +120,9 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
   > - Mahnaz Mohammadi, Jessica Cooper, Ognjen Arandelović, et al. [Weakly supervised learning and interpretability for endometrial whole slide image diagnosis](https://doi.org/10.1177/15353702221126560). _Experimental Biology and Medicine_, 2022, 247(22): 2025-2037. 
   > - Emma Rewcastle, Einar Gudlaugsson, Melinda Lillesand, Ivar Skaland, Jan P.A. Baak, and Emiel A.M. Janssen. [Automated Prognostic Assessment of Endometrial Hyperplasia for Progression Risk Evaluation Using Artificial Intelligence](https://doi.org/10.1016/j.modpat.2023.100116). _Modern Pathology_, 2023, 36(5): 100116.
   > - Xiang Li, Minglei Li, Pengfei Yan, Guanyi Li, Yuchen Jiang, Hao Luo, and [Shen Yin](https://www.ntnu.edu/employees/sheny). [Deep Learning Attention Mechanism in Medical Image Analysis: Basics and Beyonds](https://doi.org/10.53941/ijndi0201006). _International Journal of Network Dynamics and Intelligence_, 2023, 2(1): 93–116.
-  > - Md Imran Hossain, Ghada Zamzmi, Peter R. Mouton, Md Sirajus Salekin, Yu Sun, and [Dmitry Goldgof](https://www.usf.edu/engineering/cse/people/goldgof-dmitry.aspx). [Explainable AI for Medical Data: Current Methods, Limitations, and Future Directions](https://doi.org/10.1145/3637487). _ACM Computing Surveys_, DOI: 10.1145/3637487, 2023.
   > - Sanne Vermorgen, Thijs Gelton, Peter Bult, et al. [Endometrial Pipelle Biopsy Computer-Aided Diagnosis: A Feasibility Study](https://doi.org/10.1016/j.modpat.2023.100417). _Modern Pathology_, 2024, 37(2): 100417.
   > - Clare McGenity, Emily L. Clarke, Charlotte Jennings, et al. [Artificial intelligence in digital pathology: a systematic review and meta-analysis of diagnostic test accuracy](https://doi.org/10.1038/s41746-024-01106-8). _npj Digital Medicine_, 2024, 7: 114.
+  > - Md Imran Hossain, Ghada Zamzmi, Peter R. Mouton, Md Sirajus Salekin, Yu Sun, and [Dmitry Goldgof](https://www.usf.edu/engineering/cse/people/goldgof-dmitry.aspx). [Explainable AI for Medical Data: Current Methods, Limitations, and Future Directions](https://doi.org/10.1145/3637487). _ACM Computing Surveys_, 2025, 57(6): 148:1-148:46.
 - **Yutao Ma#**, Tao Xu#, Xiaolei Huang, Xiaofang Wang, Canyu Li, Jason Jerwick, Yuan Ning, Xianxu Zeng, Baojin Wang, Yihong Wang, Zhan Zhang, Xiaoan Zhang, and Chao Zhou*. [Computer-Aided Diagnosis of Label-Free 3-D Optical Coherence Microscopy Images of Human Cervical Tissue](https://ieeexplore.ieee.org/document/8598821). _IEEE Transactions on Biomedical Engineering_, 2019, 66(9): 2447-2456.
   > - Yifeng Zeng, Shiqi Xu, William C. Chapman, Shuying Li, Zahra Alipour, Heba Abdelal, Deyali Chatterjee, Matthew Mutch, and [Quing Zhu](https://engineering.wustl.edu/faculty/Quing-Zhu.html). [Real-time colorectal cancer diagnosis using PR-OCT with deep learning](https://doi.org/10.1364/OCT.2020.OW2E.5). In _Proceedings of the 2020 Conference on Optical Coherence Tomography (OCT 2020)_, Washington, DC United States, 20–23 April, 2020, p. OW2E.5.
   > - Sheetal Prusty, Lingraj Dora, Rutuparna Panda, Sanjay Agrawal, [Ajith Abraham](https://www.softcomputing.net/). [Molecular imaging analysis in cancer using deep learning: a review](https://doi.org/10.1007/s42600-023-00301-y). _ Research on Biomedical Engineering _, 2023, 39: 1015–1032.
@@ -212,7 +214,8 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 
 ### Bug Prediction and Triaging
 
-- Ran Mo, Dongyu Wang, Wenjing Zhan, Yingjie Jiang, Yepeng Wang, Yuqi Zhao, Zengyang Li, and **Yutao Ma**. [Assessing and Analyzing the Correctness of GitHub Copilot’s Code Suggestions](https://doi.org/10.1145/3715108). _ACM Transactions on Software Engineering and Methodology_, DOI: 10.1145/3715108, 2025.
+- Shiyu He, Yuqi Zhao, Qibo Li, and **Yutao Ma***. RGPRec: A RAG-enhanced GNN for Personalized Task Recommendations in Open-source Communities. _Software: Practice and Experience_, DOI: 10.1002/spe.70022, 2025. ([Code](https://github.com/ssea-lab/RGPRec))
+- Ran Mo, Dongyu Wang, Wenjing Zhan, Yingjie Jiang, Yepeng Wang, Yuqi Zhao, Zengyang Li, and **Yutao Ma**. [Assessing and Analyzing the Correctness of GitHub Copilot’s Code Suggestions](https://doi.org/10.1145/3715108). _ACM Transactions on Software Engineering and Methodology_, 2025, 34(7): 194:1-194:32.
 - Yingjie Jiang, Ran Mo*, Wenjing Zhan, Dongyu Wang, Zengyang Li, and **Yutao Ma**. [Leveraging Modular Architecture for Bug Characterization and Analysis in Automated Driving Software](https://doi.org/10.1145/3707455). _ACM Transactions on Software Engineering and Methodology_, 2025, 34(4): 114:1-114:31.
 - Hongrun Wu, **Yutao Ma***, Zhenglong Xiang, Chen Yang, and Keqing He. [A Spatial-Temporal Graph Neural Network Framework for Automated Software Bug Triaging](https://doi.org/10.1016/j.knosys.2022.108308). _Knowledge-Based Systems_, 2022, 241: 108308:1-108308:19. ([ResearchGate](https://www.researchgate.net/publication/358310418_A_spatial-temporal_graph_neural_network_framework_for_automated_software_bug_triaging?_sg%5B0%5D=KtRZYB3xmz7MBZ3UQyAkRKFIS_iL6mMeYmbocId56J56Qg61iezy-TtI45EUOezOjybXJhbdlH0Qi_J_UKLiaF5whpTwcLLn8hbS07C1.YXQKg7sTQ8DdtD_yE7oFYWest_pHZocnb16XHc0B-r5D_R7dU1nvJuQqGB0TYOcWoy2gvnPa4IQ_UxouyRE1-Q), [Code](https://github.com/ssea-lab/BugTriage/tree/master/GRCNN))
   > Naresh KumarNagwani and [Jasjit S.Surib](https://en.wikipedia.org/wiki/Jasjit_S._Suri). [An artificial intelligence framework on software bug triaging, technological evolution, and future challenges: A review](https://doi.org/10.1016/j.jjimei.2022.100153). _International Journal of Information Management Data Insights_, 2023, 3(1): 100153.
@@ -315,11 +318,12 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 - Introduction to Software Engineering: 2020 spring, 2021 spring, 2022 spring, 2023 spring
 - Software Design and Architecture: 2020 fall
 - Software Engineering Economics: 2020 fall, 2021 fall
-- Software Requirements Analysis and Modeling: 2023 fall, 2024 fall
+- Software Requirements Analysis and Modeling: 2023 fall, 2024 fall, 2025 fall
 
 ### For Graduate Students
 
 - Services Computing and Software Service Engineering: 2016 spring, 2017 spring, 2018 spring, 2018 fall, 2019 fall, 2020 fall, 2021 fall
+- Program Design Patterns and Frameworks: 2025 fall
 
 ## Students
 
@@ -369,4 +373,4 @@ Here \# denotes who contributed equally to the work, and \* means the correspond
 **E-mail:** <ytma@ccnu.edu.cn> or <ytma@whu.edu.cn>  
 
 ---------
-<p align="right">Last updated: 2025-06-20</p>
+<p align="right">Last updated: 2025-09-02</p>
